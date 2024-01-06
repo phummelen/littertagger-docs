@@ -48,22 +48,13 @@ plugins:
 
 nav:
 - Welkom: index.md
-- Van afval tot data, stap voor stap: first-steps.md
-- Hoe te taggen:
-  - Voorbeelden van gevonden zwerfafval en hoe te taggen: tagging-examples.md
-  - Custom Tags: custom-tags.md
-- Tips en sneltoetsen: tips.md
-- Data:
-  - Invoeren: first-steps.md
-  - Downloaden: download.md
-- Evenementen:
-  - waar je bij kunt helpen: events.md
-  - die je kunt aanmaken: cleanups.md
-- De community:
-  - Wekelijkse meetup en notulen: meetup.md
-  - Melden van mogelijke fouten: issues.md
-- Succesverhalen: success-stories.md
-- Veel gestelde vragen: faq.md
-- Andere informatiebronnen: other-sources.md
-- Contact: contact.md
-- Versies: releases.md
+- Onze missie en visie: 05_Mission-Vision.md
+- Aanmaken user en profiel vullen: 10_Prodile.md
+- Het nemen van foto's: 20_Taking-Pictures.md
+- Het uploaden van foto's: 30_Uploading-Pictures.md
+- Het taggen van foto's: 40_Tagging-Pictures.md
+- Evenementen: 50_Events.md
+- Tagging-voorbeelden: 90_Tagging-examples.md
+- Bevindingen melden: 90_Issues.md
+- Veel Gestelde Vragen (FAQ): 90_Faq.md
+- Contact: 90_Contact.md
