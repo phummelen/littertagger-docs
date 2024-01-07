@@ -10,3 +10,6 @@ The other scripts are there for special purposes.<br />
 <br />
 `sh start.sh` to start
 `sh stop.sh` to stop
+
+### To build web
+docker build --rm -t phummelen/hero-web:latest -f deployment/web-dev.dockerfile .
