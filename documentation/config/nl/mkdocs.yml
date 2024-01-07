@@ -49,6 +49,7 @@ plugins:
 nav:
 - Welkom: index.md
 - Onze missie en visie: 05_Mission-Vision.md
+- Wie zijn we: 08_Who-Are-We.md
 - Aanmaken user en profiel vullen: 10_Prodile.md
 - Het nemen van foto's: 20_Taking-Pictures.md
 - Het uploaden van foto's: 30_Uploading-Pictures.md
@@ -58,4 +59,5 @@ nav:
 - Bevindingen melden: 90_Issues.md
 - Veel Gestelde Vragen (FAQ): 90_Faq.md
 - Contact: 90_Contact.md
+- Support: 95_Support.md
 - Functionality (in detail)/TestPlan: 99_Functionality Manual Testplan.md
