@@ -25,6 +25,7 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - het is mogelijk een profiel-foto toe te voegen, op dit moment mag hij echter niet groter zijn dan 1024kb
 - het is mogelijk om de profiel-foto weer te verwijderen
 - het is mogelijk om aan te geven of je afval wel of niet opraapt. (Per foto of item kan je dat ook nog wijzigen)
+- het is mogelijk om aan te geven of je afval wel of niet recycled. (Per foto of item kan je dat ook nog wijzigen)
 - 
 
 ## Foto's uploaden
@@ -49,6 +50,7 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - je kan naar een specifieke pagina gaan (is dat zo?)
 - je kan naar vorige/volgende of naar 1e/laatste (is dat zo?)
 - als je een of meerdere foto's van kenmerken hebt voorzien, dan staat er een label-icoontje op die foto
+- elke foto in 'my photos' is voorzien van een prullenbak, daarmee kan je de foto verwijderen
 
 ## Donker of licht scherm
 - het is mogelijk om te switchen naar Dark-mode
@@ -59,15 +61,18 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - een foto die net geupload is, heeft nog geen kenmerken
 - de lijst van objecten waaruit je kan kiezen staat op alf. volgorde, de eerste wordt standaard getoond
 - het is mogelijk om een waarde te kiezen door de lijst door te scrollen en een keuze te maken
-- het is mogelijk om een waarde te kiezen door de beginletters ervan te tikken en te selecteren met muis, of Enter
+- het is mogelijk om een waarde te kiezen door letters te tikken, de waarden die daaraan voldoen, worden getoond. Dit kan zowel voor het item, het materiaal, het merk en/of het evenement
 - het is mogelijk om meer dan 1 item te kiezen voor 1 foto (1 foto met meerdere verschillende soorten items)
 - het is mogelijk om hetzelfde item meerdere keren te kiezen (1 foto met meerdere soortgelijke items)
 - Voor elk afzonderlijk item op de foto kan je aangeven uit wat voor materiaal (of meerdere) het bestaat
 - Voor elk afzonderlijk item op de foto kan je aangeven uit wat voor merk (of meerdere) het bestaat
 - Voor elk afzonderlijk item op de foto kan je aangeven voor welk evenement (of meerdere) deze geraakt is
+- Voor elk afzonderlijk item op de foto kan je aangeven hoeveel er op staan met de tags die je gegeven hebt. Je kan dit met de pijltjestoetsen doen, of door het getal in te voeren. Nadat hij het aantal heeft overgenomen, wordt dat ook getoond voor de naam van het item. Je hebt de optie tussen 1 tm 999 (het getal toont nu nog niet lekker, wordt later verbeterd).
 - Voor elk afzonderlijk item op de foto kan je aangeven of het opgeraapt is of niet, hij neemt de defaultwaarde over die bij Profiel is aangegeven
+- Voor elk afzonderlijk item op de foto kan je aangeven of je het (laat) recyclen of niet, hij neemt de defaultwaarde over die bij Profiel is aangegeven
 - Er kunnen meerdere materialen, merken en evenementen worden gekozen voor 1 item
 - Elk kenmerk dat gegeven is aan een item kan worden verwijderd door daar weer op te klikken
+- het hele item kan worden verwijderd door op de prullenbak te klikken die bij het item staat
 - Elk item waarvan aangegeven is dat het voorkomt op de foto kan worden verwijderd door op de prullenbak te klikken
 - Op elk moment kan gekozen worden voor de copieerknop in het item-scherm, alles wat tot dan toe aangegeven is voor dat ene item op de foto, wordt gedupliceerd
 - Als er nog nieuwere foto's zijn zonder items of tags, dan staat onder de foto een 'previous'-knop die je naar die foto brengt,
