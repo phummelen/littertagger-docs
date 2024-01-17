@@ -22,7 +22,7 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 
 ## Profiel aanmaken/vullen
 
-- het is mogelijk een profiel-foto toe te voegen, op dit moment mag hij echter niet groter zijn dan 1024kb
+- het is mogelijk een profiel-foto toe te voegen, deze mag 20mb groot zijn
 - het is mogelijk om de profiel-foto weer te verwijderen
 - het is mogelijk om aan te geven of je afval wel of niet opraapt. (Per foto of item kan je dat ook nog wijzigen)
 - het is mogelijk om aan te geven of je afval wel of niet recycled. (Per foto of item kan je dat ook nog wijzigen)
@@ -34,12 +34,12 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - Het is ook mogelijk om in 1 keer meerdere foto's te uploaden.
 - Het is ook mogelijk om nog meer foto's te 'droppen' terwijl de andere nog aan het uploaden zijn
 - Door alvast naar 'My Photos' te gaan terwijl foto's nog aan het uploaden zijn, breekt het uploaden af!
+- Tijdens het uploaden is de knop om naar My Photos te gaan, nog niet actief (maar zitten nog paar bugjes in, dus probeer dat niet totdat je klaar bent met uploaden)
 - De geselecteerde foto's worden verkleind voordat ze worden geupload om ruimte te besparen. Ze blijven groot genoeg om beeldvullend te kunnen zijn
 - Het is mogelijk om foto's van verschillende types te uploaden
 - Er zit een bovengrens aan de foto's, als ze té groot zijn, dan worden ze niet geaccepteerd, dit zie je dan door een melding
 - het is (uiteraard) mogelijk om foto's te uploaden met gps
 - het is ook mogelijk om foto's te uploaden zónder gps
-- het is nog niet mogelijk om foto's ook weer te verwijderen, als je een foto verwijderd wilt hebben, zal dat nog via de admins moeten
 
 ## My Photos
 - het is mogelijk om nog geen enkele foto te hebben
@@ -47,8 +47,8 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - het is mogelijk om er meerdere te hebben, die nog steeds op 1 pagina kunnen worden getoond
 - het is mogelijk om meer foto's te hebben dan er op 1 pagina passen (momenteel ingesteld op 12), dan verschijnen knoppen om over de pagina's heen te navigeren
 - bij het navigeren kan je niet verder vooruit dan de laatste pagina en niet verder terug dan de eerste pagina
-- je kan naar een specifieke pagina gaan (is dat zo?)
-- je kan naar vorige/volgende of naar 1e/laatste (is dat zo?)
+- je kan naar een specifieke pagina gaan (mits die getoond wordt als nummer onder de foto's)
+- je kan naar vorige/volgende of naar 1e/laatste (is dat zo? Nog niet te zien omdat we nog niet zoveel pagina's hebben)
 - als je een of meerdere foto's van kenmerken hebt voorzien, dan staat er een label-icoontje op die foto
 - elke foto in 'my photos' is voorzien van een prullenbak, daarmee kan je de foto verwijderen
 
@@ -77,6 +77,7 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - Op elk moment kan gekozen worden voor de copieerknop in het item-scherm, alles wat tot dan toe aangegeven is voor dat ene item op de foto, wordt gedupliceerd
 - Als er nog nieuwere foto's zijn zonder items of tags, dan staat onder de foto een 'previous'-knop die je naar die foto brengt,
 - Als er nog oudere foto's zijn zonder items of tags, dan staat onder de foto een 'next'-knop die je naar die foto brengt,
+- Het navigeren naar vorige/volgende, kan ook met de sneltoets CTRL + Pijltjestoets (links/rechts)
 - Voor elk te kiezen 'ding' (item, materiaal, merk, evenement) is er een keuze 'OTHER' voor het geval de juiste waarde er niet is
 - Als je naar een andere foto bent gegaan en je komt terug bij de eerdere foto, dan staan de laatst gegeven kenmerken er nog
 
