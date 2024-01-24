@@ -98,11 +98,26 @@ De volgende evenementen zijn niet echt evenementen in die zin van het woord, maa
 - ShowYourImpact: Om het eindresultaat van een cleanup te laten zien, bijv een berg met volle vuilniszakken
 
 ## Admin-opties
-- de admin kan alle foto's zien
-- de admin kan alle mogelijke items, tags en users zien
-- de admin kan de foto's per user zien en kan daar bulk-acties op uitvoeren
-- de admin kan sorteren op alle kolommen, standaard staat hij op alf. volgorde
-- de admin kan teams toevoegen
+- de admin kan alle mogelijke **items** zien en beheren (toevoegen/wijzigen/verwijderen),
+- de admin kan alle **foto's** zien:
+  Hij kan kiezen tussen 'alle fotos/alle foto's met tag/alle foto's zonder tags'
+  Hij kan sorteren op id of user
+  Hij kan zoeken (op users alleen?)
+  Hij kan filteren op users
+  Hij kan kiezen om alleen foto met gps te laten zien of alle foto's, (alleen foto's zónder gps komt later)
+  Hij kan een aantal extra velden laten zien (default niet in beeld, ook handig voor video's)
+  Hij kan bulk-acties uitvoeren op 1 of meerdere geselecteerde foto's (delete voor nu)
+- de admin kan alle mogelijke tags zien en beheren (toevoegen/wijzigen/verwijderen),
+  Hij kan zien hoeveel er zijn van elke soort en daarop filteren
+  Hij kan sorteren op alle kolommen, standaard staat hij op alf. volgorde
+  Hij kan zoeken naar specifieke tags
+  Hij kan extra kolommen laten zien
+- de admin kan alle users zien en beheren (toevoegen/wijzigen/verwijderen),
+  Hij kan sorteren op alle kolommen
+  Hij kan zoeken op een user
+  hij kan filters toepassen (voor nu alleen op team)
+  Hij kan extra kolommen laten zien
+  Hij kan bulk-acties uitvoeren
 
 ## Pull Requests
 Het is mogelijk om bij te dragen aan het project. Daarvoor is wel enige specifieke kennis nodig, maar er zijn genoeg leden die bereid zijn om dat uit te leggen.
