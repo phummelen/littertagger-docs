@@ -1,20 +1,19 @@
 # Het nemen van een foto
 
 Hoe je een foto moet nemen, hoeven we waarschijnlijk niet uit te leggen: je opent de camera van je telefoon en je neemt een foto.
-Toch komt er nog wel wat meer bij kijken, vooral omdat er nog een aantal dingen gedaan wordt met die foto.
 Echter, omdat het om een foto van zwerfafval gaat, en er daarna nog veel gedaan gaat worden met die foto, zijn er wel wat zaken om rekening mee te houden:
 
 Allereerst accepteren we, in tegenstelling tot sommige andere programma's, wel foto's zonder gps-locatie. Dit doen we bewust omdat ook foto's zonder een exacte locatie wel degelijk waarde kunnen hebben.
-Mocht je echter je foto's wél willen voorzien van een locatie om bijv op een kaart te kunnen laten toen, dan moet je je toestel dusdanig instellen dat hij de gps-locatie ook echt opslaat bij je foto. Andere gegevens, zoals datum en tijd, worden automatisch al opgeslagen.
+Mocht je echter je foto's wél willen voorzien van een locatie om bijv op een kaart te kunnen laten tonen, dan moet je je toestel dusdanig instellen dat hij de gps-locatie ook echt opslaat bij je foto. Andere gegevens, zoals datum en tijd, worden automatisch al opgeslagen.
 
 Op het moment van schrijven van deze documentatie, doen we nog niets met de foto zelf. Je bent zelf de maker van de foto en zelf bekijk je die foto om hem de juiste kenmerken te geven. Omdat je zelf de foto hebt genomen, weet je waarschijnlijk ook het beste wat er op staat.
-Echter, de kans is groot dat anderen ook naar die foto gaan kijken en daarvoor is het van belang dat die foto daar gecshikt voor is. Dat houdt in dat je met een paar zaken rekening moet houden:
+Echter, de kans is groot dat anderen ook naar die foto gaan kijken en daarvoor is het van belang dat die foto daar geschikt voor is. Dat houdt in dat je met een paar zaken rekening moet houden:
 - liefst geen herkenbare mensen, afgezien van jezelf, als je daar geen problemen mee hebt, op de foto
 - het gaat om het item op de foto dus neem die van zo dicht mogelijk bij. Geen flesje in de verte, maar liefst een schermvullende foto daarvan
-- merken zijn belangrijk om impact te maken, als er een merk opstaat, neem die dan ook op de foto, hiervoor mag u uiteraard het item op een handige manier neerleggen of vasthouden als u een foto maakt
+- merken zijn belangrijk om impact te maken, als er een merk opstaat, neem die dan ook op de foto, hiervoor mag je uiteraard het item op een handige manier neerleggen of vasthouden als je een foto maakt
 - In sommige gevallen is het juist wél waardevol om bijv niet alleen maar gras te zien met daarop een flesje, denk hierbij bijvoorbeeld aan een natuurgebied met daarin een flesje, het kan dan juist zinvol zijn om het flesje vast te houden terwijl op de achtergrond dan de natuur te zien is. Kijk zelf dus wat de juiste stand is om de foto te nemen, waarbij je ervoor zorgt dat het item in ieder geval duidelijk in beeld is.
-- Niet elke foto hoeft persé een item te bevatten. Hoewel dat wel het hoofddoel is, kan het bijv ook best zijn dat u eerst een foto maakt van een vervuild gebied (1 foto met veel afval), daarna alles opruimt (waarbij u wel of geen foto's maakt van elk item) en daarna nog een keer een foto maakt vanaf hetzelfde punt als de eerste foto, maar nu zonder afval. Dit zijn zeer krachtige foto's om wat mee te doen op social medai, waarbij we een aantal mogelijkheden hebben in ons programma om daarbij te helpen.
-- In principe nemen we 1 foto per item. Dat is de hoofdregel waar echter vanaf geweken kan worden.
+- Niet elke foto hoeft persé een item te bevatten. Hoewel dat wel het hoofddoel is, kan het bijv ook best zijn dat je eerst een foto maakt van een vervuild gebied (1 foto met veel afval), daarna alles opruimt (waarbij je wel of geen foto's maakt van elk item) en daarna nog een keer een foto maakt vanaf hetzelfde punt als de eerste foto, maar nu zonder afval. Dit zijn zeer krachtige foto's om wat mee te doen op social medai, waarbij we een aantal mogelijkheden hebben in ons programma om daarbij te helpen.
+- In principe nemen we 1 foto per item. Dat is de hoofdregel waar echter van afgeweken kan worden.
 Denk bijvoorbeeld aan een plek met 20 peuken vlak bij elkaar, dan is het wellicht niet heel zinvol om 20 losse foto's van elke peuk te gaan maken. Daarbij moet je er alleen wel aan denken, dat áls een foto, inclusief zijn kenmerken, goedgekeurd moet gaan worden door iemand anders, die persoon dus ook wel moet kunnen zien of er bijv echt 20 op staan.
 Voor de controle is het dus handiger om op elke foto 1 of maximaal een paar duidelijk herkenbare items te hebben
 - het afval hoeft niet persé opgeraapt te zijn.

@@ -1,7 +1,7 @@
 # Foto's voorzien van kenmerken
 
 De foto's voorzien van kenmerken is misschien het belangrijkste werk dat er op dit moment te doen is.
-Nadat de foto's zijn geupload staan ze daar maar dan is het nog niet bekend wat er op die foto staat. Dat is iets dat we nu nog handmatig moeten doen en het is onze 'taak' om dat zo makkelijk mogelijk te maken zodat je je tijd aan leukere manieren kan besteden. (in de toekomst is dit handmatige werk wellicht niet meer nodig omdat de computer steeds meer zelf zal gaan herkennen, maar zover zijn we nog niet).
+Nadat de foto's zijn geupload staan ze daar, maar dan is het nog niet bekend wat er op die foto staat. Dat is iets dat we nu nog handmatig moeten doen en het is onze 'taak', als makers van dit programma, om dat zo makkelijk mogelijk te maken zodat je je tijd aan leukere manieren kan besteden. (in de toekomst is dit handmatige werk wellicht niet meer nodig omdat de computer steeds meer zelf zal gaan herkennen, maar zover zijn we nog niet).
 
 Het taggen van een foto bestaat uit een aantal stappen die in hoofdlijnen als volgt werken:
 - Ga naar 'My Photos' en klik op een foto die je wilt gaan voorzien van kenmerken

@@ -1,16 +1,16 @@
-# Welkom bij LitterTagger!
+# Welkom bij LitterApp!
 
 Laten we beginnen met zeggen dat we blij zijn dat je deze handleiding gevonden hebt, en dat we hopen dat je er wat aan hebt!
 
 Wereldwijd zijn veel mensen actief zwerfafval aan het rapen. Dat kan zijn individueel, tijdens een wandeling met de honden, of in groepsverband. Sommigen doen dat elke dag, anderen alleen op een speciale dag.
 
-Of je nu veel of weinig afval raapt, vaak of soms, of misschien zelfs helemaal nooit en helemaal niets, je bent van harte welkom bij LitterTagger!
+Of je nu veel of weinig afval raapt, vaak of soms, of misschien zelfs helemaal nooit en helemaal niets, je bent van harte welkom bij LitterApp!
 
-LitterTaggeris een platform waar verschillende groepen mensen bij elkaar komen, denk hierbij aan zwerfafvalrapers, maar ook software-ontwikkelaars, onderzoekers, studenten, leraren maar zelfs bedrijven en verschillende mensen die 'iets doen' met afval of zero-waste.
+LitterApp is een platform waar verschillende groepen mensen bij elkaar komen, denk hierbij aan zwerfafvalrapers, maar ook software-ontwikkelaars, onderzoekers, studenten, leraren maar zelfs bedrijven en verschillende mensen die 'iets doen' met afval of zero-waste.
 
 Wat jouw motivatie, ambitie of kunde ook is, je bent van harte welkom en mocht je dat willen, dan is er vást wel iets waar je mee kan helpen, want alle beetjes helpen en iedereen kan een verschil maken!
 
-LitterTagger wordt dus gebruikt om al die partijen bij elkaar te brengen en de rode draad hierbij is momenteel 'afval'.
+LitterApp wordt dus gebruikt om al die partijen bij elkaar te brengen en de rode draad hierbij is momenteel 'afval'.
 
 Hoewel er al meerdere afval-programma's bestaan en deze allemaal een eigen functie hebben of een bepaald belang dienen, hebben we er onlangs toch voor gekozen om een eigen weg in te slaan. Meerdere van de initiatiefnemers zijn betrokken geweest bij 1 of meerdere programma's en zijn samen tot de conclusie gekomen dat dat niet voldeed aan wat zij zochten en konden ook geen geschikt alternatief vinden.
 
@@ -28,4 +28,4 @@ Wanhoop niet, alle mensen die meedoen, doen mee omdat ze een bepaald doel voor o
 
 Voor nu nogmaals welkom, dank voor je interesse, kijk rustig rond en als je vragen hebt, stel ze gerust!
 
-Het team van vrijwilligers van LitterTagger.
+Het team van vrijwilligers van LitterApp.

@@ -11,11 +11,9 @@ Stel je doet elk jaar mee met de World Cleanup Day en je wilt aan het eind gegev
 
 Hiermee wordt het mogelijk om op elk moment dan ook te (laten) zien wat jij (of anderen) geraapt hebben op (een) World Cleanup Day.
 
-Let wel, als iemand volgend jaar hetzelfde doet, dan komen die gegevens daarbij dus ook tevoorschijn.
+Doe je volgend jaar wederom mee met de World Cleanup Day, dan doe je dit op dezelfde wijze.
 
-Om toch te kunnen zien wat er per specifiek jaar is geraapt, voeg je daarom nóg een kenmerk toe: Evenement = World Cleanup Day 2024.
-
-Door het kenmerk met jaartal ook toe te voegen, wordt het niet alleen mogelijk om te zien wat in alle jaren bij elkaar geraapt is, maar kun je ook zien wat er per specifiek jaar geraapt is.
+Het zal dan mogelijk zijn om te laten zien wat op een of meerdere World Cleanup Days geraapt is door filters op datums toe te gaan passen.
 
 Mocht je ditzelfde ook willen doen voor een eigen evenement, maar zie je die er niet tussen staan, neem dan contact met ons op, dan voegen wij die toe.
 
@@ -26,6 +24,8 @@ Onderstaand zijn enkele evenementen die al bestaan, maar deze lijst kan dus uitg
 4. Canuary
 5. Cleanup4Sarah
 6. ZaandeWandel
+7. Plastic Avengers - Bakzeil
+8. RedBullLitter
 
 # Speciale Evenementen
 
