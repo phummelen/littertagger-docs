@@ -1,6 +1,6 @@
 # Functionaliteit, handleiding cq testplan
 
-Bij LitterTagger wordt momenteel hard gewerkt aan nieuwe zaken. Zo hard, dat je al bijna zou vergeten wat er allemaal mogelijk is.
+Bij LitterApp wordt momenteel hard gewerkt aan nieuwe zaken. Zo hard, dat je al bijna zou vergeten wat er allemaal mogelijk is.
 
 De documentatie die we tot nu toe geschreven hebben, is op 'hoog niveau' om juist niet steeds bij te hoeven werken als er een detail verandert. Daardoor bestaat echter de kans dat bepaalde details, die we nu aan het maken zijn, vergeten worden terwijl die juist met een reden gemaakt zijn.
 
