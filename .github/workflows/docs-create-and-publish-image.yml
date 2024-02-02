@@ -1,4 +1,4 @@
-name: ci/cd olm docs image
+name: ci/cd docs image
 
 on:
   push:

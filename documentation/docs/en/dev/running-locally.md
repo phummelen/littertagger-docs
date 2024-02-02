@@ -13,7 +13,7 @@ After first startup, we have to do some manual actions. In the future we gonna t
 So, these are the (commandline) steps to start and initialize the environment
 
 1. To start: `docker-compose up -d` (or `docker-compose start` if just stopped)
-2. To enter the container (initialize): `docker exec -it olm-web /bin/bash`
+2. To enter the container (initialize): `docker exec -it hero/web /bin/bash`
 3. To load dummy data (initialize): `php artisan migrate:fresh --seed`
 4. Log out or the container using (after initialisation) `ctrl-d` or `exit`
 5. Go to the local site: [direct](http://localhost:8000/) or via [proxy](http://localhost:8080)
