@@ -14,20 +14,12 @@ theme:
     - search.highlight
     - search.share
     - navigation.expand
-    #- navigation.indexes
-    #- navigation.sections
-    #- navigation.tabs
-    #- navigation.top
-    #- navigation.instant
-    #- navigation.tracking
-  palette: 
-    primary: black
 
 extra_css:
   - assets/stylesheets/littertagger.css             # CSS is shared by all languages
 
-extra:
-  alternate:                                        # Language Selection
+extra:                                              # Language Selection
+  alternate:  
     - name: English
       link: /en/
       lang: en
@@ -40,7 +32,7 @@ extra:
     - name: Deutsch
       link: /de/
       lang: de
-  homepage: https://docs.litterapp.net
+  homepage: https://docs.littertagger.com
 
 plugins:
   - search:                                         
@@ -48,16 +40,22 @@ plugins:
 
 nav:
 - Welcome: index.md
-- Our mission and vision: 05_Mission-Vision.md
-- Who are we: 08_Who-Are-We.md
-- Create user and add profile details: 10_Prodile.md
-- Het nemen van foto's: 20_Taking-Pictures.md
-- Het uploaden van foto's: 30_Uploading-Pictures.md
-- Het taggen van foto's: 40_Tagging-Pictures.md
-- Evenementen: 50_Events.md
-- Tagging-voorbeelden: 90_Tagging-examples.md
-- Bevindingen melden: 90_Issues.md
-- Veel Gestelde Vragen (FAQ): 90_Faq.md
-- Contact: 90_Contact.md
-- Support: 95_Support.md
-- Functionality (in detail)/TestPlan: 99_Functionality Manual Testplan.md
+- Main Steps: main-steps.md
+- How to tag:
+   - The basics: tagging-how-to.md
+   - Via web: tagging-via-web.md
+   - Via mobile: tagging-via-mobile.md
+- FAQ: faq.md
+- Contact us: contact.md
+- On Youtube: youtube.md
+- General Use:
+  - Uploading Photos: uploading-photos.md
+  - Categories: tags-categories.md
+  - Tags: tags-tags.md
+  - Verification Process: verification-process.md
+- Development Use:
+  - Common Info: dev/introduction.md
+  - Version Control: dev/github.md
+  - Container Management: dev/docker.md
+  - Running Locally: dev/running-locally.md
+- Releases: releases.md
