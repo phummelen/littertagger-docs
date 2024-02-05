@@ -1,121 +1,110 @@
-# Voorbeelden van gevonden zwerfafval en hoe dit te 'taggen'
+# Examples of Found Litter and How to 'Tag' Them
 
-Hoeveel en wat voor tags je gebruikt, bepaal je zelf, maar over het algemeen geldt: 'hoe meer info, hoe beter'.
+The number and type of tags you use are up to you, but generally, 'the more information, the better.'
 
-Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat er wat met die data gedaan kan worden, door jezelf, of door anderen. En bedenk hierbij dan ook dat dit waarschijnlijk gedaan wordt door te kijken naar die kenmerken die gegeven zijn en niet naar de individuele foto's.
+It is essential to realize that you are documenting characteristics primarily so that data can be utilized by yourself or others. Keep in mind that this is likely done by looking at the given characteristics rather than individual photos.
 
-Dus de kenmerken moeten eigenlijk vertellen wat er op de originele foto te zien was zonder de mogelijkheid dat er verwarring over bestaat.
+Consider a photo of a Coca-Cola can. This can be tagged in multiple ways, and the most common method might be:
 
-Neem als voorbeeld een foto van een coca-cola-blikje. Dit kan je op meerdere manieren taggen en de meest gangbare manier zal zijn:
-
-Item: Can
-
-Merk: Coca-Cola.
-
-En dit is juiste data waar jij, of iemand anders, wat mee kan. Bijvoorbeeld een vraag beantwoorden als 'hoeveel blikjes zijn er gevonden', of 'hoeveel blikjes van het merk Coca-Cola zijn er gevonden'.
-
-Als je de moeite wilt nemen, kan je er echter nog veel meer over vertellen. Of al die extra informatie nuttig is, of zonde van je tijd, dat is lastig te beantwoorden, dat weten we waarschijnlijk pas als we van mensen horen welke data ze gebruiken maar de volgende vragen zouden bijvoorbeeld interessant kunnen zijn voor mensen, die nu nog niet te beantwoorden zijn:
-- Hoeveel procent van de gevonden blikjes zijn gemaakt van aluminum en hoeveel van ijzer?
-- Hoeveel blikjes hadden wél statiegeld en hoeveel blikjes niet?
-- Hoeveel blikjes zijn met al het andere afval gewoon wegegegooid en hoeveel zijn er apart gehouden om te (laten) recyclen?
-- Hoeveel blkjes werden er gevonden die nog intact waren, of licht gedeukt, of plat, of verscheurd in stukjes (bijv door een maaimachine)?
-- Hoeveel blikjes hadden nog inhoud of waren zelfs nog niet eens geopend?
-
-Het zijn maar fictieve vragen, maar het zijn wel vragen die bijvoorbeeld serieus van belang kunnen zijn in het onderzoek naar de werking van statiegeld op blik in Nederland, maar het zijn ook vragen die niet beantwoord kunnen worden met enkel de eerste twee kenmerken die gegeven werden.
-
-Als je de voorbeeldvragen zou willen kunnen beantwoorden, dan zou je over dat soort kenmerken dus ook iets moeten zeggen en zou je bijvoorbeeld op het volgende uit kunnen komen:
 - Item: Can
-- Merk: Coca-Cola.
-- Materiaal: Aluminium
-- Statiegeld: Ja
-- Recycled: Nee
-- Staat: Gedeukt
-- Nog inhoud: Nee
-- Nog ongeopend: Nee
+- Brand: Coca-Cola
 
-Zoals je ziet zou je met deze kenmerken alle vragen kunnen beantwoorden, maar het wordt zo ook wel duiddelijk dat het heel veel werk gaat kosten om slechts 1 blikje te voorzien van kenmerken. En ergens zullen we dus een balans of handige werkwijze moeten gaan zien te vinden.
+This provides correct data that you or someone else can use. For instance, to answer questions like 'how many cans were found' or 'how many cans of the Coca-Cola brand were found.'
 
-Als we bijv weten dat er serieus onderzoek wordt gedaan naar 'de staat van het blikje', dan zouden we bewust kunnen vragen om die informatie wel toe te voegen. We zouden ook zelfs mensen kunnen vragen om eerder vastgelegde blikjes na te lopen en dat kenmerk alsnog toe te voegen aan de hand van de foto.
+If you are willing to make the effort, you can provide much more information. Whether this additional information is useful or a waste of time might only become clear as people start using the data. For example, questions like:
+- What percentage of found cans are made of aluminum, and how many are made of iron?
+- How many cans had a deposit, and how many did not?
+- How many cans were thrown away with other waste, and how many were separated for recycling?
+- How many cans were found intact, slightly dented, flat, or torn into pieces (e.g., by a lawnmower)?
+- How many cans still had content or were not even opened?
 
-Om, zonder te weten wat de informatiebehoefte is, álles te gaan proberen vast te leggen, is eigenlijk onbegonnen werk, want ook al leggen we dit allemaal vast, dan verschijnt er wellicht iemand op het toneel die juist geïnteresseerd is in de maat van het blikje, of dat het lipje er nog op vast zat of niet, of wat de kleur was van het blikje, of het gewicht, de barcode etc etc.
+These are hypothetical questions, but they could be crucial for research on the functioning of can deposits in a particular country. However, these questions cannot be answered with just the first two characteristics given.
 
-# Lastige vraagstukken
-## Wat is het?
+If you want to answer these sample questions, you might need to provide additional characteristics, like:
+- Item: Can
+- Brand: Coca-Cola
+- Material: Aluminum
+- Deposit: Yes
+- Recycled: No
+- Condition: Dented
+- Content: No
+- Unopened: No
 
-## Hoe leg je samengestelde dingen vast
-Een van de lastige vraagstukken is hoe je samengestelde dingen vastlegt.
+As you can see, providing all these characteristics for each item could be a considerable amount of work. Finding a balance or efficient workflow is necessary.
 
-Als we bijvoorbeeld een plastic Coca-Cola fles vinden, dan geven we die waarschijnlijk aan als:
-- Item: Fles
-- Merk: Coca-Cola
-- Materiaal: Plastic
+It's challenging to know what information needs to be captured in advance. Trying to capture everything without knowing the information need is impractical. For instance, even if we document all the details mentioned, someone might be interested in the size of the can or whether the tab was still attached, and capturing every possible detail would be unmanageable.
 
-En daarmee is de foto voorzien van de belangrijkste en juiste kenmerken.
+## Complex Issues
+### What is It?
 
-Maar als we bijv niet de fles vinden, maar wel het label dat er omheen zat, dan zouden we die foto voorzien van de volgende kenmerken:
+## How to Capture Composite Items
+One challenging issue is how to capture composite items.
+
+For example, if we find a plastic Coca-Cola bottle, we might tag it as:
+- Item: Bottle
+- Brand: Coca-Cola
+- Material: Plastic
+
+This would provide the photo with the essential and correct characteristics.
+
+But if we find the label that was around it, we might tag the photo as:
 - Item: Label
-- Merk: Coca-Cola
-- Materiaal: Plastic
+- Brand: Coca-Cola
+- Material: Plastic
 
-En ook daarmee is deze foto voorzien van de belangrijkste en juiste kenmerken.
+This raises the question, 'shouldn't we also tag the Coca-Cola bottle with these two characteristics since it consists of the bottle and the label?'
 
-Maar hierdoor krijgen we ook de vraag, 'moeten we dan die coca-cola fles óók niet voorzien va die 2 kenmerken want die bestaat immers uit de fles en uit het label?'
+Our stance is no. For us, it's a composite whole that belongs together. The same applies, for example, to the cap still attached.
 
-Wij vinden van niet. Voor ons is dat een samengesteld geheel dat bij elkaar hoort. En datzelfde geldt bijvoorbeeld voor de dop die er nog op zit.
+But how does this work with a paper milkshake cup with a plastic lid and a paper straw from McDonald's?
 
-Maar let wel, als we dat niet aangeven, is het gevolg hiervan dus dat een vraag als 'hoeveel flessen werden er gevonden zonder dop' dus niet te beantwoorden...
+If we say it's 'a cup,' we end up with:
+- Item: Cup
+- Brand: McDonald's
+- Material: Paper
 
-Bij een fles met een label vinden we dus dat dit bij elkaar hoort als fles. Je zou kunnen zeggen dat we dat vinden, 'omdat het zo uit de fabriek komt'?
+This is incorrect because someone using our data will use (the data from) this photo, thinking that only a cup was found, while this cup also had a lid (made of plastic even!) and a straw (made of paper, where plastic might be expected in many countries).
 
-Maar hoe zit dat dan met een papieren milkshake-beker met een plastic deksel en een papieren rietje daarin van de McDonalds?
+So, here we miss critical information.
 
-Als we hier ook zeggen dat het 'een beker' betreft, dan krijg je het volgende:
-- Item: Beker
-- Merk: McDonalds
-- Materiaal: Papier
+Therefore, we (though not unanimously!) think you should represent this as three separate items:
+- Item: Cup
+- Brand: McDonald's
+- Material: Paper
 
-En hier gaan we dus de mist in want iemand die dus onze data zal gebruiken, zal (de gegevens van) deze foto dus gebruiken, denkende dat hier alleen een beker werd gevonden, terwijl deze beker ook nog een deksel (van plastic zelfs!) en een rietje had (van papier, waar je in veel landen wellicht nog plastic verwacht).
+And
+- Item: Lid
+- Brand: McDonald's
+- Material: Plastic
 
-Hier mis je dus belangrijke informatie.
+And
+- Item: Straw
+- Brand: McDonald's
+- Material: Paper
 
-En daarom vinden we (maar niet unaniem!) dat je dit weer zou moeten geven als 3 onderdelen:
-- Item: Beker
-- Merk: McDonalds
-- Materiaal: Papier
+By documenting it this way, it's evident that apparently, three things were found, all of the same brand but different in material.
 
-En
-- Item: Deksel
-- Merk: McDonalds
-- Materiaal: Plastic
+But even this doesn't seem right because someone using this information won't know if these parts were separate (but coincidentally in one photo) or if they were still connected (e.g., the cup separately with the lid next to it, with the straw still inside). While this could be valuable information (e.g., why McDonald's is moving away from separate lids on some products), it can't be deduced from our data.
 
-En
-- Item: Rietje
-- Merk: McDonalds
-- Materiaal: Papier
+Therefore, at LitterApp, we have chosen an approach to solve this.
 
-Door het op deze manier vast te leggen, is het al duidelijk dat er dus blijkbaar 3 dingen gevonden zijn, die van hetzelfde merk waren, maar verschillend qua materiaal.
+If they are all separate parts, you use the above method. However, if they are all still connected, you have a more specific option:
+- Item: Cup (with the lid still on)
+- Item: Lid (with the straw still inside)
+- Item: Straw
 
-Maar ook dit vinden we eigenlijk niet kloppen want iemand die deze informatie gebruikt zou hieraan niet kunnen zien of die onderdelen los lagen (maar toevallig wel op 1 foto) of dat ze nog aan elkaar zaten (of bijv de beker los, terwijl daarnaast de deksel lag met het rietje er nog in). Terwijl dat juist nuttige informatie kan blijken te zijn (informatie bijv waarom McDonalds bij sommige producten ook aan het afstappen is van losse deksels).
+This makes it clear that something unusual was happening in the original photo. Even though these are three separate objects, they were all still connected.
 
-Daarom hebben we bij LitterApp gekozen voor een manier waarmee dit op te lossen valt.
+If, for example, you find a cup separately and then a lid with a straw inside, you could indicate the following items:
+- Item: Cup
+- Item: Lid (with the straw still inside)
+- Item: Straw
 
-Als het allemaal losse onderdelen zijn, dan gebruik je bovenstaande manier, als ze echter allemaal nog op/aan elkaar zitten, dan heb je een speciekere optie:
-- Item: Beker (met deksel er nog op)
-- Item: Deksel (met rietje er nog in)
-- Item: Rietje
+And if you find a cup with a lid still on but the straw next to it, then the following:
+- Item: Cup (with the lid still on)
+- Item: Lid
+- Item: Straw
 
-Hiermee is het dus zichtbaar dat op de originele foto iets bijzonders aan de hand was, het zijn weliswaar 3 objecten, maar ze waren allemaal nog verbonden.
+This was a lengthy explanation, but we hope it clarifies that it's challenging to know in advance what to capture and how to do it. As mentioned earlier, everything is good, even a photo without characteristics can have value. The more you add, the better, but with the caveat that it could be data that will never be used. So, decide for yourself how much time and energy you want to invest.
 
-Vind je bijv een beker los, en daarnaast een deksel met rietje erin, dan zou je de volgende items kunnen aangeven:
-- Item: Beker
-- Item: Deksel (met rietje er nog in)
-- Item: Rietje
-
-En zou je een beker vinden met een deksel er nog op, maar het rietje er los naast, dan dus de volgende:
-- Item: Beker (met deksel er nog op)
-- Item: Deksel
-- Item: Rietje
-
-Dit was een lange uitleg, maar een waarmee we hopen duidelijk te maken dat het lastig is om van te voren te weten wat je vast moet leggen en hoe je dat moet doen maar zoals eerder al gezegd, alles is goed, zelfs een foto zonder kenmerken kan al waarde hebben en alles wat je er verder aan toevoegt, maakt het nog beter, maar wel met de kanttekening voor jezelf dat het ook data kan zijn die nooit gebruikt zal worden, dus kijk zelf hoeveel tijd en energie je daaraan wilt besteden.
-
-De belangrijkste kenmerken, wat ons betreft zijn: Item en Merk (indien aanwezig) en als het kan, Materiaal waarbij we uitgaan van 'het ergste materiaal', of eventueel het 'meest aanwezige materiaal' of eventueel meerdere materialen. (ook hier zijn er dus meerdere manieren mogelijk waarbij er geen juist antwoord is).
+The most crucial characteristics, from our perspective, are: Item and Brand (if present), and if possible, Material, assuming 'the worst material,' or possibly the 'most present material,' or possibly multiple materials (here, too, there are several possible ways, and there is no correct answer).
