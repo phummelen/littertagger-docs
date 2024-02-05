@@ -1,6 +1,6 @@
 # Missie en Visie
 
-Hoewel dit project gestart is met gelijkgestemden omdat we elders niet konden vinden wat we zochten, is het goed om de missie en visie in de gaten te houden.
+Although **(test from Fred to see if i can contribute to the branch of PJ)** dit project gestart is met gelijkgestemden omdat we elders niet konden vinden wat we zochten, is het goed om de missie en visie in de gaten te houden.
 Want hoe meer mensen, hoe meer wensen en ideeën en voor je het weet probeer je een alles omvattende app te maken wat mooi is, maar niet persé haalbaar.
 
 Daarom hebben we een missie en een visie waar we op regelmatige basis bij stil moeten staan. Zijn we nog op de goede weg?
