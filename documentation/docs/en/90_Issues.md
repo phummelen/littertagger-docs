@@ -1,12 +1,9 @@
-# Het rapporteren van problemen
+# Reporting Issues
 
-Foutloze software bestaat niet. Ook LitterApp is niet vrij van fouten. De kans is groot dat je iets tegenkomt dat wellicht niet klopt.
-Als je iets vreemd vindt, horen we dat graag. Dat geeft ons de kans om er wat aan te doen.
+Error-free software does not exist, and LitterApp is not exempt from errors. It is likely that you may encounter something that doesn't seem right. If you come across anything unusual, we would like to hear about it. This provides us with an opportunity to address the issue.
 
-We werken met een Trello-bord waarin we de openstaande wensen en bevindingen noteren.
+We use a Trello board to keep track of open requests and findings. Depending on the number of volunteers, their skills, and the importance of specific errors or requests, we will assess whether we have someone available to look into them. Please keep in mind that we undoubtedly have more requests and findings than people available to work on them. Therefore, it may take some time, but as long as the card is on our board, there is a chance it will be addressed.
 
-Afhankelijk van het aantal vrijwilligers en hun kunde en hoe belangrijk bepaalde fouten of wensen zijn, zullen we kijken of we iemand beschikbaar hebben die daarnaar kan kijken. Bedenk hierbij wel dat we ongetwijfeld meer wensen en bevindingen hebben dan mensen die daaraan kunnen werken dus het kan even duren maar zolang het kaartje op ons bord hangt, is de kans aanwezig dat die opgepakt gaat worden.
+We appreciate feedback. If something is not right, we want to know about it so we can take action.
 
-We krijgen graag feedback. Als er iets niet klopt, dan horen we het graag want dan kunnen we er ook wat aan gaan doen.
-
-Voel je dan ook vrij om contact met ons op te nemen en de fout te melden.
+Feel free to contact us and report the issue.
