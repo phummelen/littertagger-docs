@@ -1,17 +1,18 @@
-# Uploading foto's
+# Uploading Photos
 
-Op het moment van schrijven van de documentatie werkt het uploaden van foto's al in de testomgeving waarin we nu werken.
-Het is echter mogelijk dat hier nog wel wat veranderingen komen die je zal zien als we 'live' gaan.
-Het uploaden zelf zal zo eenvouding mogelijk worden gehouden en dit is het proces:
-- ga naar de website en log in met de user die je eerder hebt aangemaakt
-- ga naar het upload-scherm waar een venster verschijnt waarin je of naar een map kan navigeren waarin je foto's selecteert, of je gaat juist eerst naar die folder toe, selecteert alle benodigde foto's en sleept die naar dat scherm. Als je ze daar loslaat, begint het uploaden.
+As of writing this documentation, the photo upload feature is already operational in the test environment we are currently using. However, there might be some changes you'll notice when we go 'live.'
 
-Tijdens het uploaden moet je (op dit moment in ieder geval) even geduld hebben. Hoewel er op een paar plekken staan om naar 'My Photos' te gaan, moet je dat nog niet doen, want daarmee onderbreek je het uploaden.
+The uploading process is designed to be as simple as possible, and here is how it works:
 
-Tijdens het uploaden worden de foto's die je upload automatisch verkleind naar een formaat die nog ruim genoeg is om onveranderd op het scherm te kunnen maar die veel minder opslag-capaciteit vraagt.
-Per geselecteerde foto zie je de voortgang, tussendoor kan je wel extra foto's naar het scherm slepen, ook die zullen geupload worden.
+- Go to the website and log in with the user you created earlier.
+- Navigate to the upload screen where a window appears. You can either navigate to a folder containing your photos and select them, or you can go to the folder first, select all the necessary photos, and drag them onto the screen. Once you release them, the uploading process begins.
 
-Als alles is geupload, kun je kiezen om naar 'My Photos' te gaan zodat je bijv kenmerken aan kan gaan geven.
+During the upload, you may need to be patient (at least at the time of writing). Even though there are prompts to go to 'My Photos' in a few places, avoid doing that as it may interrupt the upload.
 
-# Upload via de telefoon
-Op het moment van schrijven van de documentatie hebben we nog niet de beschikking over een app, dat staat voor later gepland. Wel is het mogelijk om een en ander al via de telefoon te doen. Ook op de telefoon kan je naar de website gaan en daar inloggen en foto's uploaden. Hou er hierbij wel rekening mee dat je wellicht te maken hebt met kosten of data-verbruik.
+The photos you upload are automatically resized to a format that is large enough to be displayed unchanged on the screen but requires much less storage capacity. You can see the progress for each selected photo, and in between, you can drag additional photos onto the screen, and they will be uploaded as well.
+
+Once everything is uploaded, you can choose to go to 'My Photos' to start assigning characteristics, for example.
+
+# Uploading via Mobile Phone
+
+As of writing this documentation, we don't have an app available yet; that is planned for later. However, you can still perform actions via your phone. You can visit the website, log in, and upload photos. Keep in mind that you might incur costs or data usage when doing this on your phone.
