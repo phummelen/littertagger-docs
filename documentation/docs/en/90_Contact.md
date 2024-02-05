@@ -12,6 +12,7 @@ LitterApp is not a company. Contrary to what you might expect, we are:
 - Not reachable on Whatsapp
 - Not reachable on Mastodon
 - Not reachable on Snapchat
+- Not reachable on Threads
 
 We don't communicate on behalf of LitterApp. We are volunteers working together on something meaningful, and each of these volunteers has their own opinions, free to share them through their individual channels. You can reach 'us' through these channels. Below are a few of those possibilities. If you want to be included in this list, contact us, and we'd be happy to add you!
 
