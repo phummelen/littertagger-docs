@@ -1,7 +1,7 @@
 # Support
 
-Nog vullen:
+Yet to be filled:
 
-Kosten/Baten
-  
-Manieren van support
+Costs/Benefits
+
+Ways of support
