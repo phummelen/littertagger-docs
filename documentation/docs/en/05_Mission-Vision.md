@@ -1,15 +1,14 @@
-# Missie en Visie
+# Mission and Vision
 
-Although **(test from Fred to see if i can contribute to the branch of PJ)** dit project gestart is met gelijkgestemden omdat we elders niet konden vinden wat we zochten, is het goed om de missie en visie in de gaten te houden.
-Want hoe meer mensen, hoe meer wensen en ideeën en voor je het weet probeer je een alles omvattende app te maken wat mooi is, maar niet persé haalbaar.
+Although this project began with like-minded individuals because we couldn't find what we were looking for elsewhere, it's essential to keep an eye on the mission and vision. Because the more people involved, the more desires and ideas come into play, and before you know it, you might be trying to create an all-encompassing app that is beautiful but not necessarily feasible.
 
-Daarom hebben we een missie en een visie waar we op regelmatige basis bij stil moeten staan. Zijn we nog op de goede weg?
+Therefore, we have a mission and a vision that we need to reflect on regularly. Are we still on the right track?
 
-Met de missie worden onze bestaansreden en kerndoelen weergegeven, "Waarom bestaan we en wat proberen we te bereiken?"
-Met de visie beschrijven we onze langetermijndoelen en de gewenste eindresultaten, "Hoe ziet de wereld eruit als we succesvol zijn, en wat willen we bereiken?"
+The mission articulates our purpose and core objectives, "Why do we exist, and what are we trying to achieve?"
+The vision outlines our long-term goals and desired outcomes, "What does the world look like when we are successful, and what do we aim to accomplish?"
 
-Missie:
-"Onze missie is om een wereld te creëren waarin zwerfafval geen plaats heeft. Wij streven ernaar individuen te inspireren en te ondersteunen bij het opruimen van zwerfafval door middel van een gebruiksvriendelijke app. Door de kracht van gemeenschappen te benutten, willen we een duurzame impact op het milieu realiseren en bewustwording creëren over het belang van een schone leefomgeving."
+**Mission:**
+"Our mission is to create a world where litter has no place. We aspire to inspire and support individuals in cleaning up litter through a user-friendly app. By harnessing the power of communities, we aim to make a sustainable impact on the environment and raise awareness about the importance of a clean living space."
 
-Visie:
-"Onze visie is een wereld waarin gemeenschappen verenigd zijn om zwerfafval te bestrijden en te voorkomen. Via onze app willen we niet alleen een platform bieden voor het vastleggen van zwerfafval, maar ook een gemeenschap opbouwen die betrokkenheid stimuleert. We streven ernaar om de verzamelde gegevens te gebruiken om positieve verandering te bewerkstelligen, beleidsmakers te informeren en milieubewustzijn te vergroten. Door technologie te combineren met gemeenschapskracht, willen we een duurzame verschuiving teweegbrengen naar een schonere en gezondere planeet."
+**Vision:**
+"Our vision is a world where communities unite to combat and prevent litter. Through our app, we not only aim to provide a platform for documenting litter but also to build a community that fosters engagement. We strive to use the gathered data to effect positive change, inform policymakers, and increase environmental awareness. By combining technology with community strength, we aim to catalyze a sustainable shift towards a cleaner and healthier planet."
