@@ -1,4 +1,4 @@
-# Wie zijn wij?
+# Who are we?
 
 <nog vullen>
-Uitleg, mogelijk een intro per deelnemer?
+Explanation, possibly an intro per participant?
