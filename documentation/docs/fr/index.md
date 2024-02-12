@@ -1,8 +1,5 @@
 # Bienvenue!
 
-Vous avez atteint la documentation LitterTagger. 
-Nous espérons que vous trouverez ici ce dont vous avez besoin. 
-Si vous manquez quelque chose, veuillez nous le faire savoir et nous l'ajouterons si possible.<br />
-<br />
-Nous travaillons actuellement sur les sites anglais et néerlandais. <br />
-Français et Allemands attendent des volontaires
+Vous avez atteint la documentation LitterApp.
+
+La documentation en allemand n'a malheureusement pas encore été rédigée, mais vous pourriez peut-être trouver ce que vous cherchez dans le manuel en anglais, qui est déjà disponible.
