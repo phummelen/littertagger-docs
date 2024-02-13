@@ -1,5 +1,5 @@
 site_name: 'Documentatie'
-copyright: Copyright &copy; 2023 LitterTagger Gemeenschap
+copyright: Copyright &copy; 2024 LitterApp Gemeenschap
 docs_dir: '../../docs/nl'                           # Where to find the Dutch markdown files
 site_dir: '../../generated/nl'                      # Where to put the Dutch HTML files
 

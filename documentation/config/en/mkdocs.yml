@@ -1,5 +1,5 @@
 site_name: 'Documentation'
-copyright: Copyright &copy; 2023 LitterTagger Community
+copyright: Copyright &copy; 2024 LitterApp Community
 docs_dir: '../../docs/en'                           # Where to find the English markdown files
 site_dir: '../../generated/en'                      # Where to put the English HTML files
 
@@ -51,13 +51,13 @@ nav:
 - Our mission and vision: 05_Mission-Vision.md
 - Who are we: 08_Who-Are-We.md
 - Create user and add profile details: 10_Prodile.md
-- Het nemen van foto's: 20_Taking-Pictures.md
-- Het uploaden van foto's: 30_Uploading-Pictures.md
-- Het taggen van foto's: 40_Tagging-Pictures.md
-- Evenementen: 50_Events.md
-- Tagging-voorbeelden: 90_Tagging-examples.md
-- Bevindingen melden: 90_Issues.md
-- Veel Gestelde Vragen (FAQ): 90_Faq.md
+- Taking pictures: 20_Taking-Pictures.md
+- Uploading pictures: 30_Uploading-Pictures.md
+- Tagging pictures: 40_Tagging-Pictures.md
+- Events: 50_Events.md
+- Tagging-examples: 90_Tagging-examples.md
+- Notify us about issues: 90_Issues.md
+- Frequently Asked Questions (FAQ): 90_Faq.md
 - Contact: 90_Contact.md
 - Support: 95_Support.md
-- Functionality (in detail)/TestPlan: 99_Functionality Manual Testplan.md
+#- Functionality (in detail)/TestPlan: 99_Functionality Manual Testplan.md

@@ -1,5 +1,5 @@
 site_name: 'Documentation'
-copyright: Copyright &copy; 2023 LitterTagger Community
+copyright: Copyright &copy; 2024 LitterApp Community
 docs_dir: '../../docs/en'                           # Where to find the English markdown files
 site_dir: '../../generated/en'                      # Where to put the English HTML files
 
