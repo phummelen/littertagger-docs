@@ -12,17 +12,23 @@ In principe zou je als gebruiker al deze stappen moeten kunnen doorlopen en dan 
 
 O ja, het kan zijn dat er ook zaken worden beschreven die meer voor de 'adminitrators' zijn, die mag je negeren.
 
-## Menu
+## Documentatie
+- De documentatie bestaat ook in het Engels met dezelfde inhoud als in het NL's, behalve hoofdstuk 99
+- De documentatie bestaat een soort van in het Duits en Frans maar dan met verwijzing naar Engels
+- Sommige delen in de documentatie zijn nog leeg (zoals 'wie zijn we' en 'kosten')
+- Er is nergens meer een verwijzing naar LitterTagger
 
+## Menu
 Het menu heeft de volgende opties: Dashboard, My Photos, Upload, Docs, Dark/light-modus, Team-settings, User-settings
 
 ## User aanmaken
-
 Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe het (zelf) aanmaken van users werkt, wordt dat hier toegevoegd
 
-## Profiel aanmaken/vullen
+## Inloggen
+- het is mogelijk om in te loggen met je Google of Github-account. Facebook en Twitter komen later.
 
-- het is mogelijk een profiel-foto toe te voegen, deze mag 20mb groot zijn
+## Profiel aanmaken/vullen
+- het is mogelijk een profiel-foto toe te voegen, deze mag 20mb groot zijn, hij wordt vanzelf verkleind
 - het is mogelijk om de profiel-foto weer te verwijderen
 - het is mogelijk om aan te geven of je afval wel of niet opraapt. (Per foto of item kan je dat ook nog wijzigen)
 - het is mogelijk om aan te geven of je afval wel of niet recycled. (Per foto of item kan je dat ook nog wijzigen)
@@ -50,7 +56,8 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - je kan naar een specifieke pagina gaan (mits die getoond wordt als nummer onder de foto's)
 - je kan naar vorige/volgende of naar 1e/laatste (is dat zo? Nog niet te zien omdat we nog niet zoveel pagina's hebben)
 - als je een of meerdere foto's van kenmerken hebt voorzien, dan staat er een label-icoontje op die foto
-- elke foto in 'my photos' is voorzien van een prullenbak, daarmee kan je de foto verwijderen
+- elke foto in 'my photos' is voorzien van een prullenbak-logo, daarmee kan je de foto verwijderen
+- Er zijn filteropties (wordt aan gewerkt, dus kan nog (flink) wijzigen), waarmee je kan filderen op item, materiaal, merk of event. Je kan overal meerdere keuzes aangeven. Het is nog een beetje 'lastig' qua AND of OR. Verder kan je ook filteren op datum en tijd van upload en van opname-moment en of de foto's getagged zijn of niet. Zodra je op 'Filter' klikt, wordt het filter actief.
 
 ## Donker of licht scherm
 - het is mogelijk om te switchen naar Dark-mode
@@ -81,15 +88,22 @@ Op dit moment werken we nog met reeds aangemaakte testusers. Als bekend is hoe h
 - Voor elk te kiezen 'ding' (item, materiaal, merk, evenement) is er een keuze 'OTHER' voor het geval de juiste waarde er niet is
 - Als je naar een andere foto bent gegaan en je komt terug bij de eerdere foto, dan staan de laatst gegeven kenmerken er nog
 
+## Ospar-items
+Ospar is een specifieke instantie, of manier, om strandafval vast te leggen. Deelnemers krijgen een stuk strand toegewezen die ze een aantal keer per jaar heel precies schoonmaken en het gevonden afval vastleggen. Hiervoor is een aantal items mogelijk, die ook nummers hebben. Om de deelnemers van een 100m-strook of van een 1000m-strook de kans te bieden om hun papieren versie ook digitaal te maken, hebben we die items opgenomen in onze lijst.
+
+Om de mensen die wel op het strand lopen, maar niet met Ospar te maken hebben, ook de mogelijkheid te geven om hun items toe te voegen, hebben we diezelfde items 'dubbel' in de lijst staan, maar dan zonder Ospar-nummering.
+
 ## Evenementen
 Er zullen meerdere evenementen zijn per jaar, en als we deze willen faciliteren, dan zullen we deze toe moeten voegen. Dit doen we in principe met 2 kenmerken: 1 voor de algemene (die elk jaar gebruikt wordt) en 1 voor dezelfde naam, inclusief een jaartal (die alleen in dat jaar gebruikt wordt). Op die manier kan data gezocht worden van een specifiek jaar (of enkele specifieke jaren), maar ook gezocht worden over alle jaren heen.
 
 De volgende evenementen zullen aanwezig zijn, met de volgende reden:
+- Blue Nose Marathon: Voor de actie waarbij voor, tijdens en na de marathon wordt geraapt
 - Canuary: Voor de actie van Paul Waye die in januari blikjes verzameld
 - Cleanup4Sarah: Voor de actie die elk jaar gehouden wordt ter nagedachtenis aan Sarah, een zwerfafvalraapster
 - CornishSpliced: Voor de twitteraar die elke maand een groeps-speurtocht organiseert
 - PeukMeuk: Voor de actie waarbij in NL op 1 dag zoveel mogelijk peuken worden geraapt
 - RedBullLitter: Voor de twitteraar die elke dag 1 blikje Red Bull tweet
+- Stichting de Noordzee - Meet mee: voor het meten van afval op strand
 - WorldCleanupDay: Voor de actie waarop in de hele wereld op 1 dag zoveel mogelijk afval wordt geraapt
 - ZaandeWandel: Voor de actie waarbij wandelaars geld inzamelen tegen kanker en waarbij de route na afloop wordt opgeruimd
 
@@ -97,14 +111,20 @@ De volgende evenementen zijn niet echt evenementen in die zin van het woord, maa
 - BeforeAndAfter: Om een vervuilde plaats te laten zien (dit kenmerk, plus 'before') en de opgeruimde plaats (dit kenmerk, plus 'after')
 - ShowYourImpact: Om het eindresultaat van een cleanup te laten zien, bijv een berg met volle vuilniszakken
 
+## Grafana
+Grafana is onze tool om data inzichtelijk te maken, hieraan wordt nog hard gewerkt dus later pas wat uitleg hierover.
+
+Dit zou ook een eigen hoofdstuk kunnen krijgen in de NL en EN-documentatie.
+
 ## Admin-opties
 - de admin kan alle mogelijke **items** zien en beheren (toevoegen/wijzigen/verwijderen),
 - de admin kan alle **foto's** zien:
   Hij kan kiezen tussen 'alle fotos/alle foto's met tag/alle foto's zonder tags'
+  Hij kan zien hoeveel foto's er wel/niet getagged zijn
   Hij kan sorteren op id of user
-  Hij kan zoeken (op users alleen?)
+  Hij kan zoeken op verschillende filters, zoals users, wel/geen gps, foto-datum, upload-datum
   Hij kan filteren op users
-  Hij kan kiezen om alleen foto met gps te laten zien of alle foto's, (alleen foto's zónder gps komt later)
+  Hij kan kiezen om alleen foto's te laten zien, of alleen met gps of juist zonder gps
   Hij kan een aantal extra velden laten zien (default niet in beeld, ook handig voor video's)
   Hij kan bulk-acties uitvoeren op 1 of meerdere geselecteerde foto's (delete voor nu)
 - de admin kan alle mogelijke tags zien en beheren (toevoegen/wijzigen/verwijderen),
@@ -122,5 +142,5 @@ De volgende evenementen zijn niet echt evenementen in die zin van het woord, maa
 ## Pull Requests
 Het is mogelijk om bij te dragen aan het project. Daarvoor is wel enige specifieke kennis nodig, maar er zijn genoeg leden die bereid zijn om dat uit te leggen.
 
-Als je een github-account hebt, dan heb je waarschijnlijk al voldoende kennis om bijvoorbeeld zelf een extra merk toe te voegen. (Als github je niets zegt, is dat niet erg, maar dan heb je vermoedelijk onvoldoende kennis om dat zelf te doen, in dat geval kan je vragen of dat extra merk door een admin toegevoegd kan worden zodat je direct verder kan (en wordt dat merk ook door iemand toegevoegd in de zogenaamde 'feeder').
+Als je een github-account hebt, dan heb je waarschijnlijk al voldoende kennis om bijvoorbeeld zelf een extra merk toe te voegen. (Als github je niets zegt, is dat niet erg, maar dan heb je vermoedelijk onvoldoende kennis om dat zelf te doen, in dat geval kan je vragen of dat extra merk door een admin toegevoegd kan worden zodat je direct verder kan (en wordt dat merk ook door iemand toegevoegd in de zogenaamde 'seeder').
 Als een Pull Request wordt gemaakt, worden ook automatisch tests afgetrapt. Mocht er iets niet goed zijn in de PR, dan zie je dat dus binnen een minuut.
