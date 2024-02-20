@@ -6,7 +6,7 @@ Vandaar dat we hieronder een tabel gaan maken met daarin de naam zoals die in ke
 |Item|Example|
 |-----------|-----------|
 |4/6-pack yokes||
-|box (cigarette)|![cigarettebox](https://github.com/phummelen/littertagger-docs/assets/2518047/5d85cea3-6c88-4223-b5f2-2f7dd907e70a)|
+|box (cigarette)|![cigarettebox](assets/images/examples/cigarettebox.jpg)|
 |lighter||
 
 Wat hieronder staat, komt later in de Engelstalige versie:
