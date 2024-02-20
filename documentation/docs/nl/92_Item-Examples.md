@@ -5,8 +5,10 @@ Vandaar dat we hieronder een tabel gaan maken met daarin de naam zoals die in ke
 
 |Item|Example|
 |-----------|-----------|
-|4/6-pack yokes|-|
-
+|4/6-pack yokes||
+|box (cigarette)|![cigarettebox](assets/images/examples/cigarettebox.jpg)|
+|lighter||
+|huls (vuurwerk)|![](assets/images/examples/huls-vuurwerk.png)|
 
 Wat hieronder staat, komt later in de Engelstalige versie:
 
