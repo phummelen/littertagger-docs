@@ -33,12 +33,12 @@ Hoe je dat kan doen, zie je hieronder.
 ## Hoe noem je dit?
 En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net moet weten hoe zoiets heef, of wat de naam is die wij gekozen hebben en waaronder je die kan vinden in onze lijst:
 
-|Foto                                         |Wat is het/onder welke naam kan ik die vinden|
-|---------------------------------------------|---------------------------------------------|
-|                                             |beker-houder, 4/6-pack yokes|
-|![](assets/images/examples/huls-vuurwerk.jpg)|vuurwerkhuls --> Fireworks|
-|                                             |glove|
-|                                             |glove (industrial/professional)|
+|Foto                                                   |Wat is het/onder welke naam kan ik die vinden|
+|-------------------------------------------------------|---------------------------------------------|
+|                                                       |beker-houder, 4/6-pack yokes|
+|![Fireworks](assets/images/examples/huls-vuurwerk.jpg) |vuurwerkhuls --> Fireworks|
+|![glove](assets/images/examples/glove.jpg)             |glove|
+|![glove](assets/images/examples/glove_professional.jpg)|glove (industrial/professional)|
 
 
 
@@ -46,4 +46,4 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 Dat zie je vooral aan de logo's erop. Niet alle landen hebben hetzelfde logo.
 |Nederland|Duitsland|
 |---------|---------|
-|![](assets/images/examples/Deposit_Netherlands.jpg)|![](assets/images/examples/Deposit_Germany.jpg)|
+|![NL](assets/images/examples/Deposit_Netherlands.jpg)|![D](assets/images/examples/Deposit_Germany.jpg)|
