@@ -39,6 +39,35 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 |![Fireworks](assets/images/examples/huls-vuurwerk.jpg) |vuurwerkhuls --> Fireworks|
 |![glove](assets/images/examples/glove.jpg)             |glove|
 |![glove](assets/images/examples/glove_professional.jpg)|glove (industrial/professional)|
+|![showyourimpact](assets/images/examples/BagOfLitter.jpg)|Bag of Litter (plus evt aantal) + Event: ShowYourImpact|
+|![BeforeAndAfter](assets/images/examples/BeforeAndAfter_Before.jpg)|Event: BeforeAndAfter + Event: BeforeAndAfter_Before|
+|![BeforeAndAfter](assets/images/examples/BeforeAndAfter_After.jpg)|Event: BeforeAndAfter + Event: BeforeAndAfter_After|
+|![BinExploded](assets/images/examples/BinExploded1.jpg)|Bin (Exploded)|
+|![BinExploded](assets/images/examples/BinExploded2.jpg)|Bin (Exploded)|
+
+BinOverlflowing.jpg
+Content_Cocktail.jpg
+CupLid1.jpg, 2, 3, 4
+CupLidStraw1.jpg, 2
+CupStraw.jpg
+DrinkCarton1.jpg, 2, 3, 4
+DrinkPouch1.jpg, 2, 3, 4
+Fireworks.jpg
+LidStraw1.jpg, 2
+MedicineStrip.jpg
+NerfGunBulliet.jpg
+Pacifier.jpg
+Polluted area.jpg
+PullRing.jpg
+PullRing_old.jpg
+Question_BottleAndTopDifferentMaterials.jpg
+Question_OneOrTwo.jpg
+ShowYourImpact.jpg
+Tobaccopouch.jpg
+Tray.jpg
+VapePenPart.jpg
+piece of aluminium.jpg
+polluted area or before.jpg
 
 
 
