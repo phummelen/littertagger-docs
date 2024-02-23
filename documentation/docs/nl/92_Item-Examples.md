@@ -1,5 +1,8 @@
 # Zwerfafval voorbeelden
 
+LET OP: DIT DOCUMENT IS NOG IN AANMAAK! BIJ VRAGEN, NEEM CONTACT OP MET DE MAKERS!!!
+
+
 Bij het zogenaamde 'taggen' van je gemaakte foto's kan het lastig zijn om te weten welke naam of kenmerken je aan je foto moet geven. Bij het bouwen van de applicatie hebben wij als ontwikkelaars keuzes moeten maken en hebben we namen gegeven aan objecten waarbij iemand anders ze wellicht anders zou hebben genoemd.
 
 Daarnaast hebben we niet elk mogelijk artikel dat je als afval kunt vinden in de lijst opgenomen, dat zou immers een lijst van vele duizenden items betreffen. Toch hebben we geprobeerd de lijst dusdanig te maken dat je alles moet kunnen beschrijven.
@@ -27,8 +30,15 @@ Hoe je dat kan doen, zie je hieronder.
 
 |Foto                                         |Hoe tagt ik dit?                             |
 |---------------------------------------------|---------------------------------------------|
-|                                             ||
-|![](assets/images/examples/huls-vuurwerk.jpg)||
+|![Cup and Lid](assets/images/examples/CupLid1.jpg)|item1: Cup (with Lid, add Lid as separate item)<br>Material1: ...<br>Item2: Lid (Coffee)<br>Material:...|
+|![Cup and Lid](assets/images/examples/CupLid2.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid](assets/images/examples/CupLid3.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid](assets/images/examples/CupLid4.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid and Straw](assets/images/examples/CupLidStraw1.jpg)|item=Cup + Material=... & Item2=Lid + Material=... & Item3=Straw + Material=...|
+|![Cup and Lid and Straw](assets/images/examples/CupLidStraw2.jpg)|item=Cup + Material=... & Item2=Lid + Material=... & Item3=Straw + Material=...|
+|![Cup and Straw](assets/images/examples/CupStraw.jpg)|item=Cup + Material=... & Item2=Straw + Material=...|
+|![Lid and Straw](assets/images/examples/LidStraw1.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
+|![Lid and Straw](assets/images/examples/LidStraw2.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
 
 ## Hoe noem je dit?
 En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net moet weten hoe zoiets heef, of wat de naam is die wij gekozen hebben en waaronder je die kan vinden in onze lijst:
@@ -43,15 +53,6 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 |![BeforeAndAfter](assets/images/examples/BeforeAndAfter_After.jpg)|Event: BeforeAndAfter + Event: BeforeAndAfter_After|
 |![BinExploded](assets/images/examples/BinExploded1.jpg)|Bin (Exploded)|
 |![BinOverlflowing](assets/images/examples/BinOverlflowing.jpg)|Bin (Overflowing)|
-|![Cup and Lid](assets/images/examples/CupLid1.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
-|![Cup and Lid](assets/images/examples/CupLid2.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
-|![Cup and Lid](assets/images/examples/CupLid3.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
-|![Cup and Lid](assets/images/examples/CupLid4.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
-|![Cup and Lid and Straw](assets/images/examples/CupLidStraw1.jpg)|item=Cup + Material=... & Item2=Lid + Material=... & Item3=Straw + Material=...|
-|![Cup and Lid and Straw](assets/images/examples/CupLidStraw2.jpg)|item=Cup + Material=... & Item2=Lid + Material=... & Item3=Straw + Material=...|
-|![Cup and Straw](assets/images/examples/CupStraw.jpg)|item=Cup + Material=... & Item2=Straw + Material=...|
-|![Lid and Straw](assets/images/examples/LidStraw1.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
-|![Lid and Straw](assets/images/examples/LidStraw2.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
 |![DrinkCarton](assets/images/examples/DrinkCarton1.jpg)|item=Drinkcarton|
 |![DrinkCarton](assets/images/examples/DrinkCarton2.jpg)|item=Drinkcarton|
 |![DrinkCarton](assets/images/examples/DrinkCarton3.jpg)|item=Drinkcarton|
@@ -61,9 +62,11 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 |![DrinkPouch](assets/images/examples/DrinkPouch3.jpg)|item=DrinkPouch|
 |![DrinkPouch](assets/images/examples/DrinkPouch4.jpg)|item=DrinkPouch|
 |![Fireworks](assets/images/examples/Fireworks.jpg)|item=Fireworks|
+|![Fireworks](assets/images/examples/huls-vuurwerk.jpg)|item=Fireworks|
 |![MedicineStrip](assets/images/examples/MedicineStrip.jpg)|item=MedicineStrip|
 |![NerfGunBullet](assets/images/examples/NerfGunBullet.jpg)|item=NerfGunBullet|
 |![Pacifier](assets/images/examples/Pacifier.jpg)|item=Pacifier|
+|![piece of aluminium](assets/images/examples/piece%20of%20aluminium.jpg)|item='Piece of' + Material=Aluminium|
 |![PullRing](assets/images/examples/PullRing.jpg)|item=PullRing|
 |![PullRing_old](assets/images/examples/PullRing_old.jpg)|item=PullRing|
 |![Tobaccopouch](assets/images/examples/Tobaccopouch.jpg)|item=Tobaccopouch|
@@ -71,25 +74,20 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 |![VapePenPart](assets/images/examples/VapePenPart.jpg)|item=VapePenPart|
 |![Question_OneOrTwo](assets/images/examples/Question_OneOrTwo.jpg)|item=What do you think? Tag as 1 item or as 2?|
 |![Question_BottleAndTopDifferentMaterials](assets/images/examples/Question_BottleAndTopDifferentMaterials.jpg)|item=What do you think? Tag as 1 item or as 2?|
+|![ShowYourImpact](assets/images/examples/ShowYourImpact.jpg)|Als je niet elk onderdeel vast wilt leggen, maar wel wil laten zien wat je hebt bereikt: item=bag-of-litter+Event=ShowYourImpact|
+|![Polluted area](assets/images/examples/Polluted%20area.jpg)|Als je wilt laten zien hoe smerig het is: item=Polluted Area|
+|![Polluted area](assets/images/examples/polluted%20area%20or%20before.jpg)|Als je wilt laten zien hoe smerig het is: item=Polluted Area|
 |![](assets/images/examples/.jpg)|item=|
 
-Content_Cocktail.jpg
 
-|![piece of aluminium](assets/images/examples/piece of aluminium.jpg)|item=|
+## Content, bijzonderheden
+Over het algemeen zal dat wel duidelijk zijn. Zie je een melkkarton, dan tag je hem als drinkcarton, en kan je bij 'content' aangeven dat het om melk gaat. En op die manier heb ik ook bijv 'bier' voor flesjes of blikjes en 'spirit' voor de echt sterke dranken.
 
-.jpg
-Polluted area.jpg
-.jpg
-.jpg
-.jpg
-.jpg
-ShowYourImpact.jpg
-.jpg
-.jpg
-.jpg
-.jpg
-polluted area or before.jpg
+Maar hoe doe je dat met bijv mix-drankjes zoals deze:
 
+|Nederland|Duitsland|
+|---------|---------|
+|![Mixed](assets/images/examples/Content_Cocktail.jpg)|Gebruik Content=Cocktail
 
 
 ## Statiegeld, hoe herken ik dat?
