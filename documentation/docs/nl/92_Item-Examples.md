@@ -35,38 +35,59 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 
 |Foto                                                   |Wat is het/onder welke naam kan ik die vinden|
 |-------------------------------------------------------|---------------------------------------------|
-|                                                       |beker-houder, 4/6-pack yokes|
-|![Fireworks](assets/images/examples/huls-vuurwerk.jpg) |vuurwerkhuls --> Fireworks|
-|![glove](assets/images/examples/glove.jpg)             |glove|
+|![Fireworks](assets/images/examples/huls-vuurwerk.jpg) |vuurwerkhuls --> Item=Fireworks|
+|![glove](assets/images/examples/glove.jpg)             |gewone kleding/handschoen --> Item=Glove|
 |![glove](assets/images/examples/glove_professional.jpg)|glove (industrial/professional)|
 |![showyourimpact](assets/images/examples/BagOfLitter.jpg)|Bag of Litter (plus evt aantal) + Event: ShowYourImpact|
 |![BeforeAndAfter](assets/images/examples/BeforeAndAfter_Before.jpg)|Event: BeforeAndAfter + Event: BeforeAndAfter_Before|
 |![BeforeAndAfter](assets/images/examples/BeforeAndAfter_After.jpg)|Event: BeforeAndAfter + Event: BeforeAndAfter_After|
 |![BinExploded](assets/images/examples/BinExploded1.jpg)|Bin (Exploded)|
-|![BinExploded](assets/images/examples/BinExploded2.jpg)|Bin (Exploded)|
+|![BinOverlflowing](assets/images/examples/BinOverlflowing.jpg)|Bin (Overflowing)|
+|![Cup and Lid](assets/images/examples/CupLid1.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid](assets/images/examples/CupLid2.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid](assets/images/examples/CupLid3.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid](assets/images/examples/CupLid4.jpg)|item=Cup + Material=... & Item2=Lid + Material=...|
+|![Cup and Lid and Straw](assets/images/examples/CupLidStraw1.jpg)|item=Cup + Material=... & Item2=Lid + Material=... & Item3=Straw + Material=...|
+|![Cup and Lid and Straw](assets/images/examples/CupLidStraw2.jpg)|item=Cup + Material=... & Item2=Lid + Material=... & Item3=Straw + Material=...|
+|![Cup and Straw](assets/images/examples/CupStraw.jpg)|item=Cup + Material=... & Item2=Straw + Material=...|
+|![Lid and Straw](assets/images/examples/LidStraw1.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
+|![Lid and Straw](assets/images/examples/LidStraw2.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
+|![DrinkCarton](assets/images/examples/DrinkCarton1.jpg)|item=Drinkcarton|
+|![DrinkCarton](assets/images/examples/DrinkCarton2.jpg)|item=Drinkcarton|
+|![DrinkCarton](assets/images/examples/DrinkCarton3.jpg)|item=Drinkcarton|
+|![DrinkCarton](assets/images/examples/DrinkCarton4.jpg)|item=Drinkcarton|
+|![DrinkPouch](assets/images/examples/DrinkPouch1.jpg)|item=DrinkPouch|
+|![DrinkPouch](assets/images/examples/DrinkPouch2.jpg)|item=DrinkPouch|
+|![DrinkPouch](assets/images/examples/DrinkPouch3.jpg)|item=DrinkPouch|
+|![DrinkPouch](assets/images/examples/DrinkPouch4.jpg)|item=DrinkPouch|
+|![Fireworks](assets/images/examples/Fireworks.jpg)|item=Fireworks|
+|![MedicineStrip](assets/images/examples/MedicineStrip.jpg)|item=MedicineStrip|
+|![NerfGunBullet](assets/images/examples/NerfGunBullet.jpg)|item=NerfGunBullet|
+|![Pacifier](assets/images/examples/Pacifier.jpg)|item=Pacifier|
+|![PullRing](assets/images/examples/PullRing.jpg)|item=PullRing|
+|![PullRing_old](assets/images/examples/PullRing_old.jpg)|item=PullRing|
+|![Tobaccopouch](assets/images/examples/Tobaccopouch.jpg)|item=Tobaccopouch|
+|![Tray](assets/images/examples/Tray.jpg)|item=Tray|
+|![VapePenPart](assets/images/examples/VapePenPart.jpg)|item=VapePenPart|
+|![Question_OneOrTwo](assets/images/examples/Question_OneOrTwo.jpg)|item=What do you think? Tag as 1 item or as 2?|
+|![Question_BottleAndTopDifferentMaterials](assets/images/examples/Question_BottleAndTopDifferentMaterials.jpg)|item=What do you think? Tag as 1 item or as 2?|
+|![](assets/images/examples/.jpg)|item=|
 
-BinOverlflowing.jpg
 Content_Cocktail.jpg
-CupLid1.jpg, 2, 3, 4
-CupLidStraw1.jpg, 2
-CupStraw.jpg
-DrinkCarton1.jpg, 2, 3, 4
-DrinkPouch1.jpg, 2, 3, 4
-Fireworks.jpg
-LidStraw1.jpg, 2
-MedicineStrip.jpg
-NerfGunBulliet.jpg
-Pacifier.jpg
+
+|![piece of aluminium](assets/images/examples/piece of aluminium.jpg)|item=|
+
+.jpg
 Polluted area.jpg
-PullRing.jpg
-PullRing_old.jpg
-Question_BottleAndTopDifferentMaterials.jpg
-Question_OneOrTwo.jpg
+.jpg
+.jpg
+.jpg
+.jpg
 ShowYourImpact.jpg
-Tobaccopouch.jpg
-Tray.jpg
-VapePenPart.jpg
-piece of aluminium.jpg
+.jpg
+.jpg
+.jpg
+.jpg
 polluted area or before.jpg
 
 
