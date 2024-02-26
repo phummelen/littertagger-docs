@@ -8,7 +8,48 @@ Om dit te kunnen doen, hebben we binnen LitterApp mometeel meerdere kenmerken di
 
 Hieronder worden de verschillende kenmerken wat verder uitgelegd. 
 
-Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat er wat met die data gedaan kan worden, door jezelf, of door anderen. En bedenk hierbij dan ook dat dit waarschijnlijk gedaan wordt door te kijken naar de kenmerken die gegeven zijn en niet naar de individuele foto's, dus de kenmerken moeten eigenlijk vertellen wat er op de originele foto te zien was zonder de mogelijkheid dat er verwarring over bestaat.
+## Materiaal
+Spreekt voor zich, maar kan toch nog lastig zijn. Een snoepwikkel is over het algemeen van plastic, een pakje sigaretten meestal van papier. Maar hoe zit het met een broodzak die van papier lijkt, maar waar een plastic venster in zit, of een vape-pen dat bestaat uit een matalen huls, een plastic mondstuk, een stuk electronica en een batterij en nog een veelvoud aan andere stoffen?
+
+Hier is niet direct een goed antwoord voor te geven. De papieren zak met plastic venster taggen wij zelf als 'papier', maar er is ook wat voor te zeggen om 'plastic' als 2e materiaal op te nemen. Datzelfde geldt voor het pakje sigaretten. Als dat van papier is, dan kan je dat aangeven, zit er nog een plastic hoes omheen, dan kan je plastic eventueel toevoegen als materiaal.
+
+## Merk
+Ook deze spreek voor zich, maar ook deze kan weer lastig zijn. Het merk is vaak te vinden op het product en we hebben al veel merken in onze lijsten zitten, dus tik een deel ervan in, en kijk of hij tevoorschijn komt.
+
+Wat we hier vooral doen, is het merk op het product vastleggen, zonder rekening te houden met de moeder-maatschappij. Zo leggen we een Twix (van het Mars-concent) vast als 'Twix' en M&M's als M&M's. Op de achtergrond zorgen wij dan dat we opties krijgen waarbij we al die producten kunnen bundelen tot het Mars-concern.
+
+## Content
+Nog zo een die voor zich spreekt maar ook af kan wijken van wat je zou verwachten. Het gaat hier om de inhoud dat oorspronkelijk in het object zou kunnen hebben gezeten en daardoor ook een kenmerk voor het object is. Zo is een beker gewoon een beker, maar als je aan kan geven dat de inhoud koffie was, dan is het een specifiekere beschrijving van die beker. Of als je bijv een blikje hebt gevonden en aangeeft dat de inhoud energiedrank was, dan zegt dat meer dan alleen een blikje en is het weer een ander soort product dan een blikje waar frisdrank in zat.
+
+Er zijn echter ook bijzondere mogelijkheden. Zo hebben we bijv wijn of bier, maar ook alcohol. Die laatste bedoelen we echt voor flessen met sterke dranken. Blikjes met mix-drankjes kan je aangeven met Inhoud = Cocktail, bijv een Bacardi-Cola, of een Cola-Jack Daniels
+
+## Afmeting/Gewicht
+Voor sommige onderzoeken kan het van belang zijn om te weten hoe groot een object is, of wat het gewicht ervan is. Deze waardes kan je eventueel hier kwijt. Dit is bijv van belang om aan te geven of het draad dat je gevonden hebt op het strand 2 centimeter lang was, of een stuk van meer dan een meter.
+
+## De staat van het product
+Voor meerdere onderzoeken, denk bijvoorbeeld aan een onderzoek naar de werking van statiegeld op flesjes en blikjes, kan het interessant wezen om vast te leggen wat de staat is van het product dat is gevonden. Zo kan een blikje bijv nog 'als nieuw' zijn (en bijv makkelijk in te leveren als er statiegeld op zit) of dat hij gedeukt is of misschien zelfs helemaal plat. Voor producten die op het strand gevonden worden, kan het weer interessant zijn om te weten of ze nog als nieuw zijn of juist helemaal versleten.
+
+## Evenement
+Een evenement is een bijzonder kenmerk dat wellicht niet direct op het artikel zelf slaat, maar meer op de gebeurtenis waarvoor het product is geraapt. Denk hierbij bijvoorbeeld aan alles dat geraapt is tijdens de Word Cleanup Day, of een maandelijkse opruimactie met je lokale groep.
+
+## Hoeveelheid
+De 'hoeveelheid' is een handige manier bij speciale items. Denk bijv aan een plek waar heel veel ballonnen liggen, of peuken. In plaats van dat je elke peuk op de foto zet, kan je dan ook 1 foto nemen van een stel peuken en met 'hoeveelheid' kan je dan aangeven hoeveel het er zijn.
+
+## Opgeraapt
+Dit klinkt voor sommigen als een rare, we doen dit toch om de wereld wat schoner te maken, hoezo zou je het dan niet oprapen? Goede vraag, maar zo zijn er ook goede redenen om het niet te doen. Bijvoorbeeld als dat een gevaarlijke situatie in zou houden (denk aan iets aan de andere kant van de snelweg) of als het te groot is of in het water en je kan er nu nog niet bij etc. Wil je het wel vastleggen, maar niet oprapen, dan kan je deze dus uit zetten voor deze foto. De algemene instelling kan je instellen bij je profiel.
+
+## Recycled
+Dit is een kenmerk die voor verschillende mensen in het leven geroepen is en die hiermee aangeven dat zijzelf de moeite hebben genomen om het afval bijv gescheiden af te voeren (bijv glas in de glasbak, of plastic in de plastic-container etc). Dit staat dus los van of het bedrijf daarna toch weer al het plastic verbrand of echt recyclet.
+
+## Statiegeld
+Met Statiegeld geven we aan of het item een statiegeld-item is, denk hierbij vooral aan plastic flesjes en blikjes, maar ook bijv aan bepaalde bekers van McDonalds of bierglazen op een festival etc.
+
+## Ik mis er 1, wat nu?
+Ondanks dat we al redelijk gevulde lijsten hebben, weten we zeker dat we waardes missen. Het kan natuurlijk zijn dat hij wel bestaat, maar onder een andere naam, maar de kans is ook aanwezig dat de lijst niet volledig is. Neem in dat geval contact met ons op zodat we knnen kijken of we hem niet al hebben onder een andere naam (en mogelijk duidelijker genoemd moet gaan worden) of dat hij ontbreekt en dat wij hem toe moeten voegen. In de tussentijd kán je eventueel de keuze 'Andere ontbrekende waarde' toevoegen, maar dan moet je hem later wel weer corrigeren als we die waarde toegevoegd hebben.
+
+
+## Dat zijn nogal wat kenmerken, moet ik die allemaal in gaan vullen?!
+Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat er wat met die data gedaan kan worden, door jezelf, of door anderen. Hoe meer data, hoe beter, maar zoals eerder gezegd, probeer voor jezelf een werkbare situatie te vinden.
 
 Neem als voorbeeld een foto van een redbull-blikje. Dit kan je op meerdere manieren taggen en de meest gangbare manier zal zijn:
 
@@ -41,6 +82,26 @@ Als we bijv weten dat er serieus onderzoek wordt gedaan naar 'de staat van het b
 
 Om, zonder te weten wat de informatiebehoefte is, álles te gaan proberen vast te leggen, is eigenlijk onbegonnen werk, want ook al leggen we dit allemaal vast, dan verschijnt er wellicht iemand op het toneel die juist geïnteresseerd is in de maat van het blikje, of dat het lipje er nog op vast zat of niet, of wat de kleur was van het blikje, of het gewicht, de barcode etc etc.
 
+## De kenmerken vertellen hoe de foto eruit zag
+Bedenk hierbij dat je de data toevoegt omdat de gebruikers ervan niet de foto's gaan bekijken, maar de data die jij aangemaakt hebt óver die foto's en dat de gegeven kenmerken dus eigenlijk moeten vertellen wat er op de originele foto te zien was zonder de mogelijkheid dat er verwarring over bestaat.
+
+Hieronder laten we een paar voorbeelden zien waaruit blijkt dat dat best lastig is.
+
+Neem bijvoorbeeld een foto van een papieren milkshake-beker met daarnaast een deksel met een rietje erin dat op onderstaande manier wordt vastgelegd. Daarnaast zi je dan 1 van de manieren hoe de onderzoeker deze informatie zou kunnen interpreteren.
+
+|Foto|Kenmerken|Wat de onderzoeker denkt|
+|----------------------|----|------------------------|
+|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup<br>Materiaal: Papier<br><br>Item: Deksel<br>Materiaal: plastic<br><br>Item: Rietje<br>Materiaal: Papier|![Reproductie](assets/images/examples/Repro02.jpg)|
+
+Om ervoor te zorgen dat wel tot de juiste foto gekomen zou kunnen worden, zou je hem op de volgende manier kunnen taggen.
+|Foto|Kenmerken|Wat de onderzoeker denkt|
+|----------------------|----|------------------------|
+|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup (met deksel, leg deksel apart vast)<br>Materiaal: Papier<br>Merk: KFC<br><br>Item: Deksel (met rietje, leg rietje apart vast)<br>Materiaal: plastic<br>Merk: KFC<br><br>Item: Rietje<br>Materiaal: Papier<br>Merk: KFC|![Reproductie](assets/images/examples/Repro01.jpg)|
+
+
+HIERONDER NOG NAKIJKEN
+
+
 
 ## Hoe leg je samengestelde dingen vast
 Een van de lastige vraagstukken is hoe je samengestelde dingen vastlegt.
@@ -72,73 +133,3 @@ Er zijn echter nog veel meer vragen die lastig te beantwoorden zijn. Mede daarom
 
 
 
-## Content, bijzonderheden
-Over het algemeen zal dat wel duidelijk zijn. Zie je een melkkarton, dan tag je hem als drinkcarton, en kan je bij 'content' aangeven dat het om melk gaat. En op die manier heb ik ook bijv 'bier' voor flesjes of blikjes en 'spirit' voor de echt sterke dranken.
-
-Maar hoe doe je dat met bijv mix-drankjes zoals deze:
-
-|Nederland|Duitsland|
-|---------|---------|
-|![Mixed](assets/images/examples/Content_Cocktail.jpg)|Gebruik Content=Cocktail
-
-
-## Statiegeld, hoe herken ik dat?
-Dat zie je vooral aan de logo's erop. Niet alle landen hebben hetzelfde logo.
-
-|Nederland|Duitsland|
-|---------|---------|
-|![NL](assets/images/examples/Deposit_Netherlands.jpg)|![D](assets/images/examples/Deposit_Germany.jpg)|
-
-
-
-
-Als we hier ook zeggen dat het 'een beker' betreft, dan krijg je het volgende:
-- Item: Beker
-- Merk: McDonalds
-- Materiaal: Papier
-
-En hier gaan we dus de mist in want iemand die dus onze data zal gebruiken, zal (de gegevens van) deze foto dus gebruiken, denkende dat hier alleen een beker werd gevonden, terwijl deze beker ook nog een deksel (van plastic zelfs!) en een rietje had (van papier, waar je in veel landen wellicht nog plastic verwacht).
-
-Hier mis je dus belangrijke informatie.
-
-En daarom vinden we (maar niet unaniem!) dat je dit weer zou moeten geven als 3 onderdelen:
-- Item: Beker
-- Merk: McDonalds
-- Materiaal: Papier
-
-En
-- Item: Deksel
-- Merk: McDonalds
-- Materiaal: Plastic
-
-En
-- Item: Rietje
-- Merk: McDonalds
-- Materiaal: Papier
-
-Door het op deze manier vast te leggen, is het al duidelijk dat er dus blijkbaar 3 dingen gevonden zijn, die van hetzelfde merk waren, maar verschillend qua materiaal.
-
-Maar ook dit vinden we eigenlijk niet kloppen want iemand die deze informatie gebruikt zou hieraan niet kunnen zien of die onderdelen los lagen (maar toevallig wel op 1 foto) of dat ze nog aan elkaar zaten (of bijv de beker los, terwijl daarnaast de deksel lag met het rietje er nog in). Terwijl dat juist nuttige informatie kan blijken te zijn (informatie bijv waarom McDonalds bij sommige producten ook aan het afstappen is van losse deksels).
-
-Daarom hebben we bij LitterApp gekozen voor een manier waarmee dit op te lossen valt.
-
-Als het allemaal losse onderdelen zijn, dan gebruik je bovenstaande manier, als ze echter allemaal nog op/aan elkaar zitten, dan heb je een speciekere optie:
-- Item: Beker (met deksel er nog op)
-- Item: Deksel (met rietje er nog in)
-- Item: Rietje
-
-Hiermee is het dus zichtbaar dat op de originele foto iets bijzonders aan de hand was, het zijn weliswaar 3 objecten, maar ze waren allemaal nog verbonden.
-
-Vind je bijv een beker los, en daarnaast een deksel met rietje erin, dan zou je de volgende items kunnen aangeven:
-- Item: Beker
-- Item: Deksel (met rietje er nog in)
-- Item: Rietje
-
-En zou je een beker vinden met een deksel er nog op, maar het rietje er los naast, dan dus de volgende:
-- Item: Beker (met deksel er nog op)
-- Item: Deksel
-- Item: Rietje
-
-Dit was een lange uitleg, maar een waarmee we hopen duidelijk te maken dat het lastig is om van te voren te weten wat je vast moet leggen en hoe je dat moet doen maar zoals eerder al gezegd, alles is goed, zelfs een foto zonder kenmerken kan al waarde hebben en alles wat je er verder aan toevoegt, maakt het nog beter, maar wel met de kanttekening voor jezelf dat het ook data kan zijn die nooit gebruikt zal worden, dus kijk zelf hoeveel tijd en energie je daaraan wilt besteden.
-
-De belangrijkste kenmerken, wat ons betreft zijn: Item en Merk (indien aanwezig) en als het kan, Materiaal waarbij we uitgaan van 'het ergste materiaal', of eventueel het 'meest aanwezige materiaal' of eventueel meerdere materialen. (ook hier zijn er dus meerdere manieren mogelijk waarbij er geen juist antwoord is).
