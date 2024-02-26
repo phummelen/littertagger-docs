@@ -40,6 +40,25 @@ Hoe je dat kan doen, zie je hieronder.
 |![Lid and Straw](assets/images/examples/LidStraw1.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
 |![Lid and Straw](assets/images/examples/LidStraw2.jpg)|item=Lid + Material=... & Item2=Straw + Material=...|
 
+
+Zie het voorgaande hoofdstuk waarin we aangaven dat de kans groot is dat mensen niet onze foto te zien krijgen, maar de kenmerken die we daaraan gaven. Dat houdt dus in dat wij een soort beschrijving moeten zien te maken van het voorwerp dat we volgen waarmee de lezers van de kenmerken dus weer de oorspronkelijke foto en dus het object kunnen reproduceren.
+
+Hieronder laten we een paar voorbeelden zien waaruit blijkt dat dat best lastig is.
+
+Maar hoe zit dat dan met een papieren milkshake-beker met een plastic deksel en een papieren rietje daarin van de McDonalds?
+
+
+|Foto|Kenmerken|Wat de onderzoeker denkt|
+|----------------------|----|------------------------|
+|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup<br>Materiaal: Papier<br><br>Item: Deksel<br>Materiaal: plastic<br><br>Item: Rietje<br>Materiaal: Papier|![Reproductie](assets/images/examples/Repro02.jpg)|
+
+'Juiste' manier van taggen:
+|Foto|Kenmerken|Wat de onderzoeker denkt|
+|----------------------|----|------------------------|
+|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup (met deksel, leg deksel apart vast)<br>Materiaal: Papier<br>Merk: KFC<br><br>Item: Deksel (met rietje, leg rietje apart vast)<br>Materiaal: plastic<br>Merk: KFC<br><br>Item: Rietje<br>Materiaal: Papier<br>Merk: KFC|![Reproductie](assets/images/examples/Repro01.jpg)|
+
+
+
 ## Hoe noem je dit?
 En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net moet weten hoe zoiets heef, of wat de naam is die wij gekozen hebben en waaronder je die kan vinden in onze lijst:
 
@@ -79,20 +98,3 @@ En dan zijn er nog items die regelmatig gevonden worden maar waarbij je maar net
 |![Polluted area](assets/images/examples/polluted%20area%20or%20before.jpg)|Als je wilt laten zien hoe smerig het is: item=Polluted Area|
 |![](assets/images/examples/.jpg)|item=|
 
-
-## Content, bijzonderheden
-Over het algemeen zal dat wel duidelijk zijn. Zie je een melkkarton, dan tag je hem als drinkcarton, en kan je bij 'content' aangeven dat het om melk gaat. En op die manier heb ik ook bijv 'bier' voor flesjes of blikjes en 'spirit' voor de echt sterke dranken.
-
-Maar hoe doe je dat met bijv mix-drankjes zoals deze:
-
-|Nederland|Duitsland|
-|---------|---------|
-|![Mixed](assets/images/examples/Content_Cocktail.jpg)|Gebruik Content=Cocktail
-
-
-## Statiegeld, hoe herken ik dat?
-Dat zie je vooral aan de logo's erop. Niet alle landen hebben hetzelfde logo.
-
-|Nederland|Duitsland|
-|---------|---------|
-|![NL](assets/images/examples/Deposit_Netherlands.jpg)|![D](assets/images/examples/Deposit_Germany.jpg)|
