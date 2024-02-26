@@ -92,6 +92,7 @@ Maar hoe doe je dat met bijv mix-drankjes zoals deze:
 
 ## Statiegeld, hoe herken ik dat?
 Dat zie je vooral aan de logo's erop. Niet alle landen hebben hetzelfde logo.
+
 |Nederland|Duitsland|
 |---------|---------|
 |![NL](assets/images/examples/Deposit_Netherlands.jpg)|![D](assets/images/examples/Deposit_Germany.jpg)|
