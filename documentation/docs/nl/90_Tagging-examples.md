@@ -1,46 +1,46 @@
-# Voorbeelden van gevonden zwerfafval en hoe dit te 'taggen'
+# Dat 'taggen', hoe werkt dat en waarom
 
-Hoeveel en wat voor tags je gebruikt, bepaal je zelf, maar over het algemeen geldt: 'hoe meer info, hoe beter'.
+Voordat je begint met het vastleggen van kenmerken is het goed om te bedenken waarom je het doet. Dit kan meerdere redenen hebben. Je legt het bijvoorbeeld puur voor jezelf vast, om te weten hoeveel dingen je hebt opgeraapt. In dat geval zou je geen eens kenmerken hoeven te geven, je upload de foto's en ziet de telling ervan.
 
-Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat er wat met die data gedaan kan worden, door jezelf, of door anderen. En bedenk hierbij dan ook dat dit waarschijnlijk gedaan wordt door te kijken naar die kenmerken die gegeven zijn en niet naar de individuele foto's.
+Maar als je het doet om ook echt impact te gaan maken, dan is de kans groot dat je kenmerken nodig gaat hebben. Juist door die kenmerken kan jij, of anderen, er veel meer mee doen. Maar daarvoor is het wel van belang om de juiste kenmerken te geven, zodat je 'goede data' maakt waar ook echt mee gewerkt kan worden.
 
-Dus de kenmerken moeten eigenlijk vertellen wat er op de originele foto te zien was zonder de mogelijkheid dat er verwarring over bestaat.
+Om dit te kunnen doen, hebben we binnen LitterApp mometeel meerdere kenmerken die je wel of niet in kan vullen. Hoeveel en wat voor tags je gebruikt, bepaal je zelf, maar over het algemeen geldt: 'hoe meer info, hoe beter'.
 
-Neem als voorbeeld een foto van een coca-cola-blikje. Dit kan je op meerdere manieren taggen en de meest gangbare manier zal zijn:
+Hieronder worden de verschillende kenmerken wat verder uitgelegd. 
 
-Item: Can
+Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat er wat met die data gedaan kan worden, door jezelf, of door anderen. En bedenk hierbij dan ook dat dit waarschijnlijk gedaan wordt door te kijken naar de kenmerken die gegeven zijn en niet naar de individuele foto's, dus de kenmerken moeten eigenlijk vertellen wat er op de originele foto te zien was zonder de mogelijkheid dat er verwarring over bestaat.
 
-Merk: Coca-Cola.
+Neem als voorbeeld een foto van een redbull-blikje. Dit kan je op meerdere manieren taggen en de meest gangbare manier zal zijn:
 
-En dit is juiste data waar jij, of iemand anders, wat mee kan. Bijvoorbeeld een vraag beantwoorden als 'hoeveel blikjes zijn er gevonden', of 'hoeveel blikjes van het merk Coca-Cola zijn er gevonden'.
+|Foto                                                   |Tags|
+|-------------------------------------------------------|---------------------------------------------|
+|![Redbull blik](assets/images/examples/State_intact.jpg) |Item: Can<br>Merk: RedBull|
+
+
+En dit is juiste data waar jij, of iemand anders, wat mee kan. Bijvoorbeeld een vraag beantwoorden als 'hoeveel blikjes zijn er gevonden', of 'hoeveel blikjes van het merk Redbull zijn er gevonden'.
 
 Als je de moeite wilt nemen, kan je er echter nog veel meer over vertellen. Of al die extra informatie nuttig is, of zonde van je tijd, dat is lastig te beantwoorden, dat weten we waarschijnlijk pas als we van mensen horen welke data ze gebruiken maar de volgende vragen zouden bijvoorbeeld interessant kunnen zijn voor mensen, die nu nog niet te beantwoorden zijn:
 - Hoeveel procent van de gevonden blikjes zijn gemaakt van aluminum en hoeveel van ijzer?
 - Hoeveel blikjes hadden wél statiegeld en hoeveel blikjes niet?
-- Hoeveel blikjes zijn met al het andere afval gewoon wegegegooid en hoeveel zijn er apart gehouden om te (laten) recyclen?
+- Hoeveel blikjes zijn met al het andere afval gewoon weggegooid en hoeveel zijn er apart gehouden om te (laten) recyclen?
 - Hoeveel blkjes werden er gevonden die nog intact waren, of licht gedeukt, of plat, of verscheurd in stukjes (bijv door een maaimachine)?
 - Hoeveel blikjes hadden nog inhoud of waren zelfs nog niet eens geopend?
 
 Het zijn maar fictieve vragen, maar het zijn wel vragen die bijvoorbeeld serieus van belang kunnen zijn in het onderzoek naar de werking van statiegeld op blik in Nederland, maar het zijn ook vragen die niet beantwoord kunnen worden met enkel de eerste twee kenmerken die gegeven werden.
 
 Als je de voorbeeldvragen zou willen kunnen beantwoorden, dan zou je over dat soort kenmerken dus ook iets moeten zeggen en zou je bijvoorbeeld op het volgende uit kunnen komen:
-- Item: Can
-- Merk: Coca-Cola.
-- Materiaal: Aluminium
-- Statiegeld: Ja
-- Recycled: Nee
-- Staat: Gedeukt
-- Nog inhoud: Nee
-- Nog ongeopend: Nee
 
-Zoals je ziet zou je met deze kenmerken alle vragen kunnen beantwoorden, maar het wordt zo ook wel duiddelijk dat het heel veel werk gaat kosten om slechts 1 blikje te voorzien van kenmerken. En ergens zullen we dus een balans of handige werkwijze moeten gaan zien te vinden.
+
+|Foto                                                   |Tags|
+|-------------------------------------------------------|---------------------------------------------|
+|![Redbull blik](assets/images/examples/State_intact.jpg) |Item: Blikje<br>Merk: RedBull<br>Materiaal: Aluminium<br>Inhoud: Energiedrank<br>Staat: Gedeukt<br>Statiegeld: Ja<br>Recycled: Ja<br>|
+
+Zoals je ziet zou je met deze kenmerken al veel vragen kunnen antwoorden (maar nog niet alle), maar het wordt zo ook wel duiddelijk dat het heel veel werk gaat kosten om slechts 1 blikje te voorzien van kenmerken. En ergens zullen we dus een balans of handige werkwijze moeten gaan zien te vinden.
 
 Als we bijv weten dat er serieus onderzoek wordt gedaan naar 'de staat van het blikje', dan zouden we bewust kunnen vragen om die informatie wel toe te voegen. We zouden ook zelfs mensen kunnen vragen om eerder vastgelegde blikjes na te lopen en dat kenmerk alsnog toe te voegen aan de hand van de foto.
 
 Om, zonder te weten wat de informatiebehoefte is, álles te gaan proberen vast te leggen, is eigenlijk onbegonnen werk, want ook al leggen we dit allemaal vast, dan verschijnt er wellicht iemand op het toneel die juist geïnteresseerd is in de maat van het blikje, of dat het lipje er nog op vast zat of niet, of wat de kleur was van het blikje, of het gewicht, de barcode etc etc.
 
-# Lastige vraagstukken
-## Wat is het?
 
 ## Hoe leg je samengestelde dingen vast
 Een van de lastige vraagstukken is hoe je samengestelde dingen vastlegt.
@@ -59,15 +59,38 @@ Maar als we bijv niet de fles vinden, maar wel het label dat er omheen zat, dan 
 
 En ook daarmee is deze foto voorzien van de belangrijkste en juiste kenmerken.
 
-Maar hierdoor krijgen we ook de vraag, 'moeten we dan die coca-cola fles óók niet voorzien va die 2 kenmerken want die bestaat immers uit de fles en uit het label?'
+Maar hierdoor krijgen we ook de vraag, 'moeten we dan die coca-cola fles niet óók voorzien va die 2 kenmerken want die bestaat immers uit de fles en uit het label?'
 
 Wij vinden van niet. Voor ons is dat een samengesteld geheel dat bij elkaar hoort. En datzelfde geldt bijvoorbeeld voor de dop die er nog op zit.
 
 Maar let wel, als we dat niet aangeven, is het gevolg hiervan dus dat een vraag als 'hoeveel flessen werden er gevonden zonder dop' dus niet te beantwoorden...
 
-Bij een fles met een label vinden we dus dat dit bij elkaar hoort als fles. Je zou kunnen zeggen dat we dat vinden, 'omdat het zo uit de fabriek komt'?
+En omdat er dus wel degelijk mensen zijn die juist hier onderzoek naar doen, hebben we dus in de keuze-lijst dus een gewone 'fles', maar voor diegenen die echt verschil willen maken tussen een fles met, of zonder dop, hebben we ook een 'fles met een dop'. De andere fles kan je dus gebruiken voor flessen zonder de bijbehorende dop. Of dit in de praktijk goed werkt, gaan we in de gaten houden. 
 
-Maar hoe zit dat dan met een papieren milkshake-beker met een plastic deksel en een papieren rietje daarin van de McDonalds?
+Er zijn echter nog veel meer vragen die lastig te beantwoorden zijn. Mede daarom hebben we ook nog een pagina 'Voorbeelden' gemaakt waar we de lastige voorwerpen in zullen noteren, met ónze manier van taggen. Maar nogmaals, het kan op meerdere manieren en ook wij verschillen wel eens van mening...
+
+
+
+
+## Content, bijzonderheden
+Over het algemeen zal dat wel duidelijk zijn. Zie je een melkkarton, dan tag je hem als drinkcarton, en kan je bij 'content' aangeven dat het om melk gaat. En op die manier heb ik ook bijv 'bier' voor flesjes of blikjes en 'spirit' voor de echt sterke dranken.
+
+Maar hoe doe je dat met bijv mix-drankjes zoals deze:
+
+|Nederland|Duitsland|
+|---------|---------|
+|![Mixed](assets/images/examples/Content_Cocktail.jpg)|Gebruik Content=Cocktail
+
+
+## Statiegeld, hoe herken ik dat?
+Dat zie je vooral aan de logo's erop. Niet alle landen hebben hetzelfde logo.
+
+|Nederland|Duitsland|
+|---------|---------|
+|![NL](assets/images/examples/Deposit_Netherlands.jpg)|![D](assets/images/examples/Deposit_Germany.jpg)|
+
+
+
 
 Als we hier ook zeggen dat het 'een beker' betreft, dan krijg je het volgende:
 - Item: Beker
