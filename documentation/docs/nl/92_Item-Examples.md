@@ -43,20 +43,6 @@ Hoe je dat kan doen, zie je hieronder.
 
 Zie het voorgaande hoofdstuk waarin we aangaven dat de kans groot is dat mensen niet onze foto te zien krijgen, maar de kenmerken die we daaraan gaven. Dat houdt dus in dat wij een soort beschrijving moeten zien te maken van het voorwerp dat we volgen waarmee de lezers van de kenmerken dus weer de oorspronkelijke foto en dus het object kunnen reproduceren.
 
-Hieronder laten we een paar voorbeelden zien waaruit blijkt dat dat best lastig is.
-
-Maar hoe zit dat dan met een papieren milkshake-beker met een plastic deksel en een papieren rietje daarin van de McDonalds?
-
-
-|Foto|Kenmerken|Wat de onderzoeker denkt|
-|----------------------|----|------------------------|
-|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup<br>Materiaal: Papier<br><br>Item: Deksel<br>Materiaal: plastic<br><br>Item: Rietje<br>Materiaal: Papier|![Reproductie](assets/images/examples/Repro02.jpg)|
-
-'Juiste' manier van taggen:
-|Foto|Kenmerken|Wat de onderzoeker denkt|
-|----------------------|----|------------------------|
-|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup (met deksel, leg deksel apart vast)<br>Materiaal: Papier<br>Merk: KFC<br><br>Item: Deksel (met rietje, leg rietje apart vast)<br>Materiaal: plastic<br>Merk: KFC<br><br>Item: Rietje<br>Materiaal: Papier<br>Merk: KFC|![Reproductie](assets/images/examples/Repro01.jpg)|
-
 
 
 ## Hoe noem je dit?
