@@ -7,10 +7,7 @@ In dit hoofdstuk geven we voorbeelden van lastige items en suggesties hoe je die
 
 |Foto                                                     |Bijzonderheden                                  |Hoe tagt ik dit?                             |
 |---------------------------------------------------------|------------------------------------------------|---------------------------------------------|
-| BIJZONDERE OBJECTEN                                    |                                                    | |
-![Fireworks](assets/images/examples/huls-vuurwerk.jpg) |vuurwerkhuls |Item=Fireworks|
-|![glove](assets/images/examples/glove.jpg)             |gewone kleding/handschoen | Item=Glove|
-|![glove](assets/images/examples/glove_professional.jpg)| |glove (industrial/professional)|
+| BIJZONDERE OBJECTEN                                     |                                                |                                             |
 |![BinExploded](assets/images/examples/BinExploded1.jpg)| |Bin (Exploded)|
 |![BinOverlflowing](assets/images/examples/BinOverlflowing.jpg)| |Bin (Overflowing)|
 |![DrinkCarton](assets/images/examples/DrinkCarton1.jpg)| |item=Drinkcarton|
@@ -21,8 +18,10 @@ In dit hoofdstuk geven we voorbeelden van lastige items en suggesties hoe je die
 |![DrinkPouch](assets/images/examples/DrinkPouch2.jpg)| |item=DrinkPouch|
 |![DrinkPouch](assets/images/examples/DrinkPouch3.jpg)| |item=DrinkPouch|
 |![DrinkPouch](assets/images/examples/DrinkPouch4.jpg)| |item=DrinkPouch|
+|![Fireworks](assets/images/examples/huls-vuurwerk.jpg) |vuurwerkhuls |Item=Fireworks|
 |![Fireworks](assets/images/examples/Fireworks.jpg)| |item=Fireworks|
-|![Fireworks](assets/images/examples/huls-vuurwerk.jpg)| |item=Fireworks|
+|![glove](assets/images/examples/glove.jpg)             |gewone kleding/handschoen | Item=Glove|
+|![glove](assets/images/examples/glove_professional.jpg)| |glove (industrial/professional)|
 |![MedicineStrip](assets/images/examples/MedicineStrip.jpg)| |item=MedicineStrip|
 |![NerfGunBullet](assets/images/examples/NerfGunBullet.jpg)| |item=NerfGunBullet|
 |![Pacifier](assets/images/examples/Pacifier.jpg)| |item=Pacifier|
@@ -32,8 +31,6 @@ In dit hoofdstuk geven we voorbeelden van lastige items en suggesties hoe je die
 |![Tobaccopouch](assets/images/examples/Tobaccopouch.jpg)| |item=Tobaccopouch|
 |![Tray](assets/images/examples/Tray.jpg)| |item=Tray|
 |![VapePenPart](assets/images/examples/VapePenPart.jpg)| |item=VapePenPart|
-|![Question_OneOrTwo](assets/images/examples/Question_OneOrTwo.jpg)| |item=What do you think? Tag as 1 item or as 2?|
-|![Question_BottleAndTopDifferentMaterials](assets/images/examples/Question_BottleAndTopDifferentMaterials.jpg)| |item=What do you think? Tag as 1 item or as 2?|
 |![ShowYourImpact](assets/images/examples/ShowYourImpact.jpg)|Als je niet elk onderdeel vast wilt leggen, maar wel wil laten zien wat je hebt bereikt|item=bag-of-litter+Event=ShowYourImpact|
 |![Polluted area](assets/images/examples/Polluted%20area.jpg)|Als je wilt laten zien hoe smerig het is|item=Polluted Area|
 |![Polluted area](assets/images/examples/polluted%20area%20or%20before.jpg)|Als je wilt laten zien hoe smerig het is|item=Polluted Area|
@@ -51,3 +48,7 @@ In dit hoofdstuk geven we voorbeelden van lastige items en suggesties hoe je die
 |![showyourimpact](assets/images/examples/BagOfLitter.jpg)| |Bag of Litter (plus evt aantal) + Event: ShowYourImpact|
 |![BeforeAndAfter](assets/images/examples/BeforeAndAfter_Before.jpg)| |Event: BeforeAndAfter + Event: BeforeAndAfter_Before|
 |![BeforeAndAfter](assets/images/examples/BeforeAndAfter_After.jpg)| |Event: BeforeAndAfter + Event: BeforeAndAfter_After|
+| WIJ WETEN HET OOK NIET                                  |                             |                                            |
+|![Question_OneOrTwo](assets/images/examples/Question_OneOrTwo.jpg)| |item=What do you think? Tag as 1 item or as 2?|
+|![Question_BottleAndTopDifferentMaterials](assets/images/examples/Question_BottleAndTopDifferentMaterials.jpg)| |item=What do you think? Tag as 1 item or as 2?|
+
