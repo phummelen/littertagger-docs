@@ -96,38 +96,9 @@ Neem bijvoorbeeld een foto van een papieren milkshake-beker met daarnaast een de
 |![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup<br>Materiaal: Papier<br><br>Item: Deksel<br>Materiaal: plastic<br><br>Item: Rietje<br>Materiaal: Papier|![Reproductie](assets/images/examples/Repro02.jpg)|Item: Cup (met deksel, leg deksel apart vast)<br>Materiaal: Papier<br>Merk: KFC<br><br>Item: Deksel (met rietje, leg rietje apart vast)<br>Materiaal: plastic<br>Merk: KFC<br><br>Item: Rietje<br>Materiaal: Papier<br>Merk: KFC|![Origineel](assets/images/examples/Repro01.jpg)||![Reproductie](assets/images/examples/Repro01.jpg)|
 
 
+## Zie ook onze pagina met voorbeelden
+Met bovenstaande hebben we hopelijk uit kunnen leggen wat je zelf kan doen om 'juiste' data te maken en hebben we tevens aangegeven dat er niet altijd 1 juiste manier is en dat zoiets als 'juiste data' helaas niet bestaat.
 
-HIERONDER NOG NAKIJKEN
+Omdat er vast nog veel voorbeelden zijn van items die altijd vragen oproepen, hebben we een extra hoofdstuk gemaakt met daarin voorbeelden van items en geven we een indicatie van hoe je die zou kunnen taggen.
 
-
-
-## Hoe leg je samengestelde dingen vast
-Een van de lastige vraagstukken is hoe je samengestelde dingen vastlegt.
-
-Als we bijvoorbeeld een plastic Coca-Cola fles vinden, dan geven we die waarschijnlijk aan als:
-- Item: Fles
-- Merk: Coca-Cola
-- Materiaal: Plastic
-
-En daarmee is de foto voorzien van de belangrijkste en juiste kenmerken.
-
-Maar als we bijv niet de fles vinden, maar wel het label dat er omheen zat, dan zouden we die foto voorzien van de volgende kenmerken:
-- Item: Label
-- Merk: Coca-Cola
-- Materiaal: Plastic
-
-En ook daarmee is deze foto voorzien van de belangrijkste en juiste kenmerken.
-
-Maar hierdoor krijgen we ook de vraag, 'moeten we dan die coca-cola fles niet óók voorzien va die 2 kenmerken want die bestaat immers uit de fles en uit het label?'
-
-Wij vinden van niet. Voor ons is dat een samengesteld geheel dat bij elkaar hoort. En datzelfde geldt bijvoorbeeld voor de dop die er nog op zit.
-
-Maar let wel, als we dat niet aangeven, is het gevolg hiervan dus dat een vraag als 'hoeveel flessen werden er gevonden zonder dop' dus niet te beantwoorden...
-
-En omdat er dus wel degelijk mensen zijn die juist hier onderzoek naar doen, hebben we dus in de keuze-lijst dus een gewone 'fles', maar voor diegenen die echt verschil willen maken tussen een fles met, of zonder dop, hebben we ook een 'fles met een dop'. De andere fles kan je dus gebruiken voor flessen zonder de bijbehorende dop. Of dit in de praktijk goed werkt, gaan we in de gaten houden. 
-
-Er zijn echter nog veel meer vragen die lastig te beantwoorden zijn. Mede daarom hebben we ook nog een pagina 'Voorbeelden' gemaakt waar we de lastige voorwerpen in zullen noteren, met ónze manier van taggen. Maar nogmaals, het kan op meerdere manieren en ook wij verschillen wel eens van mening...
-
-
-
-
+En zoals altijd, mocht je toch nog onduidelijkheden tegenkomen, laat het ons gerust weten!
