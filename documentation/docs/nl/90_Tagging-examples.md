@@ -1,4 +1,4 @@
-# Dat 'taggen', hoe werkt dat en waarom
+# Dat 'taggen', hoe werkt dat en waarom?
 
 Voordat je begint met het vastleggen van kenmerken is het goed om te bedenken waarom je het doet. Dit kan meerdere redenen hebben. Je legt het bijvoorbeeld puur voor jezelf vast, om te weten hoeveel dingen je hebt opgeraapt. In dat geval zou je geen eens kenmerken hoeven te geven, je upload de foto's en ziet de telling ervan.
 
@@ -83,20 +83,18 @@ Als we bijv weten dat er serieus onderzoek wordt gedaan naar 'de staat van het b
 Om, zonder te weten wat de informatiebehoefte is, álles te gaan proberen vast te leggen, is eigenlijk onbegonnen werk, want ook al leggen we dit allemaal vast, dan verschijnt er wellicht iemand op het toneel die juist geïnteresseerd is in de maat van het blikje, of dat het lipje er nog op vast zat of niet, of wat de kleur was van het blikje, of het gewicht, de barcode etc etc.
 
 ## De kenmerken vertellen hoe de foto eruit zag
-Bedenk hierbij dat je de data toevoegt omdat de gebruikers ervan niet de foto's gaan bekijken, maar de data die jij aangemaakt hebt óver die foto's en dat de gegeven kenmerken dus eigenlijk moeten vertellen wat er op de originele foto te zien was zonder de mogelijkheid dat er verwarring over bestaat.
+Tot slot een laatste reden om goed na te denken over de kenmerken die je geeft.
 
-Hieronder laten we een paar voorbeelden zien waaruit blijkt dat dat best lastig is.
+Zelf heb je een foto voor je en geef je via de kenmerken aan wat er op die foto staat. De gebruiker van de data (jijzelf of iemand anders) gebruikt later niet de foto, maar de data die over die foto is vastgelegd. Het is dan ook zaak om kenmerken te geven die dus weer een juist beeld geven over de oorspronkelijke foto.
+
+Dat klinkt ingewikkeld waardoor we hieronder een paar voorbeelden geven van originele foto's, mogelijke kenmerken en wat een gebruiker van die data mogelijk zou denken op basis van de data (en waarom dat dus foute conclusies zou kunnen geven bij onderzoeken).
 
 Neem bijvoorbeeld een foto van een papieren milkshake-beker met daarnaast een deksel met een rietje erin dat op onderstaande manier wordt vastgelegd. Daarnaast zi je dan 1 van de manieren hoe de onderzoeker deze informatie zou kunnen interpreteren.
 
-|Foto|Kenmerken|Wat de onderzoeker denkt|
-|----------------------|----|------------------------|
-|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup<br>Materiaal: Papier<br><br>Item: Deksel<br>Materiaal: plastic<br><br>Item: Rietje<br>Materiaal: Papier|![Reproductie](assets/images/examples/Repro02.jpg)|
+|Foto|Kenmerken|Wat de onderzoeker denkt|Hoe je het ook kan taggen|Wat de onderzoeker denkt|
+|----------------------|----|------------------------|--|--|
+|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup<br>Materiaal: Papier<br><br>Item: Deksel<br>Materiaal: plastic<br><br>Item: Rietje<br>Materiaal: Papier|![Reproductie](assets/images/examples/Repro02.jpg)|Item: Cup (met deksel, leg deksel apart vast)<br>Materiaal: Papier<br>Merk: KFC<br><br>Item: Deksel (met rietje, leg rietje apart vast)<br>Materiaal: plastic<br>Merk: KFC<br><br>Item: Rietje<br>Materiaal: Papier<br>Merk: KFC|![Origineel](assets/images/examples/Repro01.jpg)||![Reproductie](assets/images/examples/Repro01.jpg)|
 
-Om ervoor te zorgen dat wel tot de juiste foto gekomen zou kunnen worden, zou je hem op de volgende manier kunnen taggen.
-|Foto|Kenmerken|Wat de onderzoeker denkt|
-|----------------------|----|------------------------|
-|![Origineel](assets/images/examples/Repro01.jpg)|Item: Cup (met deksel, leg deksel apart vast)<br>Materiaal: Papier<br>Merk: KFC<br><br>Item: Deksel (met rietje, leg rietje apart vast)<br>Materiaal: plastic<br>Merk: KFC<br><br>Item: Rietje<br>Materiaal: Papier<br>Merk: KFC|![Reproductie](assets/images/examples/Repro01.jpg)|
 
 
 HIERONDER NOG NAKIJKEN
