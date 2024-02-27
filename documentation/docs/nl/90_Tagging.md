@@ -11,7 +11,7 @@ Hieronder worden de verschillende kenmerken wat verder uitgelegd.
 ## Materiaal
 Spreekt voor zich, maar kan toch nog lastig zijn. Een snoepwikkel is over het algemeen van plastic, een pakje sigaretten meestal van papier. Maar hoe zit het met een broodzak die van papier lijkt, maar waar een plastic venster in zit, of een vape-pen dat bestaat uit een matalen huls, een plastic mondstuk, een stuk electronica en een batterij en nog een veelvoud aan andere stoffen?
 
-Hier is niet direct een goed antwoord voor te geven. De papieren zak met plastic venster taggen wij zelf als 'papier', maar er is ook wat voor te zeggen om 'plastic' als 2e materiaal op te nemen. Datzelfde geldt voor het pakje sigaretten. Als dat van papier is, dan kan je dat aangeven, zit er nog een plastic hoes omheen, dan kan je plastic eventueel toevoegen als materiaal.
+Hier is niet direct een goed antwoord voor te geven. De papieren zak met plastic venster taggen wij zelf als 'papier', maar er is ook wat voor te zeggen om 'plastic' als 2e materiaal op te nemen. Datzelfde geldt voor het pakje sigaretten. Als dat van papier is, dan kan je dat aangeven, zit er nog een plastic hoes omheen, dan kan je plastic eventueel toevoegen als materiaal. Je kunt er echter ook voor kiezen om er 2 items van te maken: het papieren pakje en het plastic omhulsel.
 
 ## Merk
 Ook deze spreek voor zich, maar ook deze kan weer lastig zijn. Het merk is vaak te vinden op het product en we hebben al veel merken in onze lijsten zitten, dus tik een deel ervan in, en kijk of hij tevoorschijn komt.
@@ -28,6 +28,12 @@ Voor sommige onderzoeken kan het van belang zijn om te weten hoe groot een objec
 
 ## De staat van het product
 Voor meerdere onderzoeken, denk bijvoorbeeld aan een onderzoek naar de werking van statiegeld op flesjes en blikjes, kan het interessant wezen om vast te leggen wat de staat is van het product dat is gevonden. Zo kan een blikje bijv nog 'als nieuw' zijn (en bijv makkelijk in te leveren als er statiegeld op zit) of dat hij gedeukt is of misschien zelfs helemaal plat. Voor producten die op het strand gevonden worden, kan het weer interessant zijn om te weten of ze nog als nieuw zijn of juist helemaal versleten.
+
+|Intact, zo goed als nieuw|Gedeukt|Gescheurd|Plat|Versleten door natuur|
+|-------------------------|-------|---------|----|------------------------|
+|![intact](assets/images/examples/State_intact.jpg)|![gedeukt](assets/images/examples/State_dented.jpg)|![Gescheurd](assets/images/examples/State_shredded.jpg)|![plat](assets/images/examples/State_flat.jpg)|
+
+
 
 ## Evenement
 Een evenement is een bijzonder kenmerk dat wellicht niet direct op het artikel zelf slaat, maar meer op de gebeurtenis waarvoor het product is geraapt. Denk hierbij bijvoorbeeld aan alles dat geraapt is tijdens de Word Cleanup Day, of een maandelijkse opruimactie met je lokale groep.
