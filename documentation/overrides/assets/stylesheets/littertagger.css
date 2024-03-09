@@ -1,11 +1,51 @@
+/* #body h1 {
+	padding:1em 0 0 0;
+	color: #FDFFFC;
+} */
+
+/* .md-typeset h1 {
+	padding:1em 0 0 0;
+	color: #FDFFFC;
+}
+.md-typeset h2 {
+	padding:1em 0 0 0;
+	color: #FDFFFC;
+} */
+.md-main h1 {
+	padding:1em 0 0 0;
+	color: #FDFFFC;
+}
+
+.md-select__link.a {
+	text-decoration: none;
+	color: #FDFFFC;
+}
+.md-select__link.li {
+	text-decoration: none;
+	color: #FDFFFC;
+}
+
+#header {
+	float:left;
+	width:1000px;
+	padding:0px 0 0px 0;
+	background: #03DCCD;
+	color: #1F2937;
+	background-color: #03DCCD;
+}
+
 .md-header {
-	background-color: #000;
+	color: #1F2937;
+	background-color: #03DCCD;
 }
 
 .md-main {
-	background-color: whitesmoke;
+    font-family: Arial, Verdana, serif;
+	color: #FDFFFC;
+	background-color: #1F2937;
 }
 
 .md-footer{
-	background-color: #000;
+	color: #1F2937;
+	background-color: #03DCCD;
 }
