@@ -20,8 +20,9 @@ theme:
     #- navigation.top
     #- navigation.instant
     #- navigation.tracking
-  palette: 
-    primary: black
+  
+  # palette: 
+  #   primary: black
 
 extra_css:
   - assets/stylesheets/littertagger.css             # CSS is shared by all languages
@@ -56,7 +57,7 @@ nav:
 - Het taggen van foto's: 40_Tagging-Pictures.md
 - Evenementen: 50_Events.md
 - Voorbeelden:
-    - Tagging: 90_Tagging.md
+    - Tagging: 90_Tagging-examples.md
     - Item: 92_Item-Examples.md
 - Bevindingen melden: 90_Issues.md
 - Veel Gestelde Vragen (FAQ): 90_Faq.md
