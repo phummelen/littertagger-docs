@@ -20,9 +20,6 @@ theme:
     #- navigation.top
     #- navigation.instant
     #- navigation.tracking
-  
-  # palette: 
-  #   primary: black
 
 extra_css:
   - assets/stylesheets/littertagger.css             # CSS is shared by all languages
@@ -41,7 +38,7 @@ extra:
     - name: Deutsch
       link: /de/
       lang: de
-  homepage: https://docs.littertagger.com
+  homepage: https://docs.litterapp.net
 
 plugins:
   - search:                                         
@@ -51,13 +48,13 @@ nav:
 - Welkom: index.md
 - Onze missie en visie: 05_Mission-Vision.md
 - Wie zijn we: 08_Who-Are-We.md
-- Aanmaken user en profiel vullen: 10_Prodile.md
+- Aanmaken user en profiel vullen: 10_Profile.md
 - Het nemen van foto's: 20_Taking-Pictures.md
 - Het uploaden van foto's: 30_Uploading-Pictures.md
 - Het taggen van foto's: 40_Tagging-Pictures.md
 - Evenementen: 50_Events.md
 - Voorbeelden:
-    - Tagging: 90_Tagging-examples.md
+    - Tagging: 90_Tagging-Examples.md
     - Item: 92_Item-Examples.md
 - Bevindingen melden: 90_Issues.md
 - Veel Gestelde Vragen (FAQ): 90_Faq.md
