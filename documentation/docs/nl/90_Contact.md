@@ -2,6 +2,7 @@
 
 LitterApp is geen bedrijf. 
 In tegenstelling tot wat je dan ook misschien zou verwachten, zijn we 
+
 - niet te bereiken op Twitter
 - niet te bereiken op Facebook
 - niet te bereiken op Reddit

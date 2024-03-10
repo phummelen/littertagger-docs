@@ -31,7 +31,7 @@ For several studies, such as research on the effectiveness of bottle and can dep
 
 |Intact, as good as new|Dented|Torn|Flat|Worn out by nature|
 |-------------------------|-------|---------|----|------------------------|
-|![intact](assets/images/examples/State_intact.jpg)|![dented](assets/images/examples/State_dented.jpg)|![Torn](assets/images/examples/State_shredded.jpg)|![flat](assets/images/examples/State_flat.jpg)|
+|![intact](assets/images/examples/State_intact.jpg)|![dented](assets/images/examples/State_dented.jpg)|![Torn](assets/images/examples/State_shredded.jpg)|![flat](assets/images/examples/State_flat.jpg)| -no photo yet-
 
 ## Event
 An event is a special characteristic that may not directly relate to the article itself but rather to the event for which the product was collected. Think, for example, of everything collected during World Cleanup Day, or a monthly cleanup with your local group.

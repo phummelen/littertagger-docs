@@ -18,6 +18,7 @@ Het zal dan mogelijk zijn om te laten zien wat op een of meerdere World Cleanup 
 Mocht je ditzelfde ook willen doen voor een eigen evenement, maar zie je die er niet tussen staan, neem dan contact met ons op, dan voegen wij die toe.
 
 Onderstaand zijn enkele evenementen die al bestaan, maar deze lijst kan dus uitgebreid gaan worden.
+
 1. World Cleanup Day
 2. Landelijke Opschoon Dag
 3. PeukMeuk

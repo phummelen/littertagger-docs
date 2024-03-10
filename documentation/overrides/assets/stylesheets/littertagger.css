@@ -1,29 +1,29 @@
-/* #body h1 {
-	padding:1em 0 0 0;
-	color: #FDFFFC;
-} */
+:root {
+	--md-primary-fg-color:          #FDFFFC;
+	--md-default-fg-color--light:   #FDFFFC;
+	--md-default-fg-color--lighter: #FDFFFC;
+	--md-accent-fg-color:           #FDFFFC;
+	--md-default-bg-color:          #1F2937;
+	--md-text-font-family:          Arial, Verdana, serif;
+  }
 
-/* .md-typeset h1 {
-	padding:1em 0 0 0;
+.md-content li a:link, a:visited {
 	color: #FDFFFC;
+	text-decoration: underline;
 }
-.md-typeset h2 {
-	padding:1em 0 0 0;
-	color: #FDFFFC;
-} */
+
 .md-main h1 {
 	padding:1em 0 0 0;
 	color: #FDFFFC;
-}
-
+  }
 .md-select__link.a {
 	text-decoration: none;
 	color: #FDFFFC;
-}
+  }
 .md-select__link.li {
 	text-decoration: none;
 	color: #FDFFFC;
-}
+  }
 
 #header {
 	float:left;
@@ -32,8 +32,7 @@
 	background: #03DCCD;
 	color: #1F2937;
 	background-color: #03DCCD;
-}
-
+  }
 .md-header {
 	color: #1F2937;
 	background-color: #03DCCD;

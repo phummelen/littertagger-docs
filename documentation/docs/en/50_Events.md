@@ -11,6 +11,7 @@ If you participate in the World Cleanup Day again next year, you repeat the proc
 If you want to do the same for your own event but don't see it listed, please contact us, and we will add it.
 
 Below are some existing events, but this list can be expanded.
+
 1. World Cleanup Day
 2. Landelijke Opschoon Dag
 3. PeukMeuk

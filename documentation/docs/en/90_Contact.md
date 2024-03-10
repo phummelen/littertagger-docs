@@ -1,6 +1,7 @@
 # Contact
 
 LitterApp is not a company. Contrary to what you might expect, we are:
+
 - Not reachable on Twitter
 - Not reachable on Facebook
 - Not reachable on Reddit
