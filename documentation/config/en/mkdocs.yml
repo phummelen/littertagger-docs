@@ -52,7 +52,9 @@ nav:
 - Taking pictures: 20_Taking-Pictures.md
 - Uploading pictures: 30_Uploading-Pictures.md
 - Tagging pictures: 40_Tagging-Pictures.md
-- Events: 50_Events.md
+- Events: 
+    - Introduction: 50_Events.md
+    - PeukMeuk: 50_PeukMeuk.md
 - Examples:
     - Tagging: 90_Tagging-Examples.md
     - Item: 92_Item-Examples.md
