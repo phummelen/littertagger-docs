@@ -21,7 +21,7 @@ Onderstaand zijn enkele evenementen die al bestaan, maar deze lijst kan dus uitg
 
 1. World Cleanup Day
 2. Landelijke Opschoon Dag
-3. PeukMeuk
+3. [PeukMeuk](50_PeukMeuk.md)
 4. Canuary
 5. Cleanup4Sarah
 6. ZaandeWandel

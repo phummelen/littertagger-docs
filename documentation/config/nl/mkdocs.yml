@@ -52,7 +52,9 @@ nav:
 - Het nemen van foto's: 20_Taking-Pictures.md
 - Het uploaden van foto's: 30_Uploading-Pictures.md
 - Het taggen van foto's: 40_Tagging-Pictures.md
-- Evenementen: 50_Events.md
+- Evenementen: 
+    - Introductie: 50_Events.md
+    - Plastic Peukmeuk: 50_PeukMeuk.md
 - Voorbeelden:
     - Tagging: 90_Tagging-Examples.md
     - Item: 92_Item-Examples.md
