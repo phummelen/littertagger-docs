@@ -3,9 +3,10 @@
 De **Plastic Peukmeuk** of **buttsmutt** (in het Engels) wordt ieder jaar op een speciale dag georganiseerd.
 Wij ondersteunen dit evenement met data en tonen onze data ook op de kaart.
 
-## Deelnemers 2024
+## Nederlandse Deelnemers 2024
 
-<iframe width=100% height="550px" frameBorder="1px" src="https://www.google.com/maps/d/u/0/viewer?ll=52.196607666629504%2C5.877005083740201&z=8&mid=1yD6PuYEq0faP2Z8FK2I8TgjEc20Z30E"></iframe>
+De [deelnemers](https://www.google.com/maps/d/u/0/viewer?ll=52.196607666629504%2C5.877005083740201&z=8&mid=1yD6PuYEq0faP2Z8FK2I8TgjEc20Z30E) in Nederland staan op een kaart.
+Daar kun je ook opgezet worden, als je dat wilt.
 
 ## Peuk Meuk 2024 (zaterdag 6 juli)
 
