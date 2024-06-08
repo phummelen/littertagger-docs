@@ -19,5 +19,4 @@ Feel free to join!!!
 ## TreasureHunt 2024-05-26
 See twitter: https://x.com/CornishSpliced/status/1794834573286572148
 Winner: @PenelopeIngle
-<iframe width=100% height="550px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/e7e7b521f75347228306c7d42534372b"></iframe>
-
+<iframe width=100% height="550px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/6d8b1ad8b07d4517bfc231d2f8c28c53"></iframe>
