@@ -14,9 +14,9 @@ LitterApp is used to bring all these parties together, and the common thread cur
 
 Although there are already several waste-related programs, each serving a specific purpose or interest, we recently decided to take a different path. Several of the initiators have been involved in one or more programs and concluded that those did not meet their needs. They also couldn't find a suitable alternative.
 
-There could be various reasons for this; some were looking for a specific type of data not documented anywhere, others wanted to capture a certain type of data not possible with existing tools, and yet another person found the program they used okay but wanted a way to contribute to it.
+There could be various reasons for this; some were looking for a specific type of data that was not documented anywhere, others wanted to capture a certain type of data not possible with existing tools, and yet another person found the program they used okay but wanted a way to contribute to it.
 
-That was the moment we looked at each other and asked, 'Should we really do it ourselves, then?'. The answer was yes, and now we are here, hoping that you will find the data you are looking for, or be able to record the data you want to document, or have the opportunity with us to contribute to the program. Something for everyone, together with a group of enthusiastic volunteers, all with the goal of making the world a little more beautiful and making a difference!
+That was the moment when we looked at each other and asked, 'Should we really do it ourselves, then?'. The answer was yes, and now we are here, hoping that you will find the data you are looking for, or be able to record the data you want to document, or have the opportunity with us to contribute to the program. Something for everyone, together with a group of enthusiastic volunteers, all with the goal of making the world a little more beautiful and making a difference!
 
 As mentioned earlier, we are participants with different backgrounds and specialties. This diversity is great because we already have a long list of things we want to create for you, and we have enthusiastically started working on them.
 
