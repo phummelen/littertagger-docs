@@ -2,6 +2,8 @@
 
 The uploading process is designed to be as simple as possible, and here is how it works:
 
+## via the website
+
 - Go to the website and log in with the user you created earlier.
 - Navigate to the upload screen where a window appears. You can either navigate to a folder containing your photos and select them, or you can go to the folder first, select all the necessary photos, and drag them onto the screen. Once you release them, the uploading process begins.
 
