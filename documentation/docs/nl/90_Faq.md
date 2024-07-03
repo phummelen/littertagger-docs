@@ -38,6 +38,6 @@ Wat moet ik doen als ik iets heb gevonden, maar het komt niet voor in de lijst?
 
 **Antwoord**:
 
-Die kans is altijd aanwezig, we hebben met een aantal vrijwilligers alvast een lange lijst met keuzes gemaakt maar we weten ook dat die lijst nog lang niet compleet is. Er is zoveel zwerfafval, van verschillende soorten, materialen en merken, dat de lijst nooit compleet zal zijn.
+Die kans is altijd aanwezig. Hoewel we een lange lijst met keuzes hebben gemaakt met enkele vrijwilligers, weten we dat de lijst verre van compleet is. Er is zoveel zwerfafval, met verschillende soorten, materialen en merken, dat de lijst nooit volledig zal zijn.
 
-Zoek in dat geval naar de waarde "OTHER" en kies die. Daarna kan je alle andere kenmerken geven die je wel kan vinden (Of ook daar OTHER kiezen). Wij proberen dit in de gaten te houden, zien wij bijv dat OTHER is gebruikt als merk en kunnen wij het merk lezen dat blijkbaar in de lijst ontbreekt, dan zullen wij die toe gaan voegen. Omdat dat mogelijk voor ons een flinke puzzel kan worden (bijv bij een evenement dat er niet is, wat we niet kunnen raden), vragen we je ook om contact met ons te zoeken en aan te geven wat je mist, dat maakt het voor ons makkelijk om de juiste alsnog toe te voegen. Zodra die is toegevoegd, vragen we je om zelf je data te corrigeren (de gekozen 'OTHER' dus weer verwijderen en te vervangen door de recent toegeveogde waarde. Zo houden we juiste data.
+Neem in dat geval contact met ons op, leg uit wat je doet en ontvang een uitnodiging voor Slack. In Slack bespreken we verschillende onderwerpen, maar we hebben ook een kanaal waar je kunt aangeven welk object of merk je mist. Een van onze vrijwilligers zal ervoor zorgen dat het wordt toegevoegd, zodat je het kunt gebruiken.
