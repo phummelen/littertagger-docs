@@ -1,11 +1,13 @@
 # User Creation and Profile
 
-At the time of writing this documentation, we are still working with test users. These users are created by an admin, and with these user(s), we can test everything that is necessary. By the time we go 'live,' you will, of course, be able to create your user with all the expected features such as changing your password, etc.
+You can create your own user with all expected features like changing your password.
 
-At LitterApp, we aim to be more than just a simple 'litter registration app'; it's about the impact you can make either individually or as a group. As a user, you are the crucial link in this process. Without you, nothing gets registered, and no impact is made. That's why we want to emphasize the individual, and one way we'll do that is through the profile page.
+At LitterApp, we aim to be more than just a 'litter registration app'; it's about the impact you can make. As a user, you are crucial in this process. Without you, nothing gets registered, and no impact is made. We emphasize the individual through the profile page.
 
-On this page, you can share personal details that you'd like to with other users. This could include a profile picture, which could be a photo of yourself so that people can literally put a face to the name. It could also be a picture of an interesting item you found or your favorite book. The choice is yours.
+On your profile page, you can share personal details via a profile picture, whether it's a photo of yourself, an interesting item you found, or your favorite book.
 
-The profile page will also include settings that allow you to tailor the program to your preferences. This could involve aspects like 'which type of litter do I encounter the most? Let it appear at the top of the list when providing characteristics so I don't have to search for it each time.' Or perhaps something like 'do I typically pick up litter or not? Set that as the default for each item (although you can still adjust it per item, of course).
+The profile page is also the page where you can set defaults for the litter you pick like being picked up or not, or having deposit or not etc.
 
-And who knows, there might be more settings added along the way to make your use of the program more comfortable or faster.
+In the future , the profile page will have more options to tell more about yourself, to be continued!
+
+If you have any questions regarding your account, feel free to contact us!
