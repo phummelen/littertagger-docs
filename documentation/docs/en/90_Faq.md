@@ -8,19 +8,20 @@ Ideally, the latter question should not be necessary, but our initial focus is o
 
 Below, we attempt to place and answer the most frequently asked questions.
 
-**Question**: Are you a splinter group from OpenLitterMap, and why don't you support them?
+**Question**: 
 
-This is a valid and sensitive question, even raised by the founder of OpenLitterMap (OLM).
+Are you a splinter group from OpenLitterMap, and why don't you support them?
 
-Several participants in LitterApp have a history with OpenLitterMap and have played a role in the development of the program.
+**Answer**:
 
-Most users started using it through word of mouth and actively contributed to solutions, language localization, documentation creation, populating the database with waste data, acting as ambassadors in their countries, promoting the program to authorities, creating instructional videos, welcoming and guiding new members, being featured in newspapers, or mentioning the program in promotional films for large cleanups. Everyone from that period was proud of their contributions and shared that pride.
+This is a valid and sensitive question, raised even by the founder of OpenLitterMap (OLM).
 
-However, things changed when decisions were no longer made by the community but by the founder. Meetups were canceled, and the collaboration turned from working with motivated volunteers to "we need funds so that I can hire people." This signaled a direction that many did not want. When the funds did not materialize, it worsened. All the positive contributions by volunteers on social media were overshadowed by the negative statements made by the founder. It became a broken record of complaints; because he had worked non-stop on the program for years, he believed he was entitled to those funds, and anyone who disagreed faced backlash.
+Many LitterApp participants have a history with OLM, contributing to its development. Users joined through word of mouth, offering solutions, creating new languages, creating documentation, populating the database, acting as ambassadors, promoting to authorities, creating instructional videos, welcoming new members, and being featured in media. They were proud of their contributions.
 
-Volunteers and participants were left disillusioned. They had joined for camaraderie and to work together on a beautiful product, but now, they spent evenings doing damage control, asking, even pleading, for certain statements to be removed. Without results. Some decided to disassociate themselves from the program, while others, hoping for better times, continued to try to influence decisions. Eventually, it became enough.
+However, when decisions shifted from the community to the founder, meetups were canceled, and the focus turned to securing funds for hiring. This direction was unwelcome. The founder's negative social media statements overshadowed volunteers' positive contributions, leading to disillusionment. Volunteers sought camaraderie and collaboration but ended up doing damage control, often unsuccessfully. Many distanced themselves, while some continued trying to influence decisions until it became too much.
 
-Efforts were made to create a kind of connection to OLM so that improvements to the program could continue. It was meant to be a program that would significantly enhance the process of assigning characteristics, after which those characteristics would still go to OpenLitterMap (hence the originally chosen name 'LitterTagger'). However, this was also blocked. By that time, most had distanced themselves from the program, and it was decided to take a different path with a clear goal in mind: to work with motivated volunteers on a beautiful product, without a single bottleneck that could impede progress. It should be something where anyone who wants to can participate and gain knowledge from others who already understand it, to keep it moving forward together.
+Efforts to connect to OLM for program improvements (originally 'LitterTagger') were blocked. Most had already distanced themselves, and a new path was chosen: working with motivated volunteers on a beautiful product without a single bottleneck, allowing anyone to participate and learn from others to keep progressing together.
+
 
 **Question**: Is LitterApp a copy of an existing program?
 
