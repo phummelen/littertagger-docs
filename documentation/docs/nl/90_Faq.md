@@ -1,12 +1,8 @@
 # Veel gestelde vragen
 
-Op het moment van schrijven zijn we nog maar net begonnen met LitterApp, maar dat roept uiteraard meteen al veel vragen op. De meeste vragen worden gesteld via onze centrale ontmoetingsplaats Slack, maar vragen kunnen uiteraard ook op andere plekken binnenkomen.
+We zullen altijd ons best doen vragen zo snel en duidelijk mogelijk te beantwoorden. Daarentegen bestaaat ook de kans dat we bepaalde vragen zo vaak krijgen, dat we deze beter even op kunnen nemen in de zogenaamde 'FAQ', de 'Frequently Asked Questions', of 'de Veel gestelde vragen'.
 
-We zullen altijd ons best doen vragen zo eerlijk en duidelijk mogelijk te beantwoorden. Daarentegen bestaaat ook de kans dat we bepaalde vragen zo vaak krijgen, dat we deze beter even op kunnen nemen in de zogenaamde 'FAQ', de 'Frequently Asked Questions', of 'de Veel gestelde vragen'. Dit kunnen vragen over LitterApp zelf zijn, maar ook bijvoorbeeld vragen over hoe je foto's moet uploaden.
-
-Zo'n laatste vraag zou in het ideale geval natuurlijk niet nodig hoeven te zijn, maar we richten ons in eerste instantie op een werkend programma, waarbij het kan zijn dat nog niet alles even duidelijk is, die duidelijkheid komt dan hopelijk in een volgende versie.
-
-Hieronder proberen we de meest gestelde vragen te plaatsen en te beantwoorden.
+Hieronder proberen we de meest gestelde vragen te verzamelen.
 
 
 **Vraag**: 
@@ -15,7 +11,7 @@ Zijn jullie een afsplitsing van OpenLitterMap en waarom steunen jullie die niet?
 
 **Antwoord**:
 
-Dit is een geldige en gevoelige vraag, zelfs gesteld door de oprichter van OpenLitterMap (OLM).
+Dit is een goede, maar ook gevoelige vraag, zelfs gesteld door de oprichter van OpenLitterMap (OLM).
 
 Veel deelnemers van LitterApp hebben een geschiedenis met OLM en hebben bijgedragen aan de ontwikkeling ervan. Gebruikers sloten zich aan via mond-tot-mondreclame en boden oplossingen, schreven nieuwe talen, creëerden documentatie, vulden de database, traden op als ambassadeurs, promootten bij autoriteiten, maakten instructievideo's, verwelkomden nieuwe leden en kwamen in de media. Ze waren trots op hun bijdragen.
 
@@ -23,7 +19,11 @@ Toen werden beslissingen plots niet meer gemaakt door de gemeenschap maar door d
 
 Pogingen om een verbinding met OLM te creëren voor programmainnovaties (oorspronkelijk 'LitterTagger') werden geblokkeerd. De meesten hadden zich al gedistantieerd, en er werd een nieuw pad gekozen: werken met gemotiveerde vrijwilligers aan een mooi product zonder dat 1 persoon alles tegen kon houden, zodat iedereen kan deelnemen en leren van anderen om samen vooruitgang te blijven boeken.
 
-**Vraag**: Wordt LitterApp een kopie van een bestaand programma?
+**Vraag**: 
+
+Wordt LitterApp een kopie van een bestaand programma?
+
+**Antwoord**:
 
 Nee, LitterApp is anders.
 En misschien niet direct in functie, want plat gezegd blijft het een van de middelen om te komen tot een schonere wereld, maar wel in de hele manier waarop dit gemaakt wordt.
@@ -32,7 +32,11 @@ Daarnaast zorgen we er ook voor dat het low-cost blijft, we bedruipen onszelf zo
 Daarnaast geloven we heilig in de community. LitterApp is niet van 1 persoon, het is niet 1 persoon die alles moet doen of alles op moet offeren om dit voor elkaar te krijgen, het ligt niet stil als 1 persoon er niet is, we zijn samen met een groep vrijwilligers en iedereen die er een rol in wil spelen, die kan en mag dat. Ons idee is 'Pay it forward'. Je wordt welkom geheten en opgevangen door mensen die er al wat langer mee werken en die er iets vanaf weten en zij maken je wegwijs en het enige wat we daarvoor terug vragen, is dat jij dat ook doet bij de volgende gebruikers die zich aanmelden.
 Community-driven, zoals het volgens ons hoort.
 
-**Vraag**: Wat moet ik doen als ik iets heb gevonden, maar het komt niet voor in de lijst?
+**Vraag**: 
+
+Wat moet ik doen als ik iets heb gevonden, maar het komt niet voor in de lijst?
+
+**Antwoord**:
 
 Die kans is altijd aanwezig, we hebben met een aantal vrijwilligers alvast een lange lijst met keuzes gemaakt maar we weten ook dat die lijst nog lang niet compleet is. Er is zoveel zwerfafval, van verschillende soorten, materialen en merken, dat de lijst nooit compleet zal zijn.
 
