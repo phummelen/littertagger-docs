@@ -8,16 +8,16 @@ We accepteren foto's zonder GPS, maar het toevoegen van een locatie kan waardevo
 ## Fotobeoordeling:
 Je beoordeelt je foto om kenmerken toe te wijzen, omdat je het beste weet wat erin staat. Zorg ervoor dat de foto geschikt is voor anderen door deze richtlijnen te volgen:
 
-## Vermijd herkenbare personen, tenzij je het zelf bent.
-Focus op het afvalitem en maak close-up foto's.
-Leg merknamen duidelijk vast, indien beschikbaar.
-Toon context indien relevant (bijv. afval in de natuur).
+- Vermijd herkenbare personen, tenzij je het zelf bent.
+- Focus op het afvalitem en maak close-up foto's.
+- Leg merknamen duidelijk vast, indien beschikbaar.
+- Toon context indien relevant (bijv. afval in de natuur).
 
 ## Fotoinhoud:
 Hoewel het hoofddoel is om individuele afvalitems te fotograferen, kunnen bredere shots ook nuttig zijn:
 
-Maak een 'voor' en 'na' foto van een vervuild gebied dat je schoonmaakt.
-Eén foto per item is de standaard, maar uitzonderingen zijn mogelijk (bijv. meerdere sigarettenpeuken).
+- Bijv bij meerdere soortgelijke items op 1 foto zodat je ze sneller kan taggen, bijv bij meerdere peuken,
+- Bijv bij het maken van een 'voor-foto' waarin je laat zien dat er heel veel afval ligt, en na het opruimen maak je nog zo'n foto, zonder afval.
 
 ## Afval Opruimen:
 Hoewel het doel is om op te ruimen, kunnen er redenen zijn om afval niet meteen op te ruimen (bijv. veiligheidsredenen). Het documenteren ervan met een foto kan nog steeds waardevolle gegevens opleveren.
