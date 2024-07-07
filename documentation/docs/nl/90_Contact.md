@@ -3,8 +3,6 @@
 LitterApp is geen bedrijf. 
 In tegenstelling tot wat je dan ook misschien zou verwachten, zijn we 
 
-- niet te bereiken op Twitter
-- niet te bereiken op Facebook
 - niet te bereiken op Reddit
 - niet te bereiken op BlueSky
 - niet te bereiken op Tumblr
@@ -15,6 +13,10 @@ In tegenstelling tot wat je dan ook misschien zou verwachten, zijn we
 - niet te bereiken op Mastodon
 - niet te bereiken op Snapchat
 - niet te bereiken op Threads
+
+Sinds kort zijn we echter wel te bereiken op:
+- Twitter: https://x.com/LitterApp_NET
+- Facebook: https://www.facebook.com/LitterApp/
 
 Wij communiceren niet vanuit LitterApp, we zijn vrijwilligers die samen aan wat moois werken en elk van deze vrijwilligers heeft een eigen mening en is vrij om die via zijn eigen kanalen te delen en via die kanalen kan je dus ook bij 'ons' terechtkomen.
 Hieronder worden een paar van die mogelijkheden genoemd. Mocht je daar zelf ook tussen willen staan, neem contact met ons op, we voegen je graag toe!
