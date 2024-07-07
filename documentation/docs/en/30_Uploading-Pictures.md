@@ -10,7 +10,7 @@ The uploading process is designed to be as simple as possible, and here is how i
 Now it is a matter of waiting till the upload is done. You can see the progress for each selected photo, and in between, you can drag additional photos onto the screen, and they will be uploaded as well.
 If the upload is ready, it will say 100%. If something went wrong on a photo, it might say something like 98%. In that case you can scroll down to the picture that failed (shown in red) and press the re-try-button.
 
-The photos you upload are automatically resized to a format that is large enough to be displayed unchanged on the screen but requires much less storage capacity.
+The photos you upload are automatically resized to a format that is large enough to be displayed unchanged on the screen but requires considerable less storage capacity.
 
 Once everything is uploaded, you can choose to go to 'My Photos' to start assigning characteristics, for example.
 
