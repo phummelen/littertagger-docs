@@ -8,18 +8,18 @@ We accept photos without GPS, but including a location can add value. Set your d
 ## Photo Review:
 You review your photo to assign characteristics since you know best what's in it. Ensure the photo is suitable for others to view by following these guidelines:
 
-Avoid recognizable people unless it's yourself.
-Focus on the litter item, taking close-up shots.
-Capture brand names clearly, if available.
-Show context if relevant (e.g., litter in nature).
+- Avoid recognizable people unless it's yourself.
+- Focus on the litter item, taking close-up shots.
+- Capture brand names clearly, if available.
+- Show context if relevant (for instance take a wider shot to show the nature with the litter in it).
 
 ## Photo Content:
-While the main goal is to photograph individual litter items, broader shots can also be useful:
+While the main goal is to photograph individual litter items, you can also decide to take broader shots with more than 1 item on it:
 
-Take a 'before' and 'after' photo of a polluted area you clean.
-One photo per item is typical, but exceptions can be made (e.g., multiple cigarette butts).
+- Several similar kind of items in 1 pictures that you can tag faster, for instance several butts in 1 picture
+- A broader shot of the environment with a lot of litter in it, then clean the area and and then the same shot, without the litter.
 
 ## Picking Up Litter:
-While the goal is to clean up, there may be reasons not to pick up litter immediately (e.g., safety concerns). Documenting it with a photo can still provide valuable data.
+While the goal is to clean up, there may be reasons not to pick up litter immediately (for instance safety concerns). Documenting it with a photo can still provide valuable data.
 
 If you have any questions, feel free to contact us!
