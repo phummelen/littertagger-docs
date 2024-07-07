@@ -1,6 +1,6 @@
 # Veel gestelde vragen
 
-We zullen altijd ons best doen vragen zo snel en duidelijk mogelijk te beantwoorden. Daarentegen bestaaat ook de kans dat we bepaalde vragen zo vaak krijgen, dat we deze beter even op kunnen nemen in de zogenaamde 'FAQ', de 'Frequently Asked Questions', of 'de Veel gestelde vragen'.
+We zullen altijd ons best doen vragen zo snel en duidelijk mogelijk te beantwoorden. Daarentegen bestaaat ook de kans dat we bepaalde vragen zo vaak krijgen, dat we deze beter even op kunnen nemen in de zogenaamde 'FAQ', de 'Frequently Asked Questions', of de 'Veel Gestelde Vragen'.
 
 Hieronder proberen we de meest gestelde vragen te verzamelen.
 
