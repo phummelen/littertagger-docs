@@ -12,4 +12,4 @@ Wij van LitterApp ondersteunen dit evenement met data en tonen onze data ook op 
 
 ## De zuigzakken, vanaf 13 september 2024
 
-<iframe width=100% height="700px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/9819ecf8831546c99a9ae0e6fe19ac10"></iframe>
+<iframe width=100% height="800px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/9819ecf8831546c99a9ae0e6fe19ac10"></iframe>
