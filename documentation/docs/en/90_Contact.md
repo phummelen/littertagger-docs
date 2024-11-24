@@ -1,29 +1,25 @@
 # Contact
 
-LitterApp is not a company. Contrary to what you might expect, we are:
+LitterApp is run by volunteers. Some of them maintain a LitterApp-account, for instance on Facebook or Bluesky, while others just use their own personal account to post about LitterApp.
 
-- Not reachable on Reddit
-- Not reachable on BlueSky
-- Not reachable on Tumblr
-- Not reachable on Instagram
-- Not reachable on LinkedIn
-- Not reachable on TikTok
-- Not reachable on Whatsapp
-- Not reachable on Mastodon
-- Not reachable on Snapchat
-- Not reachable on Threads
+At this moment we have the following links that might be interesting to you if you want to follow LitterApp. (If you want to be included in this list, contact us, and we'd be happy to add you).
 
-However, we are present at:
-- Twitter: https://x.com/LitterApp_NET
-- Facebook: https://www.facebook.com/LitterApp/
+LitterApp-account, run by admins:
 
-We don't communicate on behalf of LitterApp. We are volunteers working together on something meaningful, and each of these volunteers have their own opinions, free to share them through their individual channels. You can reach 'us' through these channels. Below are a few of those possibilities. If you want to be included in this list, contact us, and we'd be happy to add you!
+- [Bluesky](https://bsky.app/profile/litterappnet.bsky.social)
+- [Facebook](https://www.facebook.com/LitterApp/)
+- [Twitter](https://x.com/LitterApp_NET)
 
-- [Fred Steenbergen's YouTube channel (specifically for LitterApp, instructional videos)](https://www.youtube.com/channel/UCVOvA50khpsa1aChMwFeI6g)
-- [Fred Steenbergen's YouTube channel (mainly for litter-related matters)](https://www.youtube.com/channel/UC0znuQKQO5-YGGaSlutg5WA)
-- [Fred Steenbergen's Twitter](https://twitter.com/fredsteenbergen)
-- [Fred Steenbergen's Bluesky](https://bsky.app/profile/fredsteenbergen.bsky.social)
-- [Fred Steenbergen's Mastodon](https://mastodon.nl/@fredsteenbergen)
+
+Personal accounts, run by volunteers, sharing their own opinions/views:
+
+- [Bluesky: Fred Steenbergen](https://bsky.app/profile/fredsteenbergen.bsky.social)
+- [Mastodon: Fred Steenbergen](https://mastodon.nl/@fredsteenbergen)
+- [TikTok: Fred Steenbergen](https://www.tiktok.com/@zwerfiewashere)
+- [Twitter: Fred Steenbergen](https://twitter.com/fredsteenbergen)
+- [Twitter: PieterJan](https://x.com/pjhummelen)
+- [YouTube: Fred Steenbergen (mainly for LitterApp, instructional videos)](https://www.youtube.com/channel/UCVOvA50khpsa1aChMwFeI6g)
+- [YouTube: Fred Steenbergen (mainly for litter-related matters)](https://www.youtube.com/channel/UC0znuQKQO5-YGGaSlutg5WA)
 
 # Slack as a meeting place
-However, we do have a kind of 'meeting place' where we come together. We use the chat program Slack, where you can easily join with your questions or ideas. If you'd like to be added, reach out to one of us; we welcome you warmly!
+We use Slack as our meeting-place, here the community comes together and talk about plans, suggestions, wishes etc. You are welcome as a new user, but you need an invite for that. If you'd like to be added, reach out to one of us; we welcome you warmly!
