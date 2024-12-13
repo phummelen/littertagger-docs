@@ -1,6 +1,6 @@
 # Who are we?
 
-Fred Steenbergen
+## Fred Steenbergen
 
 Hi, my name is Fred and I am one of the volunteers with LitterApp.
 I think it is a strange time we are living in with a lot of opportunities but also a lot of problems and instead of complaining about them, I'd rather do some things that I am able to do.
@@ -13,3 +13,13 @@ Apart from that, I like to cycle and run, and while doing so, i always pick litt
 I really believe that every small bit helps in some way to make the world a bit better and I am proud to be part of a group of dedicated people, working on LitterApp.
 
 If you have any questions, feel free to contact me!
+
+(todo: add picture)
+
+## Pieter Jan Hummelen
+
+(todo: add introduction and picture)
+
+## Geni Jaho
+
+(todo: add introduction and picture)

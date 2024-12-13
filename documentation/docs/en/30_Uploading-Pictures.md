@@ -2,8 +2,15 @@
 
 The uploading process is designed to be as simple as possible, and here is how it works:
 
-## via the website
+We don't have an app, so what we do, we do via the website.
 
+You can either go to the website via the computer or via the phone.
+There should not be a difference, but unfortunately, there is...
+
+First let's explain how it works via the computer:
+
+## via the website on a computer
+- Move the photos from your phone to a folder on your computer.
 - Go to the website and log in with the user you created earlier.
 - Navigate to the upload screen where a window appears. You can either navigate to a folder containing your photos and select them, or you can go to the folder first, select all the necessary photos, and drag them onto the screen. Once you release them, the uploading process begins.
 
