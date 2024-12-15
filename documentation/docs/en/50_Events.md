@@ -1,6 +1,8 @@
-# Events
+# Success stories
 
-Events are organized worldwide, and you can participate in them just like any other litter-picking activity. However, it can be worthwhile to add the name of the event to your characteristics so that you, or others, can collect data about it.
+Although we are relatively new with LitterApp, we already have achieved a lot which we might call Success Stories.
+
+Worldwide people are picking litter and in some cases they do this in a so called Event, like World Cleanup Day or the Dutch version "Landelijke Opschoon Dag".
 
 To facilitate this, we have a separate field called 'Event,' where you can select one or more values. Here's an example of how this could work:
 

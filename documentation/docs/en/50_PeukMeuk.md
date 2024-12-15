@@ -1,6 +1,6 @@
 # No Butts Day (#NoButtsDay)
 
-The **No Butts Day** event, **peukmeuk** (in Dutch) is organized on a special day each year.
+The **No Butts Day** event, (or **peukmeuk**, in Dutch) is organized on a special day each year.
 We support this event both with data and showing this data on the map.
 
 ## No Butts Day 2024 (Saturday Juli 6th)
