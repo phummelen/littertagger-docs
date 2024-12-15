@@ -83,7 +83,7 @@ As you can see, with these characteristics, you can already answer many question
 
 For example, if we know that serious research is being done into 'the condition of the can', then we could consciously ask to add that information. We could even ask people to check previously recorded cans and add that characteristic based on the photo.
 
-Trying to record everything without knowing what the information need is, is actually a daunting task because even if we record all this, someone might appear who is interested in the size of the can, or whether the tab was still attached or not, or what the color of the can was, or the weight, the barcode etc etc.
+Trying to record everything without knowing what the information need is, is actually a daunting task because even if we record all this, someone might appear who is interested in the size of the can, or whether the pull ring was still attached or not, or what the color of the can was, or the weight, the barcode etc etc.
 
 ## The characteristics tell what the photo looked like
 Finally, one last reason to think carefully about the characteristics you give.
