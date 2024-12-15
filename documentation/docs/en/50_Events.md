@@ -1,4 +1,8 @@
-# Events
+# Success stories
+
+In general, litter pickers are a modest kind of people. If you ask about 'Success Stories', most of them will say that they just pick some litter but many of them know the story about the "Anta-Flu". Anta-Flu is a perfect example of what Litter Pickers can do if they unite. A lot of volunteers took pictures of plastic Anta-Flu wrappers. These pictures were gathered and a report was given to the producer of that wrapper. Long story short: They changed the wrapper to paper so now we still find them, but only the paper version.
+
+Anta-Flu was done by the Plastic Avengers, with their app which normally handles 1 action at a time. LitterApp however can collect all kinds of pictures and gather data about it and in that way we can handle multiple events and by doing so, we can mention some of the success-stories that we facilitated via LitterApp:
 
 Events are organized worldwide, and you can participate in them just like any other litter-picking activity. However, it can be worthwhile to add the name of the event to your characteristics so that you, or others, can collect data about it.
 
