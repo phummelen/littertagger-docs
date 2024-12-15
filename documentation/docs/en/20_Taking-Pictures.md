@@ -1,4 +1,4 @@
-# Taking a Photo
+# Taking Pictures
 
 Taking a photo usually doesn't need much explanation: open your phone's camera and snap a picture. However, for litter photos, consider the following:
 
