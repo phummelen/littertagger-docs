@@ -1,6 +1,6 @@
 # Contact
 
-LitterApp is run by volunteers. Some of them maintain a LitterApp-account, for instance on Facebook or Bluesky, while others just use their own personal account to post about LitterApp.
+LitterApp is run by volunteers. Some of them maintain a LitterApp-account, for instance on Facebook or Bluesky, while others just use their own personal account and post about anything, including things related to LitterApp.
 
 At this moment we have the following links that might be interesting to you if you want to follow LitterApp. (If you want to be included in this list, contact us, and we'd be happy to add you).
 
