@@ -61,9 +61,7 @@ Take, for example, a photo of a Redbull can. This can be tagged in multiple ways
 |![Redbull can](assets/images/examples/State_intact.jpg) |Item: Can<br>Brand: RedBull|
 
 
-And this is accurate data that you, or someone else, can use. For example, to answer a question like 'how many
-
- cans were found' or 'how many cans of the Redbull brand were found'.
+And this is accurate data that you, or someone else, can use. For example, to answer a question like 'how many cans were found' or 'how many cans of the Redbull brand were found'.
 
 If you're willing to make the effort, you can tell a lot more about it. Whether all that extra information is useful or a waste of your time, that's hard to answer; we probably won't know until we hear from people what data they use, but the following questions could, for example, be interesting for people that cannot be answered with just the first two characteristics given:
 
