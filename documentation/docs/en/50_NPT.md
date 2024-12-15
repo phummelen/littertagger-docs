@@ -16,3 +16,5 @@ So apart from all the litter, we can also show the REAL state of the bins in (a 
 (conclusion from the report: the problem is real, but mainly a problem in the bigger cities. Overall, deposit on items is working great).
 
 Below some printscreens of some cities that participated via LitterApp.
+
+TODO: add pictures
