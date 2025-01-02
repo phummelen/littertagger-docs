@@ -2,7 +2,7 @@
 
 ## Fred Steenbergen
 
-![picture of Fred Steenbergen](../assets/images/whoarewe/fredsteenbergen.jpg)
+![picture of Fred Steenbergen](../assets/images/whoarewe/FredSteenbergen.jpg)
 
 Hi, my name is Fred, I live in the Netherlands and I am one of the volunteers with LitterApp.
 I pick a lot of litter, so I am using the app (website) a lot, but I am also trying to do my part with improving the program itself by finding bugs, improving documentation, coming up with new ideas, helping people, doing the socials and creating videos.
