@@ -2,7 +2,9 @@
 
 ## Fred Steenbergen
 
-Hoi, mijn naam is Fred en ik ben een van de vrijwilligers bij LitterApp. Ik denk dat we in een vreemde tijd leven met veel kansen maar ook veel problemen, en in plaats van daarover te klagen, doe ik er liever iets aan.
+![foto van Fred Steenbergen](../assets/images/whoarewe/FredSteenbergen.jpg)
+
+Hoi, ik ben Fred, uit Nederland en ik ben een van de vrijwilligers bij LitterApp. Ik denk dat we in een vreemde tijd leven met veel kansen maar ook veel problemen, en in plaats van daarover te klagen, doe ik er liever iets aan.
 
 Binnen LitterApp ben ik een van de 'power-users'. Ik raap veel zwerfafval op, dus ik gebruik het programma veel als gebruiker. Maar ik probeer ook mijn steentje bij te dragen aan het verbeteren van het programma zelf door bugs te vinden, documentatie te verbeteren, met nieuwe ideeën te komen, mensen te helpen. Ook ben ik aktief op de socials en maak ik videos voor en/of over LitterApp.
 
@@ -27,3 +29,9 @@ Ook ben ik een van de product eigenaren voor de LitterApp-applicatie en integrat
 
 Een van mijn hobby's is wielrennen. Tijdens het fietsen stop ik zelden om afval te rapen! 
 Het motto 'één stuk afval per keer' hoorde ik eens, afval rapen is nu een dagelijkse verslaving geworden!
+
+![foto van Pieter Jan Hummelen](../assets/images/whoarewe/PieterJanHummelen.jpg)
+
+## Geni Jaho
+
+![foto van Geni Jaho](../assets/images/whoarewe/GeniJaho.jpg)

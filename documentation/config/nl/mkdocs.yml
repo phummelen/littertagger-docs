@@ -46,22 +46,25 @@ plugins:
 
 nav:
 - Welkom: index.md
-- Onze missie en visie: 05_Mission-Vision.md
-- Wie zijn we: 08_Who-Are-We.md
-- Aanmaken user en profiel vullen: 10_Profile.md
-- Het nemen van foto's: 20_Taking-Pictures.md
-- Het uploaden van foto's: 30_Uploading-Pictures.md
-- Het taggen van foto's: 40_Tagging-Pictures.md
-- Evenementen: 
+- Over ons:
+    - Onze missie en visie: 05_Mission-Vision.md
+    - Wie zijn we: 08_Who-Are-We.md
+- En beginnen maar:
+    - Aanmaken gebruiker en profiel vullen: 10_Profile.md
+    - Het nemen van foto's: 20_Taking-Pictures.md
+    - Het uploaden van foto's: 30_Uploading-Pictures.md
+    - Het taggen van foto's: 40_Tagging-Pictures.md
+    - Voorbeelden:
+      - Tagging voorbeelden: 90_Tagging-Examples.md
+      - Item voorbeelden: 92_Item-Examples.md
+    - Bevindingen melden: 90_Issues.md
+- Succes-verhalen: 
     - Introductie: 50_Events.md
     - Plastic Peukmeuk: 50_PeukMeuk.md
     - CornishSpliced Treasure Hunt: 50_TreasureHunt.md
-    - Plastic Avengers SuckSack: 50_SuckSack.md
+    - Plastic Avengers, SuckSack: 50_SuckSack.md
+    - Plastic Avengers, Nationale Prullenbak Telling: 50_NPT.md
     - Cable Ties: 50_tiewraps-in-Steenwijk.md
-- Voorbeelden:
-    - Tagging: 90_Tagging-Examples.md
-    - Item: 92_Item-Examples.md
-- Bevindingen melden: 90_Issues.md
 - Veel Gestelde Vragen (FAQ): 90_Faq.md
 - Contact: 90_Contact.md
 - Support: 95_Support.md

@@ -2,20 +2,24 @@
 
 ## Fred Steenbergen
 
-Hi, my name is Fred, I live in the Netherlands and I am one of the volunteers with LitterApp.
-I pick a lot of litter, so I am using the app (website) a lot, but I am also trying to do my part with improving the program itself by finding bugs, improving documentation, coming up with new ideas, helping people, doing the socials and creating videos.
+![picture of Fred Steenbergen](../assets/images/whoarewe/FredSteenbergen.jpg)
 
-In my spare time I am always active. Together with my wife, I create wooden objects by recycling stuff that other people throw away and we sell this to friends/family and with the money that we make, we support several charities. A win-win-combination.
+Hi, I’m Fred, a volunteer with LitterApp from the Netherlands. I pick up a lot of litter and use the app (website) regularly. Beyond that, I contribute by finding bugs, improving documentation, generating ideas, helping users, managing socials, and creating videos.
 
-Apart from that, I like to cycle and run, and while doing so, I always pick litter as well.
+In my spare time, I stay active. My wife and I repurpose discarded materials into wooden objects, selling them to friends and family. The proceeds go to various charities—a win-win!
 
-I really believe that every small bit helps in some way to make the world a bit better and I am proud to be part of a group of dedicated people, cleaning the world, and using LitterApp to register the data.
+I also enjoy cycling and running, always picking up litter along the way.
 
-If you have any questions, feel free to contact me!
+I firmly believe every small effort helps make the world a better place. I’m proud to be part of a team dedicated to cleaning the planet and using LitterApp to document the impact.
 
-(todo: add picture)
+Feel free to reach out if you have any questions!
+
+
+
 
 ## Pieter Jan Hummelen
+
+![picture of Pieter Jan Hummelen](../assets/images/whoarewe/PieterJanHummelen.jpg)
 
 Walking with my dog, I was frustrated about the litter I found in my neighbourhood.
 Considering our neighbourhood as an extension of our garden, I started to clean up.
@@ -30,8 +34,8 @@ One of my hobbies is also (speed-) road cycling. When I'm on my bike, I stop onl
 
 **One piece at the time** is a slogan I've heared more times ... and my litter picking is an daily addiction to me nowdays!
 
-(todo: add introduction and picture)
 
 ## Geni Jaho
 
-(todo: add introduction and picture)
+![picture of Geni Jaho](../assets/images/whoarewe/GeniJaho.jpg)
+

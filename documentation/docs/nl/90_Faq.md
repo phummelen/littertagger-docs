@@ -1,43 +1,45 @@
-# Veel gestelde vragen
+# Veelgestelde Vragen
 
-We zullen altijd ons best doen vragen zo snel en duidelijk mogelijk te beantwoorden. Daarentegen bestaaat ook de kans dat we bepaalde vragen zo vaak krijgen, dat we deze beter even op kunnen nemen in de zogenaamde 'FAQ', de 'Frequently Asked Questions', of de 'Veel Gestelde Vragen'.
+Nieuw bij LitterApp? Dan heb je misschien vragen. De meeste beantwoorden we via Slack, maar we hebben de meest voorkomende hieronder op een rij gezet.
 
-Hieronder proberen we de meest gestelde vragen te verzamelen.
+## Zijn jullie een splintergroep van OpenLitterMap (OLM), en waarom ondersteunen jullie hen niet?
 
+Veel LitterApp-gebruikers hebben eerder bijgedragen aan OLM. Door veranderingen in besluitvorming en focus voelden vrijwilligers zich niet meer gehoord. 
 
-**Vraag**: 
+Na mislukte pogingen om verbeteringen binnen OLM door te voeren, is LitterApp ontstaan: een samenwerkingsplatform waar gemotiveerde vrijwilligers zonder bottlenecks kunnen werken.
 
-Zijn jullie een afsplitsing van OpenLitterMap en waarom steunen jullie die niet?
+## Is LitterApp een kopie van een bestaand programma?
 
-**Antwoord**:
+Nee, LitterApp is uniek. Het is open-source, laagdrempelig en community-driven. 
 
-Dit is een goede, maar ook gevoelige vraag, zelfs gesteld door de oprichter van OpenLitterMap (OLM).
+Kosten worden gezamenlijk door gebruikers gedekt en het project is niet afhankelijk van één persoon. Iedereen kan bijdragen en nieuwkomers begeleiden volgens het 'pay it forward'-principe. 
 
-Veel deelnemers van LitterApp hebben een geschiedenis met OLM en hebben bijgedragen aan de ontwikkeling ervan. Gebruikers sloten zich aan via mond-tot-mondreclame en boden oplossingen, schreven nieuwe talen, creëerden documentatie, vulden de database, traden op als ambassadeurs, promootten bij autoriteiten, maakten instructievideo's, verwelkomden nieuwe leden en kwamen in de media. Ze waren trots op hun bijdragen.
+Samen werken we aan een schonere wereld.
 
-Toen werden beslissingen plots niet meer gemaakt door de gemeenschap maar door de oprichter, werden bijeenkomsten geannuleerd en kwam de focus te liggen op het verkrijgen van fondsen voor het aannemen van personeel. Deze richting was ongewenst. De negatieve uitlatingen van de oprichter op sociale media overschaduwden de positieve bijdragen van de vrijwilligers, wat leidde tot ontgoocheling. Vrijwilligers zochten kameraadschap en samenwerking, maar waren nu fulltime bezig met 'damage-control', vaak zonder succes. Velen distantieerden zich, terwijl sommigen bleven proberen beslissingen te beïnvloeden totdat het te veel werd.
+## Wat moet ik doen als ik een item of merk niet in de lijst zie staan?
 
-Pogingen om een verbinding met OLM te creëren voor programmainnovaties (oorspronkelijk 'LitterTagger') werden geblokkeerd. De meesten hadden zich al gedistantieerd, en er werd een nieuw pad gekozen: werken met gemotiveerde vrijwilligers aan een mooi product zonder dat 1 persoon alles tegen kon houden, zodat iedereen kan deelnemen en leren van anderen om samen vooruitgang te blijven boeken.
+Onze lijst is uitgebreid, maar niet compleet. Mis je iets? Neem contact met ons op en vraag toegang tot Slack. 
 
-**Vraag**: 
+In Slack kun je ontbrekende items of merken doorgeven, en een vrijwilliger zorgt ervoor dat ze worden toegevoegd aan de lijst.
 
-Wordt LitterApp een kopie van een bestaand programma?
+## Ik ben nieuw bij LitterApp, ik heb mijn eerste foto geüpload maar kan deze niet op de kaart vinden. Hoe komt dat?
 
-**Antwoord**:
+Allereerst bedankt voor het meedoen en het uitproberen van de app! Je bent bijna daar, maar er lijkt iets te missen...  
+De GPS-locatie.
 
-Nee, LitterApp is anders.
-En misschien niet direct in functie, want plat gezegd blijft het een van de middelen om te komen tot een schonere wereld, maar wel in de hele manier waarop dit gemaakt wordt.
-LitterApp is open-source, wat inhoudt dat de code beschikbaar is voor iedereen, dat is al een verschil met sommige andere programma's.
-Daarnaast zorgen we er ook voor dat het low-cost blijft, we bedruipen onszelf zonder fondsen aan te hoeven schrijven. Als er kosten zijn, dan zorgen we er als gebruikers voor dat we die kosten gaan dekken.
-Daarnaast geloven we heilig in de community. LitterApp is niet van 1 persoon, het is niet 1 persoon die alles moet doen of alles op moet offeren om dit voor elkaar te krijgen, het ligt niet stil als 1 persoon er niet is, we zijn samen met een groep vrijwilligers en iedereen die er een rol in wil spelen, die kan en mag dat. Ons idee is 'Pay it forward'. Je wordt welkom geheten en opgevangen door mensen die er al wat langer mee werken en die er iets vanaf weten en zij maken je wegwijs en het enige wat we daarvoor terug vragen, is dat jij dat ook doet bij de volgende gebruikers die zich aanmelden.
-Community-driven, zoals het volgens ons hoort.
+Er kunnen verschillende redenen zijn, en we gaan er een aantal doorlopen:
 
-**Vraag**: 
+- Je telefoon is ingesteld om géén GPS-locatie op te slaan. In dat geval kunnen we niet zien waar de foto is genomen, en kunnen we de stip niet op de kaart tonen.
+- Je telefoon is wel ingesteld om GPS-locatie op te slaan, maar deze is ergens verloren gegaan. Dit kan verschillende oorzaken hebben:
+  - Je hebt de foto via een programma naar een andere locatie gestuurd voordat je deze uploadde, bijvoorbeeld via WhatsApp. WhatsApp verwijdert de GPS-locatie.
+  - Je hebt de foto via je telefoon geüpload. Sommige gebruikers ervaren problemen bij het uploaden op deze manier. Soms heeft de foto wel een GPS-locatie, maar blijkt deze verloren te gaan na het uploaden. Andere gebruikers hebben dit probleem niet, dus we zijn nog niet zeker van de oorzaak. (Browser-versie? Telefoonversie?)
 
-Wat moet ik doen als ik iets heb gevonden, maar het komt niet voor in de lijst?
+### Wat kan ik doen om dit op te lossen?
 
-**Antwoord**:
+De manier die bij de meeste gebruikers werkt, is om de foto’s van je telefoon op de computer te zetten. 
 
-Die kans is altijd aanwezig. Hoewel we een lange lijst met keuzes hebben gemaakt met enkele vrijwilligers, weten we dat de lijst verre van compleet is. Er is zoveel zwerfafval, met verschillende soorten, materialen en merken, dat de lijst nooit volledig zal zijn.
+Dit kan door je telefoon aan te sluiten op je computer en de foto’s te kopiëren/verplaatsen, of misschien kun je ze vanaf een cloud-back-up kopiëren, zonder je telefoon aan te sluiten. 
 
-Neem in dat geval contact met ons op, leg uit wat je doet en ontvang een uitnodiging voor Slack. In Slack bespreken we verschillende onderwerpen, maar we hebben ook een kanaal waar je kunt aangeven welk object of merk je mist. Een van onze vrijwilligers zal ervoor zorgen dat het wordt toegevoegd, zodat je het kunt gebruiken.
+Zodra de foto’s op je computer staan, kun je proberen ze opnieuw te uploaden. De kans is groot dat je nu wel de stip op de kaart ziet.
+
+Als dat niet het geval is, neem dan contact met ons op zodat we je verder kunnen helpen.

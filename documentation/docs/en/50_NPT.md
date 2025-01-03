@@ -14,7 +14,3 @@ And of course, the LitterApp-litter pickers helped out again.
 We collected the pictures as well, and made sure that the Plastic Avengers got those as well.
 So apart from all the litter, we can also show the REAL state of the bins in (a part of) the Netherlands.
 (conclusion from the report: the problem is real, but mainly a problem in the bigger cities. Overall, deposit on items is working great).
-
-Below some printscreens of some cities that participated via LitterApp.
-
-TODO: add pictures
