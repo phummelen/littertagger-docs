@@ -53,7 +53,9 @@ nav:
     - Create user and add profile details: 10_Profile.md
     - Taking pictures: 20_Taking-Pictures.md
     - Uploading pictures: 30_Uploading-Pictures.md
-    - Tagging pictures: 40_Tagging-Pictures.md
+    - Tagging pictures:
+        - Regular: 40_Tagging-Pictures.md
+        - ShortCuts: 45_Tagging-with-ShortCuts.md
     - Examples:
         - Tagging examples: 90_Tagging-Examples.md
         - Item examples: 92_Item-Examples.md
