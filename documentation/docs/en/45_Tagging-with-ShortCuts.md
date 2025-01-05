@@ -12,10 +12,10 @@ On this page, I will describe the setup and usage of shortcuts. Speedtagging has
 
 ## Enable the option
 
-ON the right (almost) top, there is a settings icon (the wheel). Clicking on it, you have the option to enable the *Tag Shortcuts* method.
+On the right (almost) top, there is a settings icon (the wheel). Clicking on it, you have the option to enable the *Tag Shortcuts* method.
 It will give you an extra input field in the photo tagging screen.
 
-Now you can enter shortcuts ... but, there are no shortcuts yet. So let's the first shortcut.
+Now you can enter shortcuts ... but, there are no shortcuts yet. So let's create the first shortcut.
 
 ## Adding a shortcut
 
@@ -23,7 +23,7 @@ Shortcuts are user specific, so you can find your own shortcuts in the profile s
 The profile section is on the top right, the option to choose is *Tag Shortcuts*.
 You will get a screen with all the already defined shortcuts. So the screen could be empty if no shortcuts are defined yet.
 
-On the *Tag Shortcuts* page, there is a button *add shortcut*. Clicking on it will give you scren to add a name to the shortcut. In the mentioned **butt** example, the 2b, 4b and 6b are named. So, let's assume we are going for the 2b, type it in and push the *create shortcut* button. Then type and select the item for the shortcut (in this case: cigarette butt). Then the screen get's a part like the normal tag screen. Fill in the right values and click on close.
+On the *Tag Shortcuts* page, there is a button *add shortcut*. Clicking on it will give you screen to add a name to the shortcut. In the mentioned **butt** example, the 2b, 4b and 6b are named. So, let's assume we are going for the 2b, type it in and push the *create shortcut* button. Then type and select the item for the shortcut (in this case: cigarette butt). Then the screen get's a part like the normal tag screen. Fill in the right values and click on close.
 
 Now you have the shortcut added to the list. Changing, duplicating of deleting the shortcut is possible.
 
