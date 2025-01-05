@@ -38,5 +38,5 @@ It's still possible to add data to the photo. Like the **normal** way of tagging
 ## Copying Shortcuts
 
 It's possible to copy shortcuts from one user to another one. Even a shortcut can be copied to all users.
-This option is available for the core team, that has accees to the code within the Docker container.
+This option is available for the core team, that has access to the code within the Docker container.
 Just ask one of the core team member if you wnat to get a shortcut copied.
