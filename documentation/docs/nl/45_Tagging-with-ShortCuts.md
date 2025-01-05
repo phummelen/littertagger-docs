@@ -26,4 +26,5 @@ Aangezien je de snelkoppelingsfunctie hebt ingeschakeld, zal, wanneer je begint 
 
 ## Snelkoppelingen kopiëren
 
-Het is mogelijk om snelkoppelingen van de ene gebruiker naar de andere te kopiëren. Zelfs een snelkoppeling kan naar alle gebruikers worden gekopieerd. Deze optie is beschikbaar voor het kernteam, dat toegang heeft tot de code binnen de Docker container. Vraag het gewoon aan een van de leden van het kernteam als je een snelkoppeling gekopieerd wilt hebben.
+Het is mogelijk om snelkoppelingen van de ene gebruiker naar de andere te kopiëren. Zelfs een snelkoppeling kan naar alle gebruikers worden gekopieerd. Deze optie is beschikbaar voor het kernteam, dat toegang heeft tot de code binnen de Docker container.
+Vraag het aan een van de leden van het kernteam als je een snelkoppeling gekopieerd wilt hebben.
