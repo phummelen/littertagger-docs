@@ -42,8 +42,8 @@ If you notice this, feel free to contact us so we can fix it.
 - [Add Characteristics to an Item](#)
 - [Tag Multiple Items](#)
 - [Use Copy Button to Add an Item](#)
-- [Decide What to Tag in a Photo](#)
-- [Should You Tag Everything in the Picture?](#)
+- [Should You Tag All Items in the Picture?](#)
+- [Should You Tag All Components of an Item?](#)
 
 ---
 
