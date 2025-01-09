@@ -42,8 +42,8 @@ Als je dit opmerkt, neem dan gerust contact met ons op zodat we het kunnen corri
 - [Kenmerken toevoegen aan een item](#)
 - [Meerdere items taggen](#)
 - [Kopieerknop gebruiken om een item toe te voegen](#)
-- [Bepalen wat je moet taggen in een foto](#)
-- [Moet je alles in de foto taggen?](#)
+- [Moet je alle items in een foto taggen](#)
+- [Moet je alles onderdelen van een item taggen?](#)
 
 ---
 
