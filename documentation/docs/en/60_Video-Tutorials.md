@@ -11,28 +11,28 @@ If you notice this, feel free to contact us so we can fix it.
 ---
 
 ## Create an Account
-- [Create an Account](#)
+- [Create an Account](https://youtu.be/SYH3P3mU5U4)
 
 ---
 
 ## Check/Edit Your Settings
-- [Set Litter Being Picked Up](#)
+- [Set Litter Being Picked Up](https://youtu.be/42v9hBJAalo)
 
 ---
 
 ## Upload a Picture
-- [Uploading Pictures](#)
+- [Uploading Pictures](https://youtu.be/RN7Z0v6mo7E)
 
 ---
 
 ## Show Uploaded Pictures
-- [Change Picture Order](#)
-- [Check GPS Info for Pictures](#)
-- [Enable/Disable Magnifier](#)
-- [Select Multiple Pictures](#)
-- [Show and Hide Filters](#)
-- [Use Filters](#)
-- [Use the Magnifier](#)
+- [Change Picture Order](https://youtu.be/zxaG20-W604)
+- [Check GPS Info for Pictures](https://youtu.be/QHhc21BLvc8)
+- [Enable/Disable Magnifier](https://youtu.be/qjHgUhuB6Ys)
+- [Select Multiple Pictures](https://youtu.be/P_PaQgMXwmY)
+- [Show and Hide Filters](https://youtu.be/H6054NQR5NE)
+- [Use Filters](https://youtu.be/H4Jg6kTbbbE)
+- [Use the Magnifier](https://youtu.be/l5rWcP6adow)
 - [View Complete Picture](#)
 
 ---
