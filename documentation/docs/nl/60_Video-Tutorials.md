@@ -11,28 +11,28 @@ Als je dit opmerkt, neem dan gerust contact met ons op zodat we het kunnen corri
 ---
 
 ## Account aanmaken
-- [Account aanmaken](#)
+- [Account aanmaken](https://youtu.be/SYH3P3mU5U4)
 
 ---
 
 ## Controleer/Bewerk je Instellingen
-- [Instellen dat afval is opgeraapt](#)
+- [Instellen dat afval is opgeraapt](https://youtu.be/42v9hBJAalo)
 
 ---
 
 ## Foto uploaden
-- [Foto's uploaden](#)
+- [Foto's uploaden](https://youtu.be/RN7Z0v6mo7E)
 
 ---
 
 ## Geüploade Foto's Bekijken
-- [Volgorde van foto's wijzigen](#)
-- [Controleren of foto's GPS-gegevens hebben](#)
-- [Vergrootglas in- en uitschakelen](#)
-- [Meerdere foto's selecteren](#)
-- [Filters tonen en verbergen](#)
-- [Filters gebruiken](#)
-- [Vergrootglas gebruiken](#)
+- [Volgorde van foto's wijzigen](https://youtu.be/zxaG20-W604)
+- [Controleren of foto's GPS-gegevens hebben](https://youtu.be/QHhc21BLvc8)
+- [Vergrootglas in- en uitschakelen](https://youtu.be/qjHgUhuB6Ys)
+- [Meerdere foto's selecteren]([#](https://youtu.be/P_PaQgMXwmY))
+- [Filters tonen en verbergen]([#](https://youtu.be/H6054NQR5NE))
+- [Filters gebruiken]([#](https://youtu.be/H4Jg6kTbbbE))
+- [Vergrootglas gebruiken]([#](https://youtu.be/l5rWcP6adow))
 - [Foto volledig bekijken](#)
 
 ---
