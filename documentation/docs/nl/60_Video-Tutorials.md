@@ -70,17 +70,17 @@ Als je dit opmerkt, neem dan gerust contact met ons op zodat we het kunnen corri
 ---
 
 ## Je Data Exporteren
-- [Data exporteren](#)
+- [Data exporteren](https://youtu.be/KixUmlwOgdk)
 
 ---
 
 ## Je Data Aanpassen
-- [Een foto verwijderen in "Mijn Foto's"](#)
-- [Een foto verwijderen in de tag-scherm](#)
-- [Een item verwijderen van een foto](#)
-- [Kenmerken van een item verwijderen](#)
+- [Een foto verwijderen in "Mijn Foto's"](https://youtu.be/qzi_83XN3Fw)
+- [Een foto verwijderen in de tag-scherm](https://youtu.be/T-GUJBF3HFI)
+- [Een item verwijderen van een foto](https://youtu.be/qYUK3m8xlYE)
+- [Kenmerken van een item verwijderen](https://youtu.be/Bj1K3-BVGNM)
 
 ---
 
 ## TreasureHunt Spel
-- [Overzicht van TreasureHunt](#)
+- [Overzicht van TreasureHunt](https://youtu.be/h_cA_5hMk7U)
