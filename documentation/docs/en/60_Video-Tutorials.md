@@ -33,39 +33,39 @@ If you notice this, feel free to contact us so we can fix it.
 - [Show and Hide Filters](https://youtu.be/H6054NQR5NE)
 - [Use Filters](https://youtu.be/H4Jg6kTbbbE)
 - [Use the Magnifier](https://youtu.be/l5rWcP6adow)
-- [View Complete Picture](#)
+- [View Complete Picture](https://youtu.be/lK-VhDQFvtI)
 
 ---
 
 ## Tagging
-- [Add an Item to a Photo](#)
-- [Add Characteristics to an Item](#)
-- [Tag Multiple Items](#)
-- [Use Copy Button to Add an Item](#)
-- [Should You Tag All Items in the Picture?](#)
-- [Should You Tag All Components of an Item?](#)
+- [Add an Item to a Photo](https://youtu.be/pMgQ3tcfB_8)
+- [Add Characteristics to an Item](https://youtu.be/3Qz9DVm6YzE)
+- [Tag Multiple Items](https://youtu.be/aLxThB9KOr0)
+- [Use Copy Button to Add an Item](https://youtu.be/l4ghlwKx-rg)
+- [Should You Tag All Items in the Picture?](https://youtu.be/fiYW_PtMT_U)
+- [Should You Tag All Components of an Item?](https://youtu.be/TyrsfZisfSA)
 
 ---
 
 ## Tagging Using Shortcuts
-- [Enable/Disable Shortcuts](#)
-- [Create Your First Shortcut](#)
-- [Create and Delete a Shortcut](#)
-- [Copy Button to Create a Shortcut](#)
-- [Edit Shortcuts](#)
-- [Use Shortcuts](#)
+- [Enable/Disable Shortcuts](https://youtu.be/O4Xe_HbUxYY)
+- [Create Your First Shortcut](https://youtu.be/ybdU2FrM3XU)
+- [Create and Delete a Shortcut](https://youtu.be/JEBLXjUK4A4)
+- [Copy Button to Create a Shortcut](https://youtu.be/6c0m4VA1CSg)
+- [Edit Shortcuts](https://youtu.be/z1rnZOlvz4I)
+- [Use Shortcuts](https://youtu.be/2H9kOFQbQCk)
 
 ---
 
 ## Tagging Using Bulk-Tag
-- [Tag Multiple Pictures at Once](#)
-- [Tag Multiple Pictures Again](#)
-- [Remove Items or Tags in Bulk](#)
+- [Tag Multiple Pictures at Once](https://youtu.be/jFmd5n946YU)
+- [Tag Multiple Pictures for a 2nd Time](https://youtu.be/nmg-mt49L7g)
+- [Remove Items or Tags in Bulk](https://youtu.be/m87sblHQokc)
 
 ---
 
 ## Showing the Data
-- [Dashboards](#)
+- [Dashboards](https://youtu.be/K8cVxPhORx8)
 
 ---
 
