@@ -70,17 +70,17 @@ If you notice this, feel free to contact us so we can fix it.
 ---
 
 ## Export Your Data
-- [Export Data](#)
+- [Export Data](https://youtu.be/KixUmlwOgdk)
 
 ---
 
 ## Modify Your Data
-- [Delete a Photo in "My Photos"](#)
-- [Delete a Photo in Tagging Screen](#)
-- [Delete an Item from a Photo](#)
-- [Delete Characteristics from an Item](#)
+- [Delete a Photo in "My Photos"](https://youtu.be/qzi_83XN3Fw)
+- [Delete a Photo in Tagging Screen](https://youtu.be/T-GUJBF3HFI)
+- [Delete an Item from a Photo](https://youtu.be/qYUK3m8xlYE)
+- [Delete Characteristics from an Item](https://youtu.be/Bj1K3-BVGNM)
 
 ---
 
 ## TreasureHunt Game
-- [TreasureHunt Overview](#)
+- [TreasureHunt Overview](https://youtu.be/h_cA_5hMk7U)
