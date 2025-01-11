@@ -11,7 +11,7 @@ Als je dit opmerkt, neem dan gerust contact met ons op zodat we het kunnen corri
 ---
 
 ## Account aanmaken
-- [Account aanmaken](https://youtu.be/SYH3P3mU5U4 target="_blank")
+- [Account aanmaken](https://youtu.be/SYH3P3mU5U4 {target="_blank"})
 
 ---
 
