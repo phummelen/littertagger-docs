@@ -1,5 +1,5 @@
 site_name: 'Documentatie'
-copyright: Copyright &copy; 2024 LitterApp Gemeenschap
+copyright: Copyright &copy; 2025 LitterApp Gemeenschap
 docs_dir: '../../docs/nl'                           # Where to find the Dutch markdown files
 site_dir: '../../generated/nl'                      # Where to put the Dutch HTML files
 
@@ -39,6 +39,16 @@ extra:
       link: /de/
       lang: de
   homepage: https://docs.litterapp.net
+  html_meta:
+    "http-equiv": "X-UA-Compatible"
+    content: "IE=edge"
+  html_metas:
+    - name: "viewport"
+      content: "width=device-width, initial-scale=1, shrink-to-fit=no"
+  javascript: 
+    - https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
+    - https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
 
 plugins:
   - search:                                         
