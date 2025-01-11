@@ -6,7 +6,7 @@ Neem bijvoorbeeld het oppakken van sigarettenpeuken. Ik maak altijd een foto van
 Vooral op de jaarlijkse PeukMeuk dag raap ik veel peuken op. Het taggen van die peuken één voor één of twee voor twee... dan komt speedtagging om de hoek kijken.
 Het gebruik van snelkoppelingen voor bekende items zal het taggen versnellen. Op deze pagina beschrijf ik de instelling en het gebruik van snelkoppelingen. Speedtagging heeft een tweede pijler, dat zijn de toetsenbord sneltoetsen die gebruikt kunnen worden om te taggen zonder een muis te kunnen doen.
 
-$$ Optie inschakelen
+## Optie inschakelen
 
 Rechts (bijna) bovenaan is een instellingenpictogram (het tandwiel). Door erop te klikken, heb je de optie om de methode "Tag Snelkoppelingen" in te schakelen.
 Het geeft je een extra invoerveld in het scherm voor het taggen van foto's. Nu kun je snelkoppelingen invoeren... maar er zijn nog geen snelkoppelingen. Laten we dus de eerste snelkoppeling maken.
