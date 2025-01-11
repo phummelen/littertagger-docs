@@ -33,39 +33,39 @@ Als je dit opmerkt, neem dan gerust contact met ons op zodat we het kunnen corri
 - [Filters tonen en verbergen]([#](https://youtu.be/H6054NQR5NE))
 - [Filters gebruiken]([#](https://youtu.be/H4Jg6kTbbbE))
 - [Vergrootglas gebruiken]([#](https://youtu.be/l5rWcP6adow))
-- [Foto volledig bekijken](#)
+- [Foto volledig bekijken](https://youtu.be/lK-VhDQFvtI)
 
 ---
 
 ## Taggen
-- [Een item toevoegen aan een foto](#)
-- [Kenmerken toevoegen aan een item](#)
-- [Meerdere items taggen](#)
-- [Kopieerknop gebruiken om een item toe te voegen](#)
-- [Moet je alle items in een foto taggen](#)
-- [Moet je alles onderdelen van een item taggen?](#)
+- [Een item toevoegen aan een foto](https://youtu.be/pMgQ3tcfB_8)
+- [Kenmerken toevoegen aan een item](https://youtu.be/3Qz9DVm6YzE)
+- [Meerdere items taggen](https://youtu.be/aLxThB9KOr0)
+- [Kopieerknop gebruiken om een item toe te voegen](https://youtu.be/l4ghlwKx-rg)
+- [Moet je alle items in een foto taggen](https://youtu.be/fiYW_PtMT_U)
+- [Moet je alles onderdelen van een item taggen?](https://youtu.be/TyrsfZisfSA)
 
 ---
 
 ## Taggen met Sneltoetsen
-- [Sneltoetsen in- en uitschakelen](#)
-- [Eerste sneltoets aanmaken](#)
-- [Een sneltoets aanmaken en verwijderen](#)
-- [Kopieerknop gebruiken om een sneltoets aan te maken](#)
-- [Sneltoetsen bewerken](#)
-- [Sneltoetsen gebruiken](#)
+- [Sneltoetsen in- en uitschakelen](https://youtu.be/O4Xe_HbUxYY)
+- [Eerste sneltoets aanmaken](https://youtu.be/ybdU2FrM3XU)
+- [Een sneltoets aanmaken en verwijderen](https://youtu.be/JEBLXjUK4A4)
+- [Kopieerknop gebruiken om een sneltoets aan te maken](https://youtu.be/6c0m4VA1CSg)
+- [Sneltoetsen bewerken](https://youtu.be/z1rnZOlvz4I)
+- [Sneltoetsen gebruiken](https://youtu.be/2H9kOFQbQCk)
 
 ---
 
 ## Taggen met Bulk-Tag
-- [Meerdere foto's tegelijk taggen](#)
-- [Meerdere foto's opnieuw taggen](#)
-- [Items of tags in bulk verwijderen](#)
+- [Meerdere foto's tegelijk taggen](https://youtu.be/jFmd5n946YU)
+- [Meerdere foto's opnieuw taggen](https://youtu.be/nmg-mt49L7g)
+- [Items of tags in bulk verwijderen](https://youtu.be/m87sblHQokc)
 
 ---
 
 ## Data Bekijken
-- [Dashboards](#)
+- [Dashboards](https://youtu.be/K8cVxPhORx8)
 
 ---
 
