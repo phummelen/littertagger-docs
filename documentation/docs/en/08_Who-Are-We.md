@@ -39,3 +39,4 @@ One of my hobbies is also (speed-) road cycling. When I'm on my bike, I stop onl
 
 ![picture of Geni Jaho](../assets/images/whoarewe/GeniJaho.jpg)
 
+I'm a software engineer with a passion for software architecture and programming best practices. I'm not a litterpicker, but I support the work of Fred, Pieter, and the community in the way I know, building the website piece by piece, adding new features, and polishing existing ones.
