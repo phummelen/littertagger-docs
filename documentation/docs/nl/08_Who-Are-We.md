@@ -35,3 +35,5 @@ Het motto 'één stuk afval per keer' hoorde ik eens, afval rapen is nu een dage
 ## Geni Jaho
 
 ![foto van Geni Jaho](../assets/images/whoarewe/GeniJaho.jpg)
+
+Ik ben een software-engineer met een passie voor softwarearchitectuur en werkwijzes die zich in de praktijk bewezen hebben. Ik ben geen zwerfafvalraper, maar ik ondersteun het werk van Fred, Pieter en de gemeenschap op de manier die ik ken: door de website stukje bij beetje op te bouwen, nieuwe functies toe te voegen en bestaande te verfijnen.
