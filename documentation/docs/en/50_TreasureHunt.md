@@ -10,7 +10,7 @@ And that is when I started to find a way to play this game, facilitated by Litte
 
 So here it is, the same game, played by people all over the world and scores are kept in LitterApp.
 
-Each month we present a new list of 10 items that need to be found, ranging from (probably) easy to (hopefully) difficult. At then it is up to you: Go out, pick some litter and think about that list of 10 items and if you find one of them, you take a picture and upload it to LitterApp. After that you give the picture a lable, saying what kind of item it is and by doing so, we can also check the item that you claim to have found. Next you also give a special tag and if you do that, your item will be part of the game and you will enter the scoreboard.
+Each month we present a new list of 10 items that need to be found, ranging from (probably) easy to (hopefully) difficult. And then it is up to you: Go out, pick some litter and think about that list of 10 items and if you find one of them, you take a picture and upload it to LitterApp. After that you give the picture a lable, saying what kind of item it is and by doing so, we can also check the item that you claim to have found. Next you also give a special tag and if you do that, your item will be part of the game and you will enter the scoreboard.
 
 The idea is simple and that is how we like it, because after all, it is just a game.
 
