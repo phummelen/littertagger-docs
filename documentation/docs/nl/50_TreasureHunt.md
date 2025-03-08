@@ -2,7 +2,7 @@
 
 De **TreasureHunt** (#TreasureHunt op de sociale kanalen) is een evenement dat, voor zover ik, gestart is op Twitter. Het spel start met een lijst van 10 objecten die de zwerfafvalrapers moesten vinden. Als je een item gevonden had, dan plaatste je daarvan een foto op Twitter en CornishSpliced hield de score bij.
 
-Het bijhouden van de scores was een hoop werk, waardoor ik, (Fred Steenbergen) en Maarten (ook bekend als De Lekjutter) aanboden om te helpen en wij hielde de score bij met Excel.
+Het bijhouden van de scores was een hoop werk, waardoor ik, (Fred Steenbergen) en Maarten (ook bekend als De Lekjutter) aanboden om te helpen en wij hielden de score bij in Excel.
 
 Op een bepaald moment stopte dit ook, wat jammer was, want het idee was perfect: De wereld schoner maken en tegelijkertijd een spel spelen.
 
