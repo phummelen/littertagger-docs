@@ -14,7 +14,7 @@ Elke maand maken we de lijst met 10 items kenbaar die moeten worden gevonden, va
 
 Het idee is simpel en dat is ook precies wat we willen, het is tenslotte maar een spel.
 
-De eerste persoon die alle items vindt, wint, maar dat houdt niet in dat dan het spel gespeeld is, we moedigen alle spelers aan om verder te gaan met het spel. Aan het eind van de maand noteren we wie hoeveel items gevonden heeft. Maar daar gaat het natuurlijk niet persé om, het gaat vooral om het delen van je verhaal, om over afval te prate, of lol te hebben tijdens het schoon maken van de aarde.
+De eerste persoon die alle items vindt, is de "winnaar", maar dat houdt niet in dat dan het spel gespeeld is, we moedigen alle spelers aan om verder te gaan met het spel. Aan het eind van de maand noteren we wie hoeveel items gevonden heeft. Maar daar gaat het natuurlijk niet persé om, het gaat vooral om het delen van je verhaal, om over afval te prate, of lol te hebben tijdens het schoon maken van de aarde.
 
 Klaar om het ook te gaan proberen? Kom er gerust bij! De lijst en regels en scoreboard en resultaten van voorgaande maanden kunnen worden gevonden in het dashboard:
 
