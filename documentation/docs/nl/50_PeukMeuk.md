@@ -1,7 +1,12 @@
 # Plastic Peukmeuk (#PlasticPeukMeuk)
 
-De **Plastic Peukmeuk** of **buttsmutt** (in het Engels) wordt ieder jaar op een speciale dag georganiseerd.
-Wij ondersteunen dit evenement met data en tonen onze data ook op de kaart.
+De **Plastic Peukmeuk** (of **ButtSmutt** in het Engels) is een jaarlijks terugkerend evenement die niet gericht is tegen het roken, maar wel tegen het plastic in de peuken omdat daarmee de natuur vervuild wordt. Volgens voorzichtige schattingen belanden er elke dag 17 tot 18 miljoen peuken op straat...
+
+Wij van LitterApp doen uiteraard ook elk jaar mee met dit evenement en schenken zo ook aandacht aan dit enorme probleem. Met behulp van LitterApp en Grafana tonen wij onze gegevens op de kaart.
+
+**Hieronder kunt u nog eens terugkijken naar de cijfers van de afgelopen jaren**
+
+
 
 ## Nederlandse Deelnemers 2024
 
