@@ -1,6 +1,6 @@
 # Plastic PeukMeuk (#PlasticPeukMeuk)
 
-De **Plastic PeukMeuk** (of **ButtSmutt** in het Engels) is een jaarlijks terugkerend evenement die niet gericht is tegen het roken, maar wel tegen het plastic in de peuken omdat daarmee de natuur vervuild wordt. Volgens voorzichtige schattingen belanden er elke dag 17 tot 18 miljoen peuken op straat...
+De **Plastic PeukMeuk** (of **ButtSmutt** in het Engels) is een jaarlijks terugkerend evenement die niet gericht is tegen het roken, maar wel tegen het plastic in de peuken omdat daarmee de natuur vervuild wordt. Volgens voorzichtige schattingen belanden er elke dag 17 tot 18 miljoen peuken op straat. En dat alleen al in Nederland!
 
 Wij van LitterApp doen uiteraard ook elk jaar mee met dit evenement en schenken zo ook aandacht aan dit enorme probleem. Met behulp van LitterApp en Grafana tonen wij onze gegevens op de kaart.
 
