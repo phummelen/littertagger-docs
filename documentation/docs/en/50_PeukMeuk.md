@@ -1,16 +1,10 @@
-# No Butts Day (#NoButtsDay)
+# No Butts Day
 
-The **No Butts Day** event, (or **peukmeuk**, in Dutch) is organized on a special day each year.
-We support this event both with data and showing this data on the map.
+The No Butts Day, or ButtSmutt (or **Plastic PeukMeuk** in Dutch) is an annual event that is not against smoking itself but rather against the plastic in cigarette butts, which pollutes nature. Conservative estimates suggest that 17 to 18 million cigarette butts end up on the streets every day. And that is just in the Netherlands!
 
-## No Butts Day 2024 (Saturday Juli 6th)
+At LitterApp, we participate in this event every year to raise awareness about this massive issue. Using LitterApp and Grafana, we display our data on the map.
 
-<iframe width=100% height="550px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/e7e7b521f75347228306c7d42534372b"></iframe>
+If you would like to join the PeukMeuk, there is nothing special you need to do. On the designated day, simply take a photo of a cigarette butt and upload it to LitterApp. Then, tag it as 'butt,' and we’ll take care of the rest!
 
-## No Butts Day 2023 (Juli 1st)
-
-<iframe width=100% height="550px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/63d53d7e54fb43fd97858ecd8055fe0b"></iframe>
-
-## No Butts Day 2022 (Juli 2nd)
-
-<iframe width=100% height="550px" frameBorder="1px" src="https://litterapp.net/grafana/public-dashboards/5856542857364b349397bf992023cac9"></iframe>
+**Below are the numbers from previous years**  
+<iframe width="100%" height="550px" frameBorder="1" src="https://litterapp.net/grafana/public-dashboards/70afee5fd4cd46b596a67825603485d8"></iframe>
