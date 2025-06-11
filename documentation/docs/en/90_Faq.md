@@ -28,10 +28,10 @@ First of all, thanks for joining and giving it a try! You’re almost there, but
 
 This can have several reasons, and we will go through some of them:
 
-- Your phone is set **not** to store GPS-location. In that case, we can't tell where the picture was taken, and we cannot show the dot on the map. (We do show the picture though, but in the area of the Bermuda Triangle...
+- Your phone is set **not** to store GPS-location. In that case, we can't tell where the picture was taken, and we cannot show the dot on the map. We do show the picture though, but in the area of the Bermuda Triangle.
 - Your phone is set to store GPS-location, but it is lost somewhere. There can be several reasons for this:
   - You sent the picture via a program to another location before upload (e.g., via WhatsApp). WhatsApp removes GPS-locations.
-  - You uploaded the picture via your phone. Some users have issues doing it this way. Somehow, the picture has a GPS-location, but after uploading, we see that the GPS is lost somewhere. However, not all users experience this problem, see below what you can try to do to solve it.
+  - You uploaded the picture via your phone. Some users have issues doing it this way. Somehow, the picture has a GPS-location, but after uploading, we see that the GPS is lost. However, not all users experience this problem, see below what you can try to do to solve it.
 
 ### What can I do to solve it?
 
@@ -44,7 +44,7 @@ Once they’re on the computer, try uploading some of them via the computer. The
 Another reason can be that you are using Android and there are 2 ways to upload pictures.
 The mostly used method is:
 
-Phone > Upload > Browse > chose file > select photos or albums and select the photos. In that case GPS seems to get lost.
+Phone > Upload > Browse > choose file > select photos or albums and select the photos. In that case GPS seems to get lost.
 
 The alternative is:
 
