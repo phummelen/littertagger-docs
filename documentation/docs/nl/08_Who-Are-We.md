@@ -46,43 +46,48 @@ En dit zijn enkele van onze gebruikers:
 
 ![foto van Axel](../assets/images/whoarewe/Axel.jpg)
 
-Todo: nog vertalen naar het Nederlands
-Hi I'm Axel, 55 years old, very happily married for 29 years and I live and work in Nieuw-Vennep / Netherlands. 
+Hoi, ik ben Axel, 55 jaar oud (in 2025), al 29 jaar zeer gelukkig getrouwd en ik woon en werk in Nieuw-Vennep, Nederland.
 
-It all started in 2012 during scuba diving in my favourite freshwater lake. This beautiful aquatic realm, I'm so very fond of, was infact tainted by litter. Especially lost fishing lines, which snares and drowns diving water fowl simply had to be removed.
+Het begon allemaal in 2012 tijdens het duiken in mijn favoriete zoetwatermeer. Dit prachtige onderwatergebied waar ik zo van houd, was helaas vervuild met afval. Vooral achtergelaten vislijnen, die duikende watervogels verstrikken en laten verdrinken, moesten absoluut verwijderd worden.
 
-I chose to take action. So, I organised dive events to clear litter from the bottom of the lake and that turned into a annual success for 10 years. As a group of many volunteers, we cleaned up a total of about 2600 kg just from one lake and hundreds of meters fishing lines plus 10 Kg of lead weights and lures. It took me until 2015 to see the amount of litter above water was increasing significantly too. That bothered me.
+Ik besloot actie te ondernemen.
 
-Instead of moping and complaining about it, I started picking litter. Then the #zwerfie concept came into the picture. Making a photo of a piece of litter and tagging it with #zwerfie and posting it on twitter. The Zwerfinator started to post his efforts and then I got really inspired to pick litter using a dedicated app.
-The mere idea that all picked litter became visible as dots on a map really got me going.
-Others and myself could actually see hotspots and popular brands on a map and items which ended up as litter. The aim became collecting data for a purpose, with a cleaner neighbourhood as a result. The Zwerfinator and the Plastic Soup Surfer stood up and came into action using this data from all litter pickers. They achieved awareness and foremost real change. They successfully convinced a candy manufacturer to use paper wrappers instead of plastic. 
-Other "often found" litter followed with positive results even on a national level. Various laws passed which resulted in: 
-No more plastic in fireworks,  No more water balloons, Deposit / refund on cans and small bottles etcetera. That's the power of data. 
+Dus organiseerde ik duikevenementen om afval van de bodem van het meer op te ruimen, en dat werd tien jaar lang een jaarlijks succes. Met een groep van veel vrijwilligers hebben we in totaal ongeveer 2600 kg afval uit slechts één meer gehaald, plus honderden meters vislijn en 10 kg aan loden gewichten en kunstaas.
 
-Most special item ever found? Actually I found two lost wallets and special subscription glasses, which I was able to return to their very happy owners.
+Pas in 2015 zag ik in dat de hoeveelheid afval boven water ook sterk toenam. Dat stoorde me.
+In plaats van te klagen of te mopperen, begon ik afval op te rapen.
 
-We all know about bacteria, fungi, insects and other organisms that break down organic matter. These are very important life forms and often with a bad reputation.
+Toen kwam het #zwerfie-concept in beeld: een foto maken van een stuk zwerfafval, het taggen met #zwerfie en posten op Twitter. De Zwerfinator begon zijn opruimacties te delen en dat inspireerde mij echt om afval te gaan rapen met een speciale app.  Het idee dat al het geraapte afval zichtbaar werd als stippen op een kaart, motiveerde me enorm. Anderen en ik konden daadwerkelijk hotspots en populaire merken zien op de kaart, evenals welke producten vaak als zwerfafval eindigen. Het doel werd: data verzamelen met als resultaat een schonere buurt.
 
-As litter pickers, we are those bacteria, fungi and insects of today's society that work diligently in silence. The bad reputation has faded, as more and more people care and take action. There is still a long way to go to reduce litter. Getting out as litter pickers, we have a chance to change the behaviour of people who aren't aware of the problem yet. Of course there are people that really don't care as their personal problems probably outweigh the litter problem. Then you realise how much litter is related to an addiction.
+De Zwerfinator en de Plastic Soup Surfer kwamen in actie met deze data van afvalrapers. Zij bereikten bewustwording én echte verandering.  Zo wisten ze een snoepfabrikant te overtuigen om papieren in plaats van plastic wikkels te gebruiken. Ook ander vaak gevonden zwerfafval volgde, met positieve resultaten — zelfs op nationaal niveau.
 
-In the beginning, picking litter turned many heads as I was using my hands instead of a grabber and without wearing a high visibility vest. Some gave me the odd look, ignored me while passing me by, but most people are very kind and appreciative. 
+Verschillende wetten zijn aangenomen, met als resultaat geen plastic meer in vuurwerk, geen waterballonnen meer en statiegeld op blikjes en kleine flesjes, dát is de kracht van data.
 
-If you want to pick litter, don't be ashamed doing it. Don't be discouraged by the amount of litter you'll find on the same routes day after day. You simply need perseverance. Your efforts probably won't be seen or noticed by others, but using litterapp.net will make it visible as data that can be used in the near future.
-Just know, if one out of a hundred people changes his/hers/their behaviour by seeing you picking litter, that is worth a lot. You can't fix the problem on your own, but you can make difference. When do we ever thank bacteria, fungi or insects for their valuable work? 
+Meest bijzondere vondst ooit? Ik vond twee verloren portemonnees en op maat gemaakte brillen, die ik gelukkig terug kon geven aan hun dolgelukkige eigenaren.
 
-It's fun to pick cigarette butts around people that are actually smoking. I only say hello.They get a bit nervous sometimes, especially when the cigarette is almost burnt up. They suddenly remember how to put out the butt and dispose of it in a litter bin. They sometimes even claim they always do that. No matter what, I thank them kindly.
+We kennen allemaal bacteriën, schimmels, insecten en andere organismen die organisch materiaal afbreken. Deze levensvormen zijn heel belangrijk, maar hebben vaak een slechte reputatie. Als afvalrapers zijn wij die bacteriën, schimmels en insecten van de maatschappij die in stilte hun werk doen. De slechte reputatie is aan het verdwijnen, nu steeds meer mensen geven om dit probleem en actie ondernemen.
 
-There was a period when I couldn't walk passed litter without picking it up. A compulsive and obsessive behaviour started to rear its ugly head. I was able to solve that rather quickly by putting it in perspective. It's sometimes okay to leave litter (only when wind has no grip on it) and find out, your not the only litter picker.
+Er is nog een lange weg te gaan om zwerfafval te verminderen. Door naar buiten te gaan als afvalraper, kunnen we het gedrag veranderen van mensen die zich nog niet bewust zijn van het probleem.
+Natuurlijk zijn er ook mensen die het echt niets kan schelen, waarschijnlijk omdat hun persoonlijke problemen zwaarder wegen dan het afvalprobleem.  Dan realiseer je je hoe vaak afval verband houdt met een verslaving.
 
-I've been active in a neighbourhood cleanup group for about 4-5 years. We did cleanups on a monthly basis. It was nice to see people overcoming the shame of picking litter in a group.
+In het begin draaiden veel mensen hun hoofd om als ik afval opraapte — met mijn handen, zonder grijper, en zonder reflecterend hesje. Sommigen keken me vreemd aan of negeerden me, maar de meeste mensen zijn vriendelijk en waarderend. Als je afval wilt rapen, schaam je dan niet. Laat je niet ontmoedigen door de hoeveelheid afval die je dag na dag op dezelfde routes tegenkomt. Je hebt gewoon doorzettingsvermogen nodig.
 
-People are very susceptible to convenience. Before the "To Go" culture, no one missed it, nobody asked for it. Nowadays some people can't seem to live without it. We can't stop that "ToGo" culture anymore, which is one of the main causes of litter. We can only try to convince and/or demand the enablers of the ToGo products to use real sustainable materials or reduce on materials used. Sometimes a law is required to reach that goal.
+Je inspanningen zullen waarschijnlijk niet opvallen, maar via litterapp.net worden ze zichtbaar als data die in de toekomst gebruikt kan worden.
 
-Another way to change behaviour is to give litter a monetary value like deposit/ refund money on cans and bottles. 
-For me that makes a difference as there is litteraly money lying on the street. You know people still throw cans and bottles on the street as € 0,15 is nothing to them. Recently I found 100 beer bottles in one go of €0,10 each. On average, my wife and I collect about 1 to 2 Euro's per week. 
+Bedenk: als één op de honderd mensen zijn/haar/hun gedrag verandert omdat ze jou afval zien rapen, dan is dat al heel wat waard. Je kunt het probleem niet in je eentje oplossen, maar je kunt wel verschil maken. Wanneer bedanken we ooit bacteriën, schimmels of insecten voor hun waardevolle werk?
 
-Movies can influence people. So there is one more thing to think about. Have you ever seen a movie, where a smoker on the street puts out a cigarette and disposes it in a litter bin? Probably one of the reasons you'll find do many butts on the streets worldwide.
+Het is grappig om sigarettenpeuken op te rapen rondom mensen die aan het roken zijn. Ik zeg alleen maar vriendelijk hallo. Ze worden dan soms een beetje nerveus, vooral als hun sigaret bijna op is. Opeens herinneren ze zich dat ze de peuk netjes kunnen uitdrukken en in de prullenbak gooien. Soms zeggen ze zelfs dat ze dat altijd al doen. Hoe dan ook, ik bedank ze vriendelijk.
 
-Happy picking all!
+Er was een periode waarin ik niet langs afval kon lopen zonder het op te rapen. Een dwangmatige en obsessieve gedraging begon de kop op te steken. Ik kon dat vrij snel oplossen door het in perspectief te plaatsen. Het is soms oké om afval te laten liggen (alleen als de wind er geen grip op heeft) en te beseffen dat je niet de enige afvalraper bent.
+
+Ik ben al zo’n 4 tot 5 jaar actief in een buurtopruimgroep. We deden maandelijks opruimacties. Het was mooi om te zien hoe mensen hun schaamte overwonnen door samen afval te rapen.
+
+Mensen zijn erg gevoelig voor gemak. Voor de "To Go"-cultuur miste niemand het, niemand vroeg erom. Tegenwoordig lijken sommige mensen niet meer zonder te kunnen. We kunnen die cultuur niet meer stoppen — en dat is één van de grootste oorzaken van zwerfafval. We kunnen alleen proberen de aanbieders van ToGo-producten te overtuigen of te verplichten om echt duurzame materialen te gebruiken of minder materiaal te gebruiken. Soms is er wetgeving nodig om dat doel te bereiken.
+
+Een andere manier om gedrag te veranderen is om afval een geldwaarde te geven, zoals statiegeld op blikjes en flesjes. Voor mij maakt dat verschil, want er ligt letterlijk geld op straat. Mensen gooien nog steeds blikjes en flesjes weg, want €0,15 is niets voor hen. Laatst vond ik in één keer 100 bierflesjes van €0,10 per stuk. Gemiddeld verzamelen mijn vrouw en ik zo’n 1 tot 2 euro per week.
+
+Films kunnen mensen beïnvloeden. Dus nog iets om over na te denken: Heb je ooit een film gezien waarin iemand zijn sigaret dooft en die netjes in een afvalbak gooit? Waarschijnlijk niet. Misschien is dat één van de redenen waarom je wereldwijd zoveel peuken op straat vindt.
+
+Veel opruimplezier allemaal!
 
 Axel
