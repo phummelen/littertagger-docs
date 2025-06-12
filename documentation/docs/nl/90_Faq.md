@@ -29,10 +29,10 @@ De GPS-locatie.
 
 Er kunnen verschillende redenen zijn, en we gaan er een aantal doorlopen:
 
-- Je telefoon is ingesteld om géén GPS-locatie op te slaan. In dat geval kunnen we niet zien waar de foto is genomen, en kunnen we de stip niet op de kaart tonen.
+- Je telefoon is ingesteld om géén GPS-locatie op te slaan. In dat geval kunnen we niet zien waar de foto is genomen, en kunnen we de stip niet op de kaart tonen. (In dat geval tonen we hem overigens wel, maar in de buurt van de Bermuda-driehoek...)
 - Je telefoon is wel ingesteld om GPS-locatie op te slaan, maar deze is ergens verloren gegaan. Dit kan verschillende oorzaken hebben:
   - Je hebt de foto via een programma naar een andere locatie gestuurd voordat je deze uploadde, bijvoorbeeld via WhatsApp. WhatsApp verwijdert de GPS-locatie.
-  - Je hebt de foto via je telefoon geüpload. Sommige gebruikers ervaren problemen bij het uploaden op deze manier. Soms heeft de foto wel een GPS-locatie, maar blijkt deze verloren te gaan na het uploaden. Andere gebruikers hebben dit probleem niet, dus we zijn nog niet zeker van de oorzaak. (Browser-versie? Telefoonversie?)
+  - Je hebt de foto via je telefoon geüpload. Sommige gebruikers ervaren problemen bij het uploaden op deze manier. Soms heeft de foto wel een GPS-locatie, maar blijkt deze verloren te gaan na het uploaden. Niet alle gebruikers ervaren echter dit probleem, zie hieronder wat je eventueel kan proberen.
 
 ### Wat kan ik doen om dit op te lossen?
 
@@ -40,6 +40,15 @@ De manier die bij de meeste gebruikers werkt, is om de foto’s van je telefoon 
 
 Dit kan door je telefoon aan te sluiten op je computer en de foto’s te kopiëren/verplaatsen, of misschien kun je ze vanaf een cloud-back-up kopiëren, zonder je telefoon aan te sluiten. 
 
-Zodra de foto’s op je computer staan, kun je proberen ze opnieuw te uploaden. De kans is groot dat je nu wel de stip op de kaart ziet.
+Zodra de foto’s op je computer staan, kun je proberen ze opnieuw te uploaden, via de computer. De kans is groot dat je nu wel de stip op de kaart ziet, en bovendien kan je op deze manier veel (denk aan 200) foto's tegelijk uploaden.
 
-Als dat niet het geval is, neem dan contact met ons op zodat we je verder kunnen helpen.
+Een andere reden kan zijn dat je gebruik maakt van Android en daarbij zijn er blijkbaar 2 manieren om de foto te uploaden.
+De meest normale manier is dan:
+
+Telefoon > Upload > Browse > kies bestand > selecteer foto's of albums en kies de fotos. In dat geval blijkt GPS te verdwijnen.
+
+Het alternatief is:
+
+Telefoon > Upload > Browse > bovenin de 3 verticale puntjes > Browsen. De foto's die je nu ziet, hebben 4 naar buiten wijzende pijltjes als ze GPS hebben. Als je ze hier selecteert, lijkt GPS wel door te komen en komen ze dus ook op de kaart, én zie je een extra icoontje op je foto bij 'mijn foto's', ten teken dat ze GPS-gegevens hebben.
+
+Als dat allemaal nog niet werkt, neem dan contact met ons op zodat we je verder kunnen helpen.

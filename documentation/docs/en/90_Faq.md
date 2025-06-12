@@ -28,10 +28,10 @@ First of all, thanks for joining and giving it a try! You’re almost there, but
 
 This can have several reasons, and we will go through some of them:
 
-- Your phone is set **not** to store GPS-location. In that case, we can't tell where the picture was taken, and we cannot show the dot on the map.
+- Your phone is set **not** to store GPS-location. In that case, we can't tell where the picture was taken, and we cannot show the dot on the map. We do show the picture though, but in the area of the Bermuda Triangle.
 - Your phone is set to store GPS-location, but it is lost somewhere. There can be several reasons for this:
   - You sent the picture via a program to another location before upload (e.g., via WhatsApp). WhatsApp removes GPS-locations.
-  - You uploaded the picture via your phone. Some users have issues doing it this way. Somehow, the picture has a GPS-location, but after uploading, we see that the GPS is lost somewhere. However, some other users don’t experience this problem, so we’re not sure yet what is causing it (browser version? Phone version?).
+  - You uploaded the picture via your phone. Some users have issues doing it this way. Somehow, the picture has a GPS-location, but after uploading, we see that the GPS is lost. However, not all users experience this problem, see below what you can try to do to solve it.
 
 ### What can I do to solve it?
 
@@ -39,6 +39,15 @@ The method that seems to work for all users is to move the pictures from the pho
 
 This can be done by connecting your phone to your computer and copying the photos, or by copying them from a cloud backup without even having to connect the phone. 
 
-Once they’re on the computer, try uploading some of them. There’s a good chance you will now see the dot on the map.
+Once they’re on the computer, try uploading some of them via the computer. There’s a good chance you will now see the dot on the map. Besides, by working this way, you can upload many (think in the area of 200) pictures at the same time.
 
-If not, contact us so we can help you further.
+Another reason can be that you are using Android and there are 2 ways to upload pictures.
+The mostly used method is:
+
+Phone > Upload > Browse > choose file > select photos or albums and select the photos. In that case GPS seems to get lost.
+
+The alternative is:
+
+Phone > Upload > Browse > the 3 vertical dots in the top-right of the screen > Browse. The pictures that are shown now have 4 arrows pointing outwards, indicating that they have GPS. If you select the pictures from here, GPS seems to be kept, so they will show on the map ánd you will see an extra icon on the photo in 'my photos', indicating that it has GPS.
+
+If all this is still not working, please contact us so we can try to help you further.
