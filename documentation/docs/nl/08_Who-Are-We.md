@@ -91,3 +91,20 @@ Films kunnen mensen beïnvloeden. Dus nog iets om over na te denken: Heb je ooit
 Veel opruimplezier allemaal!
 
 Axel
+
+## Peter
+
+![foto van Peter](../assets/images/whoarewe/Peter.jpg)
+
+Ik begin ‘s zomers meestal tussen 5.30 en 6 uur; in de winter hangt het ervan af wanneer het licht wordt.
+
+Ik start altijd op het sportpark: een rondje van ongeveer 3.500 meter. Dat levert elke dag zo’n één à twee vuilniszakken op.
+
+In het park zit een lbo-school, en de parkeerplaats is een echte hangplek, met flink wat zwerfvuil. Vaak heb ik dan al 150 tot 250 foto’s gemaakt.
+
+Na het ontbijt ga ik andere routes lopen, het liefst in de natuur. Maar vanmorgen werd het langs de Oude Maas alweer te druk, dus dan ga ik langzaam richting huis.
+
+Het gekste wat ik ooit gevonden heb? Langs de Oude Maas, in de grienden, vond ik een compleet vrouwelijk siliconenonderstel, billen en vagina. Bizar.
+
+Ik ben hier een paar jaar geleden mee begonnen, omdat het sportpark er niet uitzag. Daarvoor was ik al een aantal jaar bezig met magneetvissen en metaaldetectie, maar die groep viel uit elkaar. Zwerfvuil opruimen kun je lekker in je eentje doen, gewoon in de buurt.
+Mijn vrouw gaat af en toe mee als we naar de Maasvlakte of de Oude Maas gaan, maar verder doe ik het vaak alleen. Al loop ik ook weleens met andere groepen mee, waarvan Zwerfie de grootste is. Afgelopen zaterdag stonden we nog met een stand over zwerfvuil in het centrum van Rotterdam. Deze keer waren er weinig of geen kinderen, maar wel veel belangstelling van ander publiek.
