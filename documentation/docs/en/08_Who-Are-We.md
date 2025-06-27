@@ -89,3 +89,21 @@ Movies can influence people. So there is one more thing to think about. Have you
 Happy picking all!
 
 Axel
+
+## Peter
+
+![picture of Peter](../assets/images/whoarewe/Peter.png)
+
+In summer, I usually start between 5:30 and 6:00 a.m.; in winter, it depends on when it gets light.
+
+I always begin at the sports park, a walk of about 3.5 kilometers. That usually fills one or two bags of litter each day.
+
+There’s a school in the park, and the parking lot is a popular hangout spot, and a major source of litter. By then, I’ve often already taken 150 to 250 photos.
+
+After breakfast, I go out again on different routes, preferably in nature. But this morning, the Old Meuse river area got too busy again, so I headed back home.
+
+The strangest thing I’ve ever found? In the willow forests along the Old Meuse, I once came across a full silicone lower body — buttocks and vagina. Unbelievable.
+
+I started doing this a few years ago because the sports park looked terrible. I had already spent several years magnet fishing and using a metal detector, but that group fell apart. Cleaning up litter is something you can easily do on your own, close to home.
+
+My wife sometimes joins me when we head to the Maasvlakte or the Old Meuse, but most of the time I go alone. I do occasionally join other groups, Zwerfie Rotterdam is the biggest one. Last Saturday, we had a booth about litter in downtown Rotterdam. There weren’t many kids this time, but there was a lot of interest from other people.
