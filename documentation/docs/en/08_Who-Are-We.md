@@ -92,7 +92,7 @@ Axel
 
 ## Peter
 
-![picture of Peter](../assets/images/whoarewe/Peter.jpg)
+![picture of Peter](../assets/images/whoarewe/Peter.png)
 
 In summer, I usually start between 5:30 and 6:00 a.m.; in winter, it depends on when it gets light.
 
