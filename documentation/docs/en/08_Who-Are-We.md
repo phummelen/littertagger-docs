@@ -106,4 +106,4 @@ The strangest thing I’ve ever found? In the willow forests along the Old Meuse
 
 I started doing this a few years ago because the sports park looked terrible. I had already spent several years magnet fishing and using a metal detector, but that group fell apart. Cleaning up litter is something you can easily do on your own, close to home.
 
-My wife sometimes joins me when we head to the Maasvlakte or the Old Meuse, but most of the time I go alone. I do occasionally join other groups, Zwerfie is the biggest one. Last Saturday, we had a booth about litter in downtown Rotterdam. There weren’t many kids this time, but there was a lot of interest from other people.
+My wife sometimes joins me when we head to the Maasvlakte or the Old Meuse, but most of the time I go alone. I do occasionally join other groups, Zwerfie Rotterdam is the biggest one. Last Saturday, we had a booth about litter in downtown Rotterdam. There weren’t many kids this time, but there was a lot of interest from other people.
