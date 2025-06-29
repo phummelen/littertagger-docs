@@ -42,6 +42,21 @@ Ik ben een software-engineer met een passie voor softwarearchitectuur en werkwij
 
 En dit zijn enkele van onze gebruikers:
 
+
+## In Memoriam: Frank Ogiamien
+
+![picture of Frank](../assets/images/whoarewe/Frank_0720_BW.jpg)
+![picture of Frank](../assets/images/whoarewe/Frank_0720b_BW.jpg)
+
+Frank was een van onze eerste LitterApp-gebruikers en we zijn erg blij dat we hem hebben mogen ontmoeten. Frank was dol op zwerfvuil en het creëren van data daarover. Hij was vaak aanwezig bij onze bijeenkomsten, altijd vriendelijk, altijd vrolijk, bescheiden maar met zoveel ideeën. Het was altijd fijn om hem erbij te hebben.
+
+Helaas ging zijn gezondheid in 2024 dramatisch achteruit en begin december gebeurde het onvermijdelijke.
+
+Hij was door zovelen geliefd en zal door nog meer mensen gemist worden.
+
+Bedankt voor je inspiratie Frank, bedankt dat je het verschil maakte!
+
+
 ## Axel
 
 ![foto van Axel](../assets/images/whoarewe/Axel.jpg)
