@@ -46,6 +46,21 @@ I'm a software engineer with a passion for software architecture and programming
 
 But apart from these builders, we also have users and here are some of them:
 
+
+## In Memoriam: Frank Ogiamien
+
+![picture of Frank](../assets/images/whoarewe/Frank_0720_BW.jpg)
+![picture of Frank](../assets/images/whoarewe/Frank_0720b_BW.jpg)
+
+Frank was one of our first LitterApp-users and we are very happy that we have had the pleasure of meeting him. Frank loved litter and creating data about it, he was often in our meetups, always friendly, always smiling, modest but with so many ideas, it was always great having him around.
+
+Unfortunately in 2024 his health detereorated dramatically and in the beginning of December, the inevitable happened.
+
+He was loved by so many and will be missed by even more.
+
+Thanks for your inspiration Frank, thanks for making a difference!
+
+
 ## Axel
 
 ![picture of Axel](../assets/images/whoarewe/Axel.jpg)
