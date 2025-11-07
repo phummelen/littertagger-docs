@@ -123,3 +123,21 @@ Het gekste wat ik ooit gevonden heb? Langs de Oude Maas, in de grienden, vond ik
 
 Ik ben hier een paar jaar geleden mee begonnen, omdat het sportpark er niet uitzag. Daarvoor was ik al een aantal jaar bezig met magneetvissen en metaaldetectie, maar die groep viel uit elkaar. Zwerfvuil opruimen kun je lekker in je eentje doen, gewoon in de buurt.
 Mijn vrouw gaat af en toe mee als we naar de Maasvlakte of de Oude Maas gaan, maar verder doe ik het vaak alleen. Al loop ik ook weleens met andere groepen mee, waarvan Zwerfie Rotterdam de grootste is. Afgelopen zaterdag stonden we nog met een stand over zwerfvuil in het centrum van Rotterdam. Deze keer waren er weinig of geen kinderen, maar wel veel belangstelling van ander publiek.
+
+## Luke
+
+![picture of Luke](../assets/images/whoarewe/Luke.png)
+
+Luke MacDonald: De man achter de #WorldLitterRun-beweging
+
+Ken je die persoon die een probleem ziet en in plaats van er alleen maar over te praten, er echt iets aan doet? Dat is Luke MacDonald in één zin. Al 45 jaar is hij intensief betrokken bij de sportartikelenwereld, waaronder 18 jaar als partner bij Aerobics First – maar tegenwoordig zie je hem eerder afval opruimen dan hardloopschoenen verkopen.
+
+Luke’s reis naar het wereld van afvalopruiming begon met een eenvoudige redenering: traditionele manieren om gemeenschappen schoon te maken werkten niet voor iedereen. Terwijl anderen cheques uitschreven (wat geweldig is!), dacht Luke na over hoe je iedereen kunt betrekken, ongeacht het saldo op de bankrekening.
+
+Zo ontstond de #WorldLitterRun – een beweging die gewone mensen verandert in opruimhelden. Het concept is prachtig simpel: je raapt afval op, en die fysieke actie ontgrendelt bedrijfsdonaties aan goede doelen. Er is geen geld van jou nodig – alleen jouw tijd en inzet.
+
+Wat Luke’s aanpak anders maakt, is zijn diepe overtuiging in wat hij “democratisering van zweetfilantropie” noemt – dat betekent dat iedereen een filantroop kan zijn via zweet en inspanning, niet alleen via de portemonnee. Wanneer je deelneemt aan en #WorldLitterRun‑evenement, ben je niet alleen bezig met opruimen – je financiert direct positieve verandering door je acties.
+
+Luke is een wekelijkse gebruiker en supporter van LitterApp geworden omdat het de perfecte tool is om deze visie te realiseren. Het helpt de impact te volgen, gemeenschappen te verbinden en te bewijzen dat die kleine acties – één stuk afval tegelijk – echt kunnen uitgroeien tot enorme veranderingen.
+
+Dus als je iemand ziet met een grijper en een brede glimlach, afval oppikt en het er zelfs leuk uitziet – dat zou Luke kunnen zijn. Hij is het levend bewijs dat onze wereld opruimen geen karwei hoeft te zijn; het kan een beweging worden waaraan iedereen kan deelnemen.
