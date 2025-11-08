@@ -16,14 +16,11 @@ I firmly believe every small effort helps make the world a better place. I’m p
 
 Feel free to reach out if you have any questions!
 
-
-
-
 ## Pieter Jan Hummelen
 
 ![picture of Pieter Jan Hummelen](../assets/images/whoarewe/PieterJanHummelen.jpg)
 
-Walking with my dog, I was frustrated about the litter I found in my neighbourhood.
+Walking with my dog (mainly in the Netherlands), I was frustrated about the litter I found in my neighbourhood.
 Considering our neighbourhood as an extension of our garden, I started to clean up.
 Inspired by different persons, I started making photos of litter and collecting data in 2017.
 
@@ -36,7 +33,6 @@ One of my hobbies is also (speed-) road cycling. When I'm on my bike, I stop onl
 
 **One piece at the time** is a slogan I've heared more times ... and my litter picking is an daily addiction to me nowdays!
 
-
 ## Geni Jaho
 
 ![picture of Geni Jaho](../assets/images/whoarewe/GeniJaho.jpg)
@@ -46,20 +42,18 @@ I'm a software engineer with a passion for software architecture and programming
 
 But apart from these builders, we also have users and here are some of them:
 
-
 ## In Memoriam: Frank Ogiamien
 
 ![picture of Frank](../assets/images/whoarewe/Frank_0720_BW.jpg)
 ![picture of Frank](../assets/images/whoarewe/Frank_0720b_BW.jpg)
 
-Frank was one of our first LitterApp-users and we are very happy that we have had the pleasure of meeting him. Frank loved litter and creating data about it, he was often in our meetups, always friendly, always smiling, modest but with so many ideas, it was always great having him around.
+Frank (from Canada) was one of our first LitterApp-users and we are very happy that we have had the pleasure of meeting him. Frank loved litter and creating data about it, he was often in our meetups, always friendly, always smiling, modest but with so many ideas, it was always great having him around.
 
 Unfortunately in 2024 his health detereorated dramatically and in the beginning of December, the inevitable happened.
 
 He was loved by so many and will be missed by even more.
 
 Thanks for your inspiration Frank, thanks for making a difference!
-
 
 ## Axel
 
@@ -122,3 +116,15 @@ The strangest thing I’ve ever found? In the willow forests along the Old Meuse
 I started doing this a few years ago because the sports park looked terrible. I had already spent several years magnet fishing and using a metal detector, but that group fell apart. Cleaning up litter is something you can easily do on your own, close to home.
 
 My wife sometimes joins me when we head to the Maasvlakte or the Old Meuse, but most of the time I go alone. I do occasionally join other groups, Zwerfie Rotterdam is the biggest one. Last Saturday, we had a booth about litter in downtown Rotterdam. There weren’t many kids this time, but there was a lot of interest from other people.
+
+## Luke
+
+![picture of Luke](../assets/images/whoarewe/Luke.png)
+
+Luke MacDonald (Canada): The Man Behind the #WorldLitterRun Movement
+You know that person who sees a problem and instead of just talking about it, actually does something? That's Luke MacDonald in a nutshell. For 45 years, he's been deeply involved in the sporting goods world, including 18 years as a partner at Aerobics First - but these days, you're more likely to find him picking up litter than selling running shoes.
+Luke's journey into the world of litter cleaning started with a simple realization: traditional approaches to cleaning up communities weren't working for everyone. While others were writing checks (which is great!), Luke was thinking about how to get everyone involved, regardless of their bank account balance.
+That's how the #WorldLitterRun was born - a movement that turns everyday people into cleanup heroes. The concept is beautifully simple: you pick up litter, and that physical action unlocks corporate donations to charities. No money required from you - just your time and effort.
+What makes Luke's approach different is his deep belief in what he calls "democratizing sweatanthropy" - meaning everyone can be a philanthropist through their sweat and effort, not just their wallet. When you join a #WorldLitterRun event, you're not just cleaning up - you're directly funding positive change through your actions.
+Luke has become a weekly user and supporter of LitterApp because it's the perfect tool to power this vision. It helps track the impact, connect communities, and prove that those small actions - one piece of litter at a time - really do add up to massive change.
+So if you see someone out there with a grabber and a big smile, picking up trash and actually making it look fun - that might be Luke. He's living proof that cleaning up our world doesn't have to be a chore; it can be a movement that everyone can join.

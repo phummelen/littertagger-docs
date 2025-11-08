@@ -20,7 +20,7 @@ Als je vragen hebt, neem dan gerust contact met me op!
 
 ## Pieter Jan Hummelen
 
-Tijdens mijn wandelingen met mijn hond raakte ik gefrustreerd door het afval dat ik in mijn buurt aantrof.
+Tijdens mijn wandelingen -vooral in Nederland- met mijn hond raakte ik gefrustreerd door het afval dat ik in mijn buurt aantrof.
 Ik zie de buurt als een verlengstuk van onze tuin, dus begon ik met opruimen.
 Geïnspireerd door anderen, begon ik in 2017 met het maken van foto's van afval en het verzamelen van gegevens.
 
@@ -48,7 +48,7 @@ En dit zijn enkele van onze gebruikers:
 ![picture of Frank](../assets/images/whoarewe/Frank_0720_BW.jpg)
 ![picture of Frank](../assets/images/whoarewe/Frank_0720b_BW.jpg)
 
-Frank was een van onze eerste LitterApp-gebruikers en we zijn erg blij dat we hem hebben mogen ontmoeten. Frank was dol op zwerfvuil en het creëren van data daarover. Hij was vaak aanwezig bij onze bijeenkomsten, altijd vriendelijk, altijd vrolijk, bescheiden maar met zoveel ideeën. Het was altijd fijn om hem erbij te hebben.
+Frank (uit Canada) was een van onze eerste LitterApp-gebruikers en we zijn erg blij dat we hem hebben mogen ontmoeten. Frank was dol op zwerfvuil en het creëren van data daarover. Hij was vaak aanwezig bij onze bijeenkomsten, altijd vriendelijk, altijd vrolijk, bescheiden maar met zoveel ideeën. Het was altijd fijn om hem erbij te hebben.
 
 Helaas ging zijn gezondheid in 2024 dramatisch achteruit en begin december gebeurde het onvermijdelijke.
 
@@ -123,3 +123,21 @@ Het gekste wat ik ooit gevonden heb? Langs de Oude Maas, in de grienden, vond ik
 
 Ik ben hier een paar jaar geleden mee begonnen, omdat het sportpark er niet uitzag. Daarvoor was ik al een aantal jaar bezig met magneetvissen en metaaldetectie, maar die groep viel uit elkaar. Zwerfvuil opruimen kun je lekker in je eentje doen, gewoon in de buurt.
 Mijn vrouw gaat af en toe mee als we naar de Maasvlakte of de Oude Maas gaan, maar verder doe ik het vaak alleen. Al loop ik ook weleens met andere groepen mee, waarvan Zwerfie Rotterdam de grootste is. Afgelopen zaterdag stonden we nog met een stand over zwerfvuil in het centrum van Rotterdam. Deze keer waren er weinig of geen kinderen, maar wel veel belangstelling van ander publiek.
+
+## Luke
+
+![picture of Luke](../assets/images/whoarewe/Luke.png)
+
+Luke MacDonald (Canada): De man achter de #WorldLitterRun-beweging
+
+Ken je die persoon die een probleem ziet en in plaats van er alleen maar over te praten, er echt iets aan doet? Dat is Luke MacDonald in één zin. Al 45 jaar is hij intensief betrokken bij de sportartikelenwereld, waaronder 18 jaar als partner bij Aerobics First – maar tegenwoordig zie je hem eerder afval opruimen dan hardloopschoenen verkopen.
+
+Luke’s reis naar het wereld van afvalopruiming begon met een eenvoudige redenering: traditionele manieren om gemeenschappen schoon te maken werkten niet voor iedereen. Terwijl anderen cheques uitschreven (wat geweldig is!), dacht Luke na over hoe je iedereen kunt betrekken, ongeacht het saldo op de bankrekening.
+
+Zo ontstond de #WorldLitterRun – een beweging die gewone mensen verandert in opruimhelden. Het concept is prachtig simpel: je raapt afval op, en die fysieke actie ontgrendelt bedrijfsdonaties aan goede doelen. Er is geen geld van jou nodig – alleen jouw tijd en inzet.
+
+Wat Luke’s aanpak anders maakt, is zijn diepe overtuiging in wat hij “democratisering van zweetfilantropie” noemt – dat betekent dat iedereen een filantroop kan zijn via zweet en inspanning, niet alleen via de portemonnee. Wanneer je deelneemt aan een #WorldLitterRun‑evenement, ben je niet alleen bezig met opruimen – je financiert direct positieve verandering door je acties.
+
+Luke is een wekelijkse gebruiker en supporter van LitterApp geworden omdat het de perfecte tool is om deze visie te realiseren. Het helpt de impact te volgen, gemeenschappen te verbinden en te bewijzen dat die kleine acties – één stuk afval tegelijk – echt kunnen uitgroeien tot enorme veranderingen.
+
+Dus als je iemand ziet met een grijper en een brede glimlach, die afval oppikt en het er zelfs leuk uit laat zien – dat zou Luke kunnen zijn. Hij is het levend bewijs dat onze wereld opruimen geen karwei hoeft te zijn; het kan een beweging worden waaraan iedereen kan deelnemen.
