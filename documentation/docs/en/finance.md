@@ -67,11 +67,12 @@ At this stage we have decided not to develop separate native applications for iO
 |Device‑aware Laravel site|Our Laravel‑powered website is already responsive and works well on modern smartphones and tablets. Users can access all core features through the browser without the overhead of a dedicated app.|
 |Resource focus|	By concentrating on the web platform we can allocate volunteer time and any sponsorship funds to higher‑impact areas such as server hosting, security certificates, and new feature development.|
 
-We are exploring this option and will update the community once a prototype is ready.
+We keep the mobile version in mind, where we mainly focus on the web version.
+It's also an option to get our backend integrated on a mobile application of a third party. We are able to facilitate this already.
 
 **What this means for users**
 
- - **Full functionality** is available via the responsive website at [your‑domain.com] on any mobile browser.
+ - **Full functionality** is available via the responsive website at litterapp.net on any mobile browser.
  - **No app download** is required, so users avoid extra storage use and update prompts.
  - **Future‑ready** – Should the project grow or a need arise for native capabilities (offline maps, push notifications, etc.), we can revisit the app decision and seek dedicated sponsorship for that effort.
 
