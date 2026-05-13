@@ -153,7 +153,7 @@ Hij staat bekend om het opruimen na ernstige auto-ongelukken met aanzienlijke sc
 
 Een andere specialiteit van Zwerfelaar is het opruimen van piepschuim: hij stopt om het op te rapen wanneer hij de tijd heeft en het veilig kan doen.
 
-Daarnaast werkt Frans momenteel aan een motie voor zijn lokale gemeenteraad (die hij later hoopt uit te breiden naar andere gemeenten) gericht op het aanpakken, en hopelijk voorkomen, van zwerfafval afkomstig van bouw- en slooplocaties.
+Frans werkt momenteel aan een motie voor zijn lokale gemeenteraad. Het doel is om zwerfafval van bouw- en slooplocaties aan te pakken en te voorkomen. Hij hoopt dit initiatief later uit te breiden naar andere gemeenten.
 
 Frans heeft zijn lokale gemeenschap betrokken, maar omdat hij bijna dagelijks geconfronteerd wordt met wijdverspreide sigarettenfiltervervuiling, wilde hij meer doen.
 

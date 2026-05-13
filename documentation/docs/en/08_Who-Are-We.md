@@ -145,7 +145,7 @@ He is known for cleaning up after serious car accidents involving significant da
 
 Another specialty of Zwerfelaar is cleaning up styrofoam, he stops to collect it whenever he has the time and can do so safely.
 
-Furthermore, Frans is currently working on a motion for his local municipal council (which he hopes to extend to other municipalities later on) aimed at addressing — and hopefully preventing — litter originating from construction and demolition sites.
+Frans is currently working on a motion for his local municipal council. It targets litter from construction and demolition sites. His goal is to both address and prevent this issue. He also hopes to expand the motion to other municipalities in the future.
 
 Frans has involved his local community, but being confronted with widespread cigarette filter pollution almost daily he wanted to do more.
 And he did! Frans became an active part of the Plastic Peuken Collectief, calling on municipalities to support a cigarette filter ban.
