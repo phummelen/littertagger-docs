@@ -119,7 +119,7 @@ My wife sometimes joins me when we head to the Maasvlakte or the Old Meuse, but 
 
 ## Luke
 
-![picture of Luke](../assets/images/whoarewe/Luke.png)
+![picture of Luke](../assets/images/whoarewe/Luke.jpg)
 
 Luke MacDonald (Canada): The Man Behind the #WorldLitterRun Movement
 
@@ -137,7 +137,7 @@ So if you see someone out there with a grabber and a big smile, picking up trash
 
 ## Frans
 
-![picture of Frans](../assets/images/whoarewe/Frans.png)
+![picture of Frans](../assets/images/whoarewe/Frans.JPG)
 
 Retired, Frans regularly collects litter, under his ‘stage name’ Zwerfelaar.
 
