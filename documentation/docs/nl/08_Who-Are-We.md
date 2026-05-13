@@ -2,7 +2,7 @@
 
 ## Fred Steenbergen
 
-Dit zijn de 3 makers van LitterApp:
+Dit zijn de 3 makers van LitterApp, en enkele van de gebruikers:
 
 ![foto van Fred Steenbergen](../assets/images/whoarewe/FredSteenbergen.jpg)
 
@@ -126,7 +126,7 @@ Mijn vrouw gaat af en toe mee als we naar de Maasvlakte of de Oude Maas gaan, ma
 
 ## Luke
 
-![picture of Luke](../assets/images/whoarewe/Luke.png)
+![picture of Luke](../assets/images/whoarewe/Luke.jpg)
 
 Luke MacDonald (Canada): De man achter de #WorldLitterRun-beweging
 
@@ -141,3 +141,24 @@ Wat Luke’s aanpak anders maakt, is zijn diepe overtuiging in wat hij “democr
 Luke is een wekelijkse gebruiker en supporter van LitterApp geworden omdat het de perfecte tool is om deze visie te realiseren. Het helpt de impact te volgen, gemeenschappen te verbinden en te bewijzen dat die kleine acties – één stuk afval tegelijk – echt kunnen uitgroeien tot enorme veranderingen.
 
 Dus als je iemand ziet met een grijper en een brede glimlach, die afval oppikt en het er zelfs leuk uit laat zien – dat zou Luke kunnen zijn. Hij is het levend bewijs dat onze wereld opruimen geen karwei hoeft te zijn; het kan een beweging worden waaraan iedereen kan deelnemen.
+
+
+## Frans
+
+![picture of Frans](../assets/images/whoarewe/Frans.JPG)
+
+Als gepensioneerde, ruimt Frans regelmatig afval op onder zijn ‘artiestennaam’ Zwerfelaar.
+
+Hij staat bekend om het opruimen na ernstige auto-ongelukken met aanzienlijke schade. Frans bezoekt de locaties in de dagen erna om de kleinere rommel op te ruimen, het soort afval waar bergingsbedrijven meestal geen tijd voor hebben. Vaak gaat het om meerdere kilo’s afval, met een persoonlijk record van 7,5 kilo.
+
+Een andere specialiteit van Zwerfelaar is het opruimen van piepschuim: hij stopt om het op te rapen wanneer hij de tijd heeft en het veilig kan doen.
+
+Frans werkt momenteel aan een motie voor zijn lokale gemeenteraad. Het doel is om zwerfafval van bouw- en slooplocaties aan te pakken en te voorkomen. Hij hoopt dit initiatief later uit te breiden naar andere gemeenten.
+
+Frans heeft zijn lokale gemeenschap betrokken, maar omdat hij bijna dagelijks geconfronteerd wordt met wijdverspreide sigarettenfiltervervuiling, wilde hij meer doen.
+
+En dat deed hij! Frans werd een actief lid van het Plastic Peuken Collectief en riep gemeenten op om een verbod op sigarettenfilters te steunen.
+
+Sinds januari 2026 is Frans deelnemer van Litterapp.net.
+
+In mei 2026 startte hij zijn YouTube-kanaal Zwerfelaar, met informatieve video’s over zwerfafval.
