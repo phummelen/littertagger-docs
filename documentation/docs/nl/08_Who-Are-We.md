@@ -126,7 +126,7 @@ Mijn vrouw gaat af en toe mee als we naar de Maasvlakte of de Oude Maas gaan, ma
 
 ## Luke
 
-![picture of Luke](../assets/images/whoarewe/Luke.png)
+![picture of Luke](../assets/images/whoarewe/Luke.jpg)
 
 Luke MacDonald (Canada): De man achter de #WorldLitterRun-beweging
 
@@ -145,7 +145,7 @@ Dus als je iemand ziet met een grijper en een brede glimlach, die afval oppikt e
 
 ## Frans
 
-![picture of Frans](../assets/images/whoarewe/Frans.png)
+![picture of Frans](../assets/images/whoarewe/Frans.JPG)
 
 Als gepensioneerde, ruimt Frans regelmatig afval op onder zijn ‘artiestennaam’ Zwerfelaar.
 
