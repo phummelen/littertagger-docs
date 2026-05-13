@@ -1,6 +1,6 @@
 # Who are we?
 
-These are the 3 initiators of LitterApp:
+These are the 3 initiators of LitterApp, and some of its users:
 
 ## Fred Steenbergen
 
@@ -122,9 +122,34 @@ My wife sometimes joins me when we head to the Maasvlakte or the Old Meuse, but 
 ![picture of Luke](../assets/images/whoarewe/Luke.png)
 
 Luke MacDonald (Canada): The Man Behind the #WorldLitterRun Movement
+
 You know that person who sees a problem and instead of just talking about it, actually does something? That's Luke MacDonald in a nutshell. For 45 years, he's been deeply involved in the sporting goods world, including 18 years as a partner at Aerobics First - but these days, you're more likely to find him picking up litter than selling running shoes.
+
 Luke's journey into the world of litter cleaning started with a simple realization: traditional approaches to cleaning up communities weren't working for everyone. While others were writing checks (which is great!), Luke was thinking about how to get everyone involved, regardless of their bank account balance.
+
 That's how the #WorldLitterRun was born - a movement that turns everyday people into cleanup heroes. The concept is beautifully simple: you pick up litter, and that physical action unlocks corporate donations to charities. No money required from you - just your time and effort.
+
 What makes Luke's approach different is his deep belief in what he calls "democratizing sweatanthropy" - meaning everyone can be a philanthropist through their sweat and effort, not just their wallet. When you join a #WorldLitterRun event, you're not just cleaning up - you're directly funding positive change through your actions.
+
 Luke has become a weekly user and supporter of LitterApp because it's the perfect tool to power this vision. It helps track the impact, connect communities, and prove that those small actions - one piece of litter at a time - really do add up to massive change.
+
 So if you see someone out there with a grabber and a big smile, picking up trash and actually making it look fun - that might be Luke. He's living proof that cleaning up our world doesn't have to be a chore; it can be a movement that everyone can join.
+
+## Frans
+
+![picture of Frans](../assets/images/whoarewe/Frans.png)
+
+Retired, Frans regularly collects litter, under his ‘stage name’ Zwerfelaar.
+
+He is known for cleaning up after serious car accidents involving significant damage. Frans visits the sites in the days that follow to clear away the smaller debris — the kind that tow truck operators typically don't have the time to deal with. Quite often, this amounts to several kilograms of waste, with a personal record standing at 7.5 kilograms.
+
+Another specialty of Zwerfelaar is cleaning up styrofoam, he stops to collect it whenever he has the time and can do so safely.
+
+Furthermore, Frans is currently working on a motion for his local municipal council (which he hopes to extend to other municipalities later on) aimed at addressing — and hopefully preventing — litter originating from construction and demolition sites.
+
+Frans has involved his local community, but being confronted with widespread cigarette filter pollution almost daily he wanted to do more.
+And he did! Frans became an active part of the Plastic Peuken Collectief, calling on municipalities to support a cigarette filter ban.
+
+Since January 2026 Frans is a participant of Litterapp.net.
+
+In May 2026, he started his YouTube channel Zwerfelaar, with informative videos about litter.
